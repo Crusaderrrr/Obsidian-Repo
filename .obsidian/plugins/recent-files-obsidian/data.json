@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Test commit and push",
+      "path": "Test commit and push.md"
+    },
+    {
+      "basename": "Special Types",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Special Types.md"
+    },
+    {
       "basename": "Generics ts",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Generics ts.md"
     },
     {
       "basename": "TypeScript",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md"
-    },
-    {
-      "basename": "Special Types",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Special Types.md"
     },
     {
       "basename": "OOP in TS",
@@ -195,10 +199,6 @@
     {
       "basename": "Aristoteles",
       "path": "02 - Studies/Filosofía/Filósofos/Aristoteles.md"
-    },
-    {
-      "basename": "Bookstore Plan",
-      "path": "01 - Areas/02 - Projects/Bookstore/Bookstore Plan.md"
     }
   ],
   "omittedPaths": [],
