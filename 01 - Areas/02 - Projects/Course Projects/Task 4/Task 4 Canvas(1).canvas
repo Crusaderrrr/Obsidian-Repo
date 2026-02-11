@@ -1,0 +1,107 @@
+{
+  "edges": [
+    {
+      "fromNode": "8663dc165cc3a6a7",
+      "fromSide": "right",
+      "id": "1a1747c691d3a87c",
+      "toNode": "e335105e0d893a08",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e335105e0d893a08",
+      "fromSide": "right",
+      "id": "b7b3e9a3af1babd6",
+      "toNode": "9d16cc3dc418a14b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9d16cc3dc418a14b",
+      "fromSide": "bottom",
+      "id": "5cf52ae1ac890445",
+      "toNode": "b4f4a09424ce575c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8663dc165cc3a6a7",
+      "fromSide": "top",
+      "id": "d5e9ec4631cf5e09",
+      "label": "Login request",
+      "toNode": "9d16cc3dc418a14b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9d16cc3dc418a14b",
+      "fromSide": "bottom",
+      "id": "00b8094c3a3ed3fd",
+      "toNode": "b4f4a09424ce575c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b4f4a09424ce575c",
+      "fromSide": "top",
+      "id": "3a7d406af1d819d9",
+      "toNode": "9d16cc3dc418a14b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "9d16cc3dc418a14b",
+      "fromSide": "left",
+      "id": "f72ca2f6a0a4cb27",
+      "toNode": "e335105e0d893a08",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "e335105e0d893a08",
+      "fromSide": "left",
+      "id": "6a9f9c919e9e4cac",
+      "toNode": "8663dc165cc3a6a7",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "5",
+      "height": 80,
+      "id": "8663dc165cc3a6a7",
+      "text": "UI (login page)\n*React JS*\n*Bootstrap css*",
+      "type": "text",
+      "width": 180,
+      "x": -620,
+      "y": -320
+    },
+    {
+      "color": "5",
+      "height": 80,
+      "id": "e335105e0d893a08",
+      "text": "UI (user Table)\n*React JS*\n*Bootstrap css*",
+      "type": "text",
+      "width": 178,
+      "x": -220,
+      "y": -320
+    },
+    {
+      "color": "1",
+      "height": 110,
+      "id": "9d16cc3dc418a14b",
+      "text": "Handling requests (add, delete, block)\n*Express JS* ",
+      "type": "text",
+      "width": 250,
+      "x": 160,
+      "y": -310
+    },
+    {
+      "height": 55,
+      "id": "b4f4a09424ce575c",
+      "text": "Database (storing users)\n*PostgreSQL* ",
+      "type": "text",
+      "width": 250,
+      "x": 164,
+      "y": -17
+    }
+  ]
+}

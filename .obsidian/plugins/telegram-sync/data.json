@@ -1,0 +1,46 @@
+{
+  "botToken": "cc3b458e2eb4446102374a6aeda52f250c3e574b98bbcbb54dda13db1f08854d2f0bf9d6fcc0d4eababa7c239d33e992",
+  "encryptionByPinCode": false,
+  "botTokenEncrypted": true,
+  "deleteMessagesFromTelegram": false,
+  "allowedChats": [
+    "Crusaderrrr"
+  ],
+  "mainDeviceId": "",
+  "pluginVersion": "4.0.0",
+  "telegramSessionType": "bot",
+  "telegramSessionId": 20250428163211316,
+  "betaVersion": "",
+  "connectionStatusIndicatorType": "CONSTANT",
+  "cacheCleanupAtStartup": false,
+  "messageDistributionRules": [
+    {
+      "messageFilterQuery": "{{all}}",
+      "messageFilterConditions": [
+        {
+          "conditionType": "all",
+          "operation": "",
+          "value": ""
+        }
+      ],
+      "templateFilePath": "07 - Templates/Telegram Sync.md",
+      "notePathTemplate": "05 - Telegram/Telegram BOT.md",
+      "filePathTemplate": "05 - Telegram/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
+      "reversedOrder": false,
+      "heading": ""
+    }
+  ],
+  "defaultMessageDelimiter": true,
+  "parallelMessageProcessing": false,
+  "processOldMessages": false,
+  "processOldMessagesSettings": {
+    "lastProcessingDate": 1764163871,
+    "daysLimit": 14,
+    "dialogsLimit": 100,
+    "messagesLimit": 1000,
+    "chatsForSearch": []
+  },
+  "processOtherBotsMessages": false,
+  "retryFailedMessagesProcessing": false,
+  "topicNames": []
+}

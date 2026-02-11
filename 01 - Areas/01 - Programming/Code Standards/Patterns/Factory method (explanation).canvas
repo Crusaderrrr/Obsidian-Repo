@@ -1,0 +1,44 @@
+{
+	"nodes":[
+		{
+			"id":"d77ca700d2fcea41",
+			"type":"text",
+			"text":"Parent class\n\n(The **factory method** is defined here)",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":-100,
+			"y":-380,
+			"width":380,
+			"height":220,
+			"color":"5"
+		},
+		{
+			"id":"d9d34afc2e95bf06",
+			"type":"text",
+			"text":"Child class \n\n(Factory method is implemented here with its logic, like a selection of which pizza object to create, depending on input)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-145,
+			"y":20,
+			"width":470,
+			"height":240,
+			"color":"4"
+		}
+	],
+	"edges":[
+		{
+			"id":"196856320b47c55b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d77ca700d2fcea41",
+			"fromSide":"bottom",
+			"toNode":"d9d34afc2e95bf06",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,1 @@
+1. When the user gets **admin rights**, and he was an author, his author role is deleted or not. Moreover, when this user gets admin the author role is not recoopered. Think of it.

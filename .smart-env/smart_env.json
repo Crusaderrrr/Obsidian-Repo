@@ -1,0 +1,52 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "openai",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "TaylorAI/bge-micro-v2": {},
+      "openai": {
+        "model_key": "text-embedding-3-small",
+        "api_key": "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"
+      }
+    }
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "results_limit": "20"
+  },
+  "smart_notices": {
+    "muted": {
+      "done_import": true,
+      "embedding_complete": true
+    }
+  },
+  "excluded_headings": "",
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "openai",
+      "openai": {
+        "model_key": ""
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "en",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": false
+  }
+}

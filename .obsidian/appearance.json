@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Cupertino",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "custom-background"
+  ],
+  "theme": "system",
+  "accentColor": "#a61c88",
+  "showViewHeader": true,
+  "showRibbon": true
+}

@@ -1,0 +1,553 @@
+{
+  "edges": [
+    {
+      "color": "5",
+      "fromNode": "e763889ef09f1348",
+      "fromSide": "bottom",
+      "id": "c524e278951a05fd",
+      "toNode": "d5ea4a92f2f9badb",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "d5ea4a92f2f9badb",
+      "fromSide": "bottom",
+      "id": "69c739778793f8f2",
+      "toNode": "5a00bc158001fec0",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "5a00bc158001fec0",
+      "fromSide": "left",
+      "id": "de15e111234b1b98",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "d616f61df5362af5",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromNode": "5a00bc158001fec0",
+      "fromSide": "right",
+      "id": "8092f61c7ab2e07a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "23e6e19ad69d3d57",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "5a00bc158001fec0",
+      "fromSide": "right",
+      "id": "dad5f133a1b58da8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "2f156528697686eb",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "d616f61df5362af5",
+      "fromSide": "bottom",
+      "id": "e9db0ef8461f8fff",
+      "toNode": "d73190aa150d2e95",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "d73190aa150d2e95",
+      "fromSide": "bottom",
+      "id": "115e74ec13fc5c85",
+      "toNode": "01e8ade2d55d362f",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromFloating": false,
+      "fromNode": "d73190aa150d2e95",
+      "fromSide": "right",
+      "id": "69c9e8f192acb4b4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "5a00bc158001fec0",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "01e8ade2d55d362f",
+      "fromSide": "right",
+      "id": "f256f010ad09e33b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "5a00bc158001fec0",
+      "toSide": "bottom"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "cff070b9c18845c5",
+      "fromSide": "right",
+      "id": "0b3f0f769fe5caf7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "36fa61f65479277d",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromNode": "e763889ef09f1348",
+      "fromSide": "right",
+      "id": "79f4be02b44f2130",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "cff070b9c18845c5",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "cff070b9c18845c5",
+      "fromSide": "top",
+      "id": "e31a01b9aa0b087a",
+      "label": "Users Query",
+      "styleAttributes": {
+        "arrow": null,
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "359f647fda54a179",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "62b85c6069757a24",
+      "fromSide": "right",
+      "id": "283e5cd8546593bd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "36fa61f65479277d",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "e763889ef09f1348",
+      "fromSide": "right",
+      "id": "e25d68fe76b4fda1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "62b85c6069757a24",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "359f647fda54a179",
+      "fromSide": "bottom",
+      "id": "a64c34d29e12a2c5",
+      "label": "Users Query",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "62b85c6069757a24",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "d5ea4a92f2f9badb",
+      "fromSide": "right",
+      "id": "10d37165d8862f44",
+      "styleAttributes": {
+        "arrow": null,
+        "pathfindingMethod": "direct"
+      },
+      "toFloating": false,
+      "toNode": "b20c3f35e1f3565d",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "d5ea4a92f2f9badb",
+      "fromSide": "right",
+      "id": "39e99811fd403382",
+      "styleAttributes": {
+        "arrow": null,
+        "pathfindingMethod": "direct"
+      },
+      "toFloating": false,
+      "toNode": "a86b1fb8185a7273",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "b20c3f35e1f3565d",
+      "fromSide": "right",
+      "id": "9471651dae8fe855",
+      "label": "Lates Templates Query",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "822cf087b727203b",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "a86b1fb8185a7273",
+      "fromSide": "right",
+      "id": "34822a8faceca98b",
+      "label": "Tags Query",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "dcdf4ff00bbbdf00",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromNode": "2f156528697686eb",
+      "fromSide": "bottom",
+      "id": "7640dbafd9509944",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "b8786fcce0550b97",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromNode": "b8786fcce0550b97",
+      "fromSide": "right",
+      "id": "decf1e4b92620f85",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "ffd8a3aa94500f52",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "b8786fcce0550b97",
+      "fromSide": "right",
+      "id": "315e26e8f95eb34f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "ceec910a8afe3fe0",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromFloating": false,
+      "fromNode": "b8786fcce0550b97",
+      "fromSide": "top",
+      "id": "66f7601678a4c53c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "359f647fda54a179",
+      "toSide": "bottom"
+    },
+    {
+      "color": "1",
+      "fromFloating": false,
+      "fromNode": "2f156528697686eb",
+      "fromSide": "bottom",
+      "id": "36889f937d4acc84",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toFloating": false,
+      "toNode": "f4c2322f9eb628a9",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "arrow",
+      "fromNode": "f4c2322f9eb628a9",
+      "fromSide": "top",
+      "id": "953aaa0deaf4d732",
+      "styleAttributes": {
+        "pathfindingMethod": "direct"
+      },
+      "toFloating": false,
+      "toNode": "822cf087b727203b",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "5",
+      "height": 2800,
+      "id": "048cf4456a699338",
+      "label": "UI (client part)",
+      "type": "group",
+      "width": 2160,
+      "x": -1120,
+      "y": -1440
+    },
+    {
+      "height": 328,
+      "id": "2f156528697686eb",
+      "text": "**Admin Page** (admin only)\n*Navbar*\n\n*Page Content*:\n- List of user with delete, block / unblock buttons (sort and search)\n- On clicking the user -> redirects to the  user's templates and forms page (delete, edit, create)\n- Admin can delete himself",
+      "type": "text",
+      "width": 386,
+      "x": 540,
+      "y": -239
+    },
+    {
+      "height": 240,
+      "id": "23e6e19ad69d3d57",
+      "text": "**Search Result Page**\n*Navbar*:\n- Sign Up button (in guest mode)\n\n*Page content*:\nList of all the templates matching with search query or a tag clicked",
+      "type": "text",
+      "width": 327,
+      "x": 0,
+      "y": -195
+    },
+    {
+      "height": 120,
+      "id": "dcdf4ff00bbbdf00",
+      "styleAttributes": {
+        "shape": "database"
+      },
+      "text": "**Tags** \nStores tags for templates (for tag cloud).",
+      "type": "text",
+      "width": 260,
+      "x": 2870,
+      "y": -15
+    },
+    {
+      "height": 120,
+      "id": "822cf087b727203b",
+      "styleAttributes": {
+        "shape": "database"
+      },
+      "text": "**Templates**\nStores each template with all its atributes ",
+      "type": "text",
+      "width": 260,
+      "x": 2870,
+      "y": -280
+    },
+    {
+      "height": 160,
+      "id": "ceec910a8afe3fe0",
+      "styleAttributes": {
+      },
+      "text": "**Admin** (Middleware)\n\nUsed for checking if authenticated user has *Admin role* ",
+      "type": "text",
+      "width": 280,
+      "x": 2202,
+      "y": 600
+    },
+    {
+      "height": 180,
+      "id": "ffd8a3aa94500f52",
+      "styleAttributes": {
+      },
+      "text": "**Authentication** (Middleware)\n\nUsed for check if user is logged in (authenticated) before allowing access to a certain routes or resources.",
+      "type": "text",
+      "width": 280,
+      "x": 2202,
+      "y": 210
+    },
+    {
+      "file": "01 - Areas/02 - Work/Final Project/API Endpoints.md",
+      "height": 720,
+      "id": "e30572ca1403e80c",
+      "type": "file",
+      "width": 660,
+      "x": 1960,
+      "y": 1120
+    },
+    {
+      "height": 280,
+      "id": "b8786fcce0550b97",
+      "styleAttributes": {
+      },
+      "text": "**Admin panel** for users (delete, block/unblock)\n\nHandling *admin requests*:\n1. `/api/users` - fetching all the users for the list \n2. `/api/users/:id` - *DELETE* request\n3. `/api/users/:id/block` - *POST* request\n4. `/api/users/:id/unblock` - *POST* request\n ",
+      "type": "text",
+      "width": 427,
+      "x": 1293,
+      "y": 340
+    },
+    {
+      "height": 350,
+      "id": "f4c2322f9eb628a9",
+      "styleAttributes": {
+      },
+      "text": "**Templates** \n\n*User*:\n\n*Admin*:",
+      "type": "text",
+      "width": 427,
+      "x": 1293,
+      "y": 730
+    },
+    {
+      "height": 359,
+      "id": "5a00bc158001fec0",
+      "text": "**Navbar**\n- *Theme toggle* (light/dark)\n- *Language select* (English, Spanish)\n- *Search bar*\n- *Main Page*\n- *User Dashboard Page* (visible only for authenticated)\n- *Admin page* (admin only)\n\n> Other buttons specified in the card...",
+      "type": "text",
+      "width": 340,
+      "x": -320,
+      "y": -639
+    },
+    {
+      "height": 360,
+      "id": "d5ea4a92f2f9badb",
+      "text": "**Main Page**\n*For both, non and authenticated users*:\nNavbar:\n- Main page (active)\n- Sign Up button (in guest mode)\n\n*Page content*:\n- latest templates (clickable cards)\n- Tag cloud (clickable tags)",
+      "type": "text",
+      "width": 400,
+      "x": -350,
+      "y": -1090
+    },
+    {
+      "height": 160,
+      "id": "e763889ef09f1348",
+      "text": "**Log In / Sign Up Page**\n- user login \n- user register\n- guest mode",
+      "type": "text",
+      "width": 240,
+      "x": -270,
+      "y": -1320
+    },
+    {
+      "height": 120,
+      "id": "359f647fda54a179",
+      "styleAttributes": {
+        "shape": "database"
+      },
+      "text": "**User Table** \nStores user information and authentication data.",
+      "type": "text",
+      "width": 250,
+      "x": 2880,
+      "y": -1220
+    },
+    {
+      "height": 468,
+      "id": "d616f61df5362af5",
+      "text": "**User Dashboard Page / My templates and forms** (authenticated only)\n*Navbar*:\n- User Dashboard Page (active)\n\n*My templates section* (card layout):\n- view templates\n- create new template ('+' button, green)\n- delete template (trash basket button, red)\n- edit template (pen button, blue)\n\n*My forms*:\n- forms that user filled (view, edit, delete)",
+      "type": "text",
+      "width": 460,
+      "x": -1000,
+      "y": -309
+    },
+    {
+      "height": 420,
+      "id": "d73190aa150d2e95",
+      "text": "**Single Template Page**\n*Navbar*:\n- User Dashboard page (active)\n- Sign Up button (in guest mode)\n\n*Page content*: \n- The selected template with questions\n- Editor mode -> only for authenticated\n- View mode -> for guest mode \n- *Fill this Form* button -> **Form Filling Page** \n- Likes (int)\n- Comments (one per user)",
+      "type": "text",
+      "width": 419,
+      "x": -979,
+      "y": 240
+    },
+    {
+      "height": 288,
+      "id": "01e8ade2d55d362f",
+      "text": "**Form Filling Page** (authenticated only)\n*Navbar*:\n- User Dashboard Page (active)\n\n*Page Content*:\n- A template that was opened \n- Submit button ",
+      "type": "text",
+      "width": 360,
+      "x": -950,
+      "y": 760
+    },
+    {
+      "height": 221,
+      "id": "b20c3f35e1f3565d",
+      "styleAttributes": {
+      },
+      "text": "**Templates**\n`/api/templates?sort=latest`\n\nHandling *GET request*:\n- Sending 5 latest templates ",
+      "type": "text",
+      "width": 385,
+      "x": 1293,
+      "y": -331
+    },
+    {
+      "height": 200,
+      "id": "a86b1fb8185a7273",
+      "styleAttributes": {
+      },
+      "text": "**Tags** \n`/api/tags`\n\nHandling *GET request*:\n- Sending the list of tags ",
+      "type": "text",
+      "width": 385,
+      "x": 1293,
+      "y": -55
+    },
+    {
+      "height": 393,
+      "id": "62b85c6069757a24",
+      "text": "**Signup**\n`/api/signup`\n\nHandling of *POST request*:\n1. Database query \n\t1. if user exists -> login\n\t2. else:\n\t\t1. Hashes the password \n\t\t2. Creates new user in DB\n\t\t3. ==JWT token creation== \n\t\t4. sending response \n",
+      "type": "text",
+      "width": 370,
+      "x": 1300,
+      "y": -940
+    },
+    {
+      "height": 133,
+      "id": "36fa61f65479277d",
+      "text": "**Validation** (Middleware)\n\nChecks if the sent data is correct and handles errors ",
+      "type": "text",
+      "width": 284,
+      "x": 2200,
+      "y": -940
+    },
+    {
+      "height": 300,
+      "id": "cff070b9c18845c5",
+      "text": "**Login**\n`/api/login`\n\nHandling of *POST request*:\n1. Database query\n2. Password comparison\n3. ==JWT token creation== \n4. Sending response",
+      "type": "text",
+      "width": 370,
+      "x": 1300,
+      "y": -1390
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+- [ ] Struts 2 -> *read*
+- [x] Tools for database updates (not only basic hibernate features)
+- [x] CI/CD processes 
+- [x] Real team workflow 
+- [ ] deploy application on Amazon linux server and set up the server (Ubuntu) with proxy
+- [x] Review tests, create new ones and create a pr
+- [x] How the information is protected on the server, defense mechanisms on bank transactions 
+- [x] Convert Cloudinary Map into object 
+- [x] Install and use InteliJ idea 
+- [x] My Batis, read

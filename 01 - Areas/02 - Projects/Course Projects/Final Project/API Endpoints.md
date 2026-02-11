@@ -1,0 +1,22 @@
+
+| Endpoint               | Method | Description                    | Middleware                |
+| ---------------------- | ------ | ------------------------------ | ------------------------- |
+| /api/auth/signup       | POST   | Register new user              | Validation                |
+| /api/auth/login        | POST   | User login                     | Validation                |
+| /api/auth/logout       | POST   | User logout (optional)         | Auth                      |
+| /api/users             | GET    | List all users (admin)         | Auth, Admin               |
+| /api/users/:id/block   | POST   | Block user (admin)             | Auth, Admin               |
+| /api/users/:id/unblock | POST   | Unblock user (admin)           | Auth, Admin               |
+| /api/users/:id         | DELETE | Delete user (admin/self)       | Auth, Admin/Self          |
+| /api/templates         | GET    | List/search templates          | (optional: Auth)          |
+| /api/templates         | POST   | Create template                | Auth                      |
+| /api/templates/:id     | GET    | Get template details           | (optional: Auth)          |
+| /api/templates/:id     | PUT    | Edit template                  | Auth, Owner/Admin         |
+| /api/templates/:id     | DELETE | Delete template                | Auth, Owner/Admin         |
+| /api/forms             | POST   | Fill a template (submit form)  | Auth                      |
+| /api/forms/:id         | GET    | Get filled form (access rules) | Auth, Owner/Creator/Admin |
+| /api/comments          | POST   | Add comment to template        | Auth                      |
+| /api/comments/:id      | DELETE | Delete comment                 | Auth, Owner/Admin         |
+| /api/likes             | POST   | Like a template                | Auth                      |
+| /api/likes/:id         | DELETE | Remove like                    | Auth                      |
+| /api/tags              | GET    | List tags (for tag cloud)      | (optional: Auth)          |
