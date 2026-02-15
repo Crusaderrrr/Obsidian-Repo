@@ -10,5 +10,5 @@ note type: Map of Content
 - [[Ирония]]
 - [[Obsidian Callouts]]
 - [[Games]]
-- [[Hanna's presents]]
+- [[Hanna]]
 - [[Work Setup]]

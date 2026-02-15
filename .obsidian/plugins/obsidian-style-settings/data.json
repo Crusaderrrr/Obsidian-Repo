@@ -79,9 +79,7 @@
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
-  "anuppuccin-custom-background@@anp-background-image-toggle": false,
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false,
-  "anuppuccin-custom-background@@anp-background-image-dark": "url(\"https://i.postimg.cc/jS0k8gD1/2560x1440-black-solid-color-background.jpg\")",
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-sapphire",
   "baseline-style@@accented-interface": true,
@@ -122,5 +120,7 @@
   "cupertino@@tab-icon": true,
   "cupertino@@status-bar-baseline": false,
   "cupertino@@zoom-off": false,
-  "cupertino@@banner-off": false
+  "cupertino@@banner-off": false,
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": false
 }

@@ -18,7 +18,7 @@ note type:
 **First and foremost** :: firstly. “First and foremost, it’s imperative to enhance my vocabulary”
 <!--SR:!2025-04-25,16,246-->
 **Easier said than done** :: the meaning is literal
-<!--SR:!2025-04-24,15,246-->
+<!--SR:!2026-04-08,52,266-->
 **Behind the times** :: obsolete, ancient, not modern
 <!--SR:!2025-05-27,35,266-->
 **Down-to-earth** (person) :: practical, realistic reasonable.
@@ -27,11 +27,11 @@ note type:
 <!--SR:!2025-04-26,17,246-->
 
 **I suppose** :: я полагаю
-<!--SR:!2025-04-29,23,257-->
+<!--SR:!2026-05-09,83,277-->
 **I believe** :: я верю
 <!--SR:!2025-05-05,29,277-->
 **I reckon** :: я считаю
-<!--SR:!2025-05-14,28,237-->
+<!--SR:!2026-05-20,94,257-->
 **I guess** :: я наверное
 <!--SR:!2025-04-30,24,257-->
 **I’d say that…** :: я бы сказал, что…
@@ -63,7 +63,7 @@ Contrast with something mentioned
 
 
 **For instance…** :: например
-<!--SR:!2025-04-26,24,277-->
+<!--SR:!2026-05-19,93,297-->
 **In fact** :: фактически
 <!--SR:!2025-04-25,19,253-->
 
@@ -71,7 +71,7 @@ Contrast with something mentioned
 ?
 To add extra information to the current idea
 Synonyms: **Moreover**, **In addition**
-<!--SR:!2025-04-23,16,266-->
+<!--SR:!2026-04-14,58,286-->
 
 **Nevertheless** / **Nonetheless**
 ?
@@ -86,7 +86,7 @@ Example: "We were happily spending time together, however I had to leave."
 <!--SR:!2025-05-04,25,286-->
 
 **And so on** / **And so forth** :: etc.
-<!--SR:!2025-04-26,17,246-->
+<!--SR:!2026-04-15,59,266-->
 
 **Back then…** :: Back then, people didn’t have smartphones.
 <!--SR:!2025-04-24,15,246-->

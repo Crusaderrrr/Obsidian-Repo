@@ -5,6 +5,90 @@
       "path": "00 - Map of Content/00 - Programming MoC.md"
     },
     {
+      "basename": "Docker",
+      "path": "01 - Areas/01 - Programming/Programming Content/Docker.md"
+    },
+    {
+      "basename": "Event Loop",
+      "path": "01 - Areas/01 - Programming/Internet/Web/Event Loop.md"
+    },
+    {
+      "basename": "DOM",
+      "path": "01 - Areas/01 - Programming/Internet/Web/DOM.md"
+    },
+    {
+      "basename": "Linux MoC",
+      "path": "01 - Areas/01 - Programming/Linux/Linux MoC.md"
+    },
+    {
+      "basename": "Linux Architecture",
+      "path": "01 - Areas/01 - Programming/Linux/Linux Architecture.md"
+    },
+    {
+      "basename": "01 Self-improvement MoC",
+      "path": "00 - Map of Content/01 Self-improvement MoC.md"
+    },
+    {
+      "basename": "02 - My Ideas MoC",
+      "path": "00 - Map of Content/02 - My Ideas MoC.md"
+    },
+    {
+      "basename": "Hanna",
+      "path": "01 - Areas/00 - Personal/Content/Hanna.md"
+    },
+    {
+      "basename": "Month 1",
+      "path": "04 - Gym/Month 1.md"
+    },
+    {
+      "basename": "Неделя 1",
+      "path": "04 - Gym/Неделя 1.md"
+    },
+    {
+      "basename": "Неделя 4",
+      "path": "04 - Gym/Неделя 4.md"
+    },
+    {
+      "basename": "Telegram BOT",
+      "path": "05 - Telegram/Telegram BOT.md"
+    },
+    {
+      "basename": "Неделя 5",
+      "path": "04 - Gym/Неделя 5.md"
+    },
+    {
+      "basename": "Неделя 7",
+      "path": "04 - Gym/Неделя 7.md"
+    },
+    {
+      "basename": "Obsidian Callouts",
+      "path": "01 - Areas/00 - Personal/Obsidian Callouts.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "07 - Templates/Daily Note Template.md"
+    },
+    {
+      "basename": "Telegram Sync",
+      "path": "07 - Templates/Telegram Sync.md"
+    },
+    {
+      "basename": "MoC Template",
+      "path": "07 - Templates/MoC Template.md"
+    },
+    {
+      "basename": "Gym Week Template",
+      "path": "07 - Templates/Gym Week Template.md"
+    },
+    {
+      "basename": "Gym Upper Body",
+      "path": "07 - Templates/Gym Upper Body.md"
+    },
+    {
+      "basename": "Gym Lower Body",
+      "path": "07 - Templates/Gym Lower Body.md"
+    },
+    {
       "basename": "Runtime",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runtime.md"
     },
@@ -115,90 +199,6 @@
     {
       "basename": "Disertación (Karl Marx)",
       "path": "02 - Studies/Filosofía/Disertación (Karl Marx).md"
-    },
-    {
-      "basename": "Comentario Kant",
-      "path": "02 - Studies/Filosofía/Comentario Kant.md"
-    },
-    {
-      "basename": "00 Crónica de una muerte anunciada",
-      "path": "02 - Studies/Lengua/Libros/00 Crónica de una muerte anunciada.md"
-    },
-    {
-      "basename": "Victoria Guzmán",
-      "path": "02 - Studies/Lengua/Libros/Victoria Guzmán.md"
-    },
-    {
-      "basename": "04.03.2025",
-      "path": "01 - Areas/00 - Personal/00 - Daily Notes/04.03.2025.md"
-    },
-    {
-      "basename": "Spring Framework",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Framework.md"
-    },
-    {
-      "basename": "Autoboxing and Unboxing",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Autoboxing and Unboxing.md"
-    },
-    {
-      "basename": "Threading",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Threading.md"
-    },
-    {
-      "basename": "Java Classes",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Classes.md"
-    },
-    {
-      "basename": "Keywords",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Keywords.md"
-    },
-    {
-      "basename": "Variables",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Variables.md"
-    },
-    {
-      "basename": "printf",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/printf.md"
-    },
-    {
-      "basename": "Optional",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Optional.md"
-    },
-    {
-      "basename": "Memory",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Memory.md"
-    },
-    {
-      "basename": "Maven Profiles",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Maven Profiles.md"
-    },
-    {
-      "basename": "Lambda Expressions",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Lambda Expressions.md"
-    },
-    {
-      "basename": "Interface",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Interface.md"
-    },
-    {
-      "basename": "Generics",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Generics.md"
-    },
-    {
-      "basename": "Exceptions",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Exceptions.md"
-    },
-    {
-      "basename": "2026-01-09",
-      "path": "01 - Areas/00 - Personal/00 - Daily Notes/2026-01-09.md"
-    },
-    {
-      "basename": "Dependency Injection",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Dependency Injection.md"
-    },
-    {
-      "basename": "Conditions",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Conditions.md"
     }
   ],
   "omittedPaths": [],
