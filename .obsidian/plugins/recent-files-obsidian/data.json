@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "Runtime",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runtime.md"
+    },
+    {
+      "basename": "Lifecycle hooks",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Lifecycle hooks.md"
+    },
+    {
+      "basename": "Context Svelte",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Context Svelte.md"
+    },
+    {
+      "basename": "Store",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Store.md"
+    },
+    {
+      "basename": "Svelte MoC",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Svelte MoC.md"
+    },
+    {
+      "basename": "Runes",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runes.md"
+    },
+    {
+      "basename": "Final Project",
+      "path": "01 - Areas/02 - Projects/Course Projects/Final Project/Final Project.md"
+    },
+    {
+      "basename": "Rants",
+      "path": "01 - Areas/01 - Programming/Programming Content/Rants.md"
+    },
+    {
+      "basename": "OSI model",
+      "path": "01 - Areas/01 - Programming/Internet/Web/OSI model.md"
+    },
+    {
+      "basename": "TCP-IP model",
+      "path": "01 - Areas/01 - Programming/Internet/Web/TCP-IP model.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "01 - Areas/01 - Programming/Languages/JavaScript.md"
+    },
+    {
+      "basename": "Callback Hell",
+      "path": "01 - Areas/01 - Programming/JavaScript/00 - JS Content/Callback Hell.md"
+    },
+    {
+      "basename": "Redux MoC",
+      "path": "01 - Areas/01 - Programming/JavaScript/03 - Redux/Redux MoC.md"
+    },
+    {
       "basename": "Special Types",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Special Types.md"
     },
@@ -15,14 +71,6 @@
     {
       "basename": "OOP in TS",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/OOP in TS.md"
-    },
-    {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01 - Areas/01 - Programming/Languages/JavaScript.md"
     },
     {
       "basename": "3873-Add-compliance-scheme",
@@ -151,50 +199,6 @@
     {
       "basename": "Conditions",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Conditions.md"
-    },
-    {
-      "basename": "Questions Java",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Questions Java.md"
-    },
-    {
-      "basename": "Abstract classes",
-      "path": "01 - Areas/01 - Programming/Programming Content/Abstract classes.md"
-    },
-    {
-      "basename": "Access Specifiers",
-      "path": "01 - Areas/01 - Programming/JavaScript/Access Specifiers.md"
-    },
-    {
-      "basename": "Useful classes",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Useful classes.md"
-    },
-    {
-      "basename": "Collections",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Collections.md"
-    },
-    {
-      "basename": "Method Reference Operator",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Method Reference Operator.md"
-    },
-    {
-      "basename": "Streams",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Streams.md"
-    },
-    {
-      "basename": "Память",
-      "path": "01 - Areas/01 - Programming/Programming Content/Память.md"
-    },
-    {
-      "basename": "Design patterns",
-      "path": "03 - Books/Design patterns.md"
-    },
-    {
-      "basename": "2025-09-18",
-      "path": "01 - Areas/00 - Personal/00 - Daily Notes/2025-09-18.md"
-    },
-    {
-      "basename": "Aristoteles",
-      "path": "02 - Studies/Filosofía/Filósofos/Aristoteles.md"
     }
   ],
   "omittedPaths": [],

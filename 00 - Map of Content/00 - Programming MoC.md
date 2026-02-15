@@ -67,6 +67,10 @@ note type: Map of Content
 - [[Kotlin]]
 - [[TypeScript]]
 
+# Frameworks
+- [[Spring Framework]]
+- [[Express.js]]
+- [[Svelte MoC|Svelte]]
 # Algorithms
 - [[О-большое]]
 - [[Binary search]]

@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Special Types.md",
-      "timestamp": 1770820427547
+      "filepath": "00 - Map of Content/00 - Programming MoC.md",
+      "timestamp": 1771186855118
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runtime.md",
+      "timestamp": 1771185442268
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Lifecycle hooks.md",
+      "timestamp": 1771185016221
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Context Svelte.md",
+      "timestamp": 1771184943660
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Store.md",
+      "timestamp": 1771184937836
     }
   ],
   "bookmarkedFileStore": [],
