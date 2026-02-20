@@ -13,7 +13,7 @@ Basically, you can build anything with this framework, like microservices, web a
 
 ## Problem of Java (without Spring)
 
-It is often hard to maintain code, like, if we want to make consistent changes to our program, it is very resourse intensive to update our code on servers (the process is too large). 
+It is often hard to maintain code, like, if we want to make consistent changes to our program, it is very resource intensive to update our code on servers (the process is too large). 
 
 But, Spring makes it easier.
 It provides annotations, that help with building maintainable systems.

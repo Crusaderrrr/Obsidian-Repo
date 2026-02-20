@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Mastering Typescript",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Mastering Typescript.md"
+    },
+    {
+      "basename": "TypeScript",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md"
+    },
+    {
+      "basename": "OOP in TS",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/OOP in TS.md"
+    },
+    {
       "basename": "00 - Programming MoC",
       "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "00 - Git MoC",
+      "path": "01 - Areas/01 - Programming/Git/00 - Git MoC.md"
+    },
+    {
+      "basename": "HEAD",
+      "path": "01 - Areas/01 - Programming/Git/HEAD.md"
+    },
+    {
+      "basename": "GitHub Actions",
+      "path": "01 - Areas/01 - Programming/Git/GitHub Actions.md"
+    },
+    {
+      "basename": "Git Rebase",
+      "path": "01 - Areas/01 - Programming/Git/Git Rebase.md"
+    },
+    {
+      "basename": "Git bash",
+      "path": "01 - Areas/01 - Programming/Git/Git bash.md"
+    },
+    {
+      "basename": "Git Basic Commands",
+      "path": "01 - Areas/01 - Programming/Git/Git Basic Commands.md"
+    },
+    {
+      "basename": "Java",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
+    },
+    {
+      "basename": "Java Persistence API",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Persistence API.md"
+    },
+    {
+      "basename": "Criteria API",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Criteria API.md"
+    },
+    {
+      "basename": "Platforms",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Platforms.md"
+    },
+    {
+      "basename": "Spring Framework",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Framework.md"
+    },
+    {
+      "basename": "Empty constructor",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Empty constructor.md"
+    },
+    {
+      "basename": "Thymeleaf",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Thymeleaf.md"
+    },
+    {
+      "basename": "Парадигмы Программирования",
+      "path": "01 - Areas/01 - Programming/Code Standards/Парадигмы Программирования.md"
     },
     {
       "basename": "Docker",
@@ -131,74 +199,6 @@
     {
       "basename": "JavaScript",
       "path": "01 - Areas/01 - Programming/Languages/JavaScript.md"
-    },
-    {
-      "basename": "Callback Hell",
-      "path": "01 - Areas/01 - Programming/JavaScript/00 - JS Content/Callback Hell.md"
-    },
-    {
-      "basename": "Redux MoC",
-      "path": "01 - Areas/01 - Programming/JavaScript/03 - Redux/Redux MoC.md"
-    },
-    {
-      "basename": "Special Types",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Special Types.md"
-    },
-    {
-      "basename": "Generics ts",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Generics ts.md"
-    },
-    {
-      "basename": "TypeScript",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md"
-    },
-    {
-      "basename": "OOP in TS",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/OOP in TS.md"
-    },
-    {
-      "basename": "3873-Add-compliance-scheme",
-      "path": "01 - Areas/02 - Projects/EPIC/3873-Add-compliance-scheme.md"
-    },
-    {
-      "basename": "Что такое интерпретатор",
-      "path": "01 - Areas/01 - Programming/Programming Content/Что такое интерпретатор.md"
-    },
-    {
-      "basename": "Java",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
-    },
-    {
-      "basename": "Spring Data JPA",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Data JPA.md"
-    },
-    {
-      "basename": "Hibernate",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Hibernate.md"
-    },
-    {
-      "basename": "Database",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Database.md"
-    },
-    {
-      "basename": "Comentario Filosófico PAU",
-      "path": "02 - Studies/Filosofía/Pau/Comentario Filosófico PAU.md"
-    },
-    {
-      "basename": "Comparaciones PAU",
-      "path": "02 - Studies/Filosofía/Pau/Comparaciones PAU.md"
-    },
-    {
-      "basename": "Contexto Historico",
-      "path": "02 - Studies/Filosofía/Pau/Contexto Historico.md"
-    },
-    {
-      "basename": "Disertación PAU",
-      "path": "02 - Studies/Filosofía/Pau/Disertación PAU.md"
-    },
-    {
-      "basename": "Disertación (Karl Marx)",
-      "path": "02 - Studies/Filosofía/Disertación (Karl Marx).md"
     }
   ],
   "omittedPaths": [],
