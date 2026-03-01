@@ -25,5 +25,3 @@ This is a **protocol** like HTTP that provides data interchange simultaneously a
 3. **Full-Duplex**
 	- Communication is bidirectional and simultaneous, unlike HTTP where each request must wait for the response.
 
-
-# Example 

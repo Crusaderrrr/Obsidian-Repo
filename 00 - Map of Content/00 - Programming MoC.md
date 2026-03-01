@@ -6,7 +6,7 @@ tags:
   - "#MoC"
 note type: Map of Content
 ---
-  # General 
+# General 
 - Algorithm visualizer: [here](https://visualgo.net/) 
 - [[Что такое компилятор]]
 - [[Что такое интерпретатор]]
@@ -21,6 +21,8 @@ note type: Map of Content
 - [[How transactions work]]
 - [[Real Workflow]]
 - [[Optimistic and Pessimistic locking]]
+- [[SOAP]]
+- [[RPC]]
 
 # Linux 
 - [[Linux MoC]]
@@ -36,7 +38,7 @@ note type: Map of Content
 - [[DOM]]
 - [[Event Loop]]
 - [[Render]]
-- [[Web Socket]]
+- [[Websocket]]
 - [[OSI model]]
 - [[TCP-IP model]]
 - [[PayPal]]
@@ -66,6 +68,7 @@ note type: Map of Content
 - [[Java]]
 - [[Kotlin]]
 - [[TypeScript]]
+- [[GraphQL]]
 
 # Frameworks
 - [[Spring Framework]]

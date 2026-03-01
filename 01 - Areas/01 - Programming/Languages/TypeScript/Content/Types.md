@@ -1,6 +1,6 @@
 #typescript #programming 
 
-*literally types*
+*literal types*
 1. `any`
 	**Disables all type checking** and represents any type.
 2. `never`

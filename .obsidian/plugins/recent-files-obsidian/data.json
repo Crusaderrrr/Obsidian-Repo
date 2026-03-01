@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Mastering Typescript",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Mastering Typescript.md"
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
     },
     {
       "basename": "TypeScript",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md"
     },
     {
-      "basename": "OOP in TS",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/OOP in TS.md"
+      "basename": "gRPC",
+      "path": "01 - Areas/01 - Programming/Programming Content/gRPC.md"
     },
     {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
+      "basename": "Protobuf",
+      "path": "01 - Areas/01 - Programming/Programming Content/Protobuf.md"
+    },
+    {
+      "basename": "RPC",
+      "path": "01 - Areas/01 - Programming/Programming Content/RPC.md"
+    },
+    {
+      "basename": "GraphQL",
+      "path": "01 - Areas/01 - Programming/Languages/GraphQL.md"
+    },
+    {
+      "basename": "Websocket",
+      "path": "01 - Areas/01 - Programming/Internet/Web/Websocket.md"
+    },
+    {
+      "basename": "SOAP",
+      "path": "01 - Areas/01 - Programming/Programming Content/SOAP.md"
+    },
+    {
+      "basename": "RESTful Services",
+      "path": "01 - Areas/01 - Programming/JavaScript/02 - Node JS/Content/RESTful Services.md"
+    },
+    {
+      "basename": "Type Narrowing",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Type Narrowing.md"
+    },
+    {
+      "basename": "Types",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Types.md"
+    },
+    {
+      "basename": "Conditional Types",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Conditional Types.md"
+    },
+    {
+      "basename": "OOP in TS",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/OOP in TS.md"
     },
     {
       "basename": "00 - Git MoC",
@@ -159,46 +195,6 @@
     {
       "basename": "Runtime",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runtime.md"
-    },
-    {
-      "basename": "Lifecycle hooks",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Lifecycle hooks.md"
-    },
-    {
-      "basename": "Context Svelte",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Context Svelte.md"
-    },
-    {
-      "basename": "Store",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Store.md"
-    },
-    {
-      "basename": "Svelte MoC",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Svelte MoC.md"
-    },
-    {
-      "basename": "Runes",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runes.md"
-    },
-    {
-      "basename": "Final Project",
-      "path": "01 - Areas/02 - Projects/Course Projects/Final Project/Final Project.md"
-    },
-    {
-      "basename": "Rants",
-      "path": "01 - Areas/01 - Programming/Programming Content/Rants.md"
-    },
-    {
-      "basename": "OSI model",
-      "path": "01 - Areas/01 - Programming/Internet/Web/OSI model.md"
-    },
-    {
-      "basename": "TCP-IP model",
-      "path": "01 - Areas/01 - Programming/Internet/Web/TCP-IP model.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "01 - Areas/01 - Programming/Languages/JavaScript.md"
     }
   ],
   "omittedPaths": [],

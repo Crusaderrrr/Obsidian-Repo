@@ -10,7 +10,7 @@ tags:
 note type: Informational Note
 ---
 **Representational State Transfer** - convention for building HTTP services or an *architectural style* for designing networked applications.
-We use HTTP to ... data, those are **CRUD** operations:
+We use HTTP to manipulate data with **CRUD** operations:
 - Create
 - Read 
 - Update 

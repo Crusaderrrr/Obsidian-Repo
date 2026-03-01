@@ -3,8 +3,7 @@
 ## Content:
 - [[Generics ts|Generics]]
 - [[OOP in TS|OOP]]
-- [[Special Types]]
+- [[Types]]
+- [[Conditional Types]]
+- [[Type Narrowing]]
 
-
-## Plan of Learning
-- [[Mastering Typescript]]

@@ -24,24 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Mastering Typescript.md",
-      "timestamp": 1771628534598
+      "filepath": "00 - Map of Content/00 - Programming MoC.md",
+      "timestamp": 1772377389956
     },
     {
       "filepath": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md",
-      "timestamp": 1771628504763
+      "timestamp": 1772377384103
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Languages/TypeScript/Content/OOP in TS.md",
-      "timestamp": 1771432065217
-    },
-    {
-      "filepath": "00 - Map of Content/00 - Programming MoC.md",
-      "timestamp": 1771432044578
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Git/00 - Git MoC.md",
-      "timestamp": 1771432040458
+      "filepath": "01 - Areas/01 - Programming/Programming Content/gRPC.md",
+      "timestamp": 1772377339046
     }
   ],
   "bookmarkedFileStore": [],
