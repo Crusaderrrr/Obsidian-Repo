@@ -101,3 +101,17 @@ const widget: UIWidget = {
   resize: () => console.log("resizing")
 };
 ```
+
+---
+
+## Custom types
+
+Such as:
+```ts
+type User = {
+	name: string;
+	age: number;
+}
+```
+
+Could be **extend** with `&`, also there many more features.

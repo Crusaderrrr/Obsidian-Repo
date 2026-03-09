@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "01 - Areas/00 - Personal/01 - Weekly Notes/W10-2026.md",
-      "timestamp": 1772378212729
+      "filepath": "PostgreSQL Functions.md",
+      "timestamp": 1773092238330
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Database/PostgreSQL.md",
+      "timestamp": 1773092141680
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md",
+      "timestamp": 1773092138206
     },
     {
       "filepath": "00 - Map of Content/00 - Programming MoC.md",
-      "timestamp": 1772377389956
+      "timestamp": 1773092112730
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md",
-      "timestamp": 1772377384103
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Programming Content/gRPC.md",
-      "timestamp": 1772377339046
+      "filepath": "01 - Areas/01 - Programming/Programming Content/Template Rendering.md",
+      "timestamp": 1773091995605
     }
   ],
   "bookmarkedFileStore": [],

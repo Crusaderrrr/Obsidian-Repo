@@ -1,0 +1,1 @@
+For example if we have a [[Thymeleaf]] template, and want to create a pdf document or just show it as the web page, we need to **render** that template, which means that all the Thymeleaf expressions such as `th:text` are populated from the attached context and converted to real text.

@@ -13,3 +13,4 @@ note type: Map of Content
 # Content
 - [[Data types]]
 - [[Querying and Filtering Data]]
+- [[PostgreSQL Functions]]

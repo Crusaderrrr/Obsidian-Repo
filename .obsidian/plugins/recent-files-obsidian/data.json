@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "W10-2026",
-      "path": "01 - Areas/00 - Personal/01 - Weekly Notes/W10-2026.md"
+      "basename": "PostgreSQL Functions",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/PostgreSQL Functions.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "01 - Areas/01 - Programming/Database/PostgreSQL.md"
+    },
+    {
+      "basename": "Querying and Filtering Data",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md"
     },
     {
       "basename": "00 - Programming MoC",
       "path": "00 - Map of Content/00 - Programming MoC.md"
     },
     {
+      "basename": "Template Rendering",
+      "path": "01 - Areas/01 - Programming/Programming Content/Template Rendering.md"
+    },
+    {
+      "basename": "My Roadmap",
+      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
+    },
+    {
+      "basename": "Types",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Types.md"
+    },
+    {
       "basename": "TypeScript",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md"
+    },
+    {
+      "basename": "Event Loop",
+      "path": "01 - Areas/01 - Programming/Internet/Web/Event Loop.md"
+    },
+    {
+      "basename": "Mutation Observer",
+      "path": "01 - Areas/01 - Programming/Internet/Web/Mutation Observer.md"
+    },
+    {
+      "basename": "W10-2026",
+      "path": "01 - Areas/00 - Personal/01 - Weekly Notes/W10-2026.md"
     },
     {
       "basename": "gRPC",
@@ -43,10 +75,6 @@
     {
       "basename": "Type Narrowing",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Type Narrowing.md"
-    },
-    {
-      "basename": "Types",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Types.md"
     },
     {
       "basename": "Conditional Types",
@@ -117,10 +145,6 @@
       "path": "01 - Areas/01 - Programming/Programming Content/Docker.md"
     },
     {
-      "basename": "Event Loop",
-      "path": "01 - Areas/01 - Programming/Internet/Web/Event Loop.md"
-    },
-    {
       "basename": "DOM",
       "path": "01 - Areas/01 - Programming/Internet/Web/DOM.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Daily Note Template",
       "path": "07 - Templates/Daily Note Template.md"
-    },
-    {
-      "basename": "Telegram Sync",
-      "path": "07 - Templates/Telegram Sync.md"
-    },
-    {
-      "basename": "MoC Template",
-      "path": "07 - Templates/MoC Template.md"
-    },
-    {
-      "basename": "Gym Week Template",
-      "path": "07 - Templates/Gym Week Template.md"
-    },
-    {
-      "basename": "Gym Upper Body",
-      "path": "07 - Templates/Gym Upper Body.md"
-    },
-    {
-      "basename": "Gym Lower Body",
-      "path": "07 - Templates/Gym Lower Body.md"
-    },
-    {
-      "basename": "Runtime",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runtime.md"
     }
   ],
   "omittedPaths": [],

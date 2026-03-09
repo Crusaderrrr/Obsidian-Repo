@@ -6,6 +6,7 @@ tags:
   - "#MoC"
 note type: Map of Content
 ---
+- [[My Roadmap]]
 # General 
 - Algorithm visualizer: [here](https://visualgo.net/) 
 - [[Что такое компилятор]]
@@ -23,6 +24,7 @@ note type: Map of Content
 - [[Optimistic and Pessimistic locking]]
 - [[SOAP]]
 - [[RPC]]
+- [[Template Rendering]]
 
 # Linux 
 - [[Linux MoC]]
