@@ -4,7 +4,7 @@
     "Main Homepage": {
       "value": "01 - Areas/00 - Personal/Main",
       "kind": "File",
-      "openOnStartup": true,
+      "openOnStartup": false,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",

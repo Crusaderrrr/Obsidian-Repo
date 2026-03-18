@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "01 - Pastebin Kanban",
+      "path": "01 - Areas/02 - Projects/Pastebin/01 - Pastebin Kanban.md"
+    },
+    {
+      "basename": "00 - Pastebin plan",
+      "path": "01 - Areas/02 - Projects/Pastebin/00 - Pastebin plan.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "07 - Templates/Daily Note Template.md"
+    },
+    {
+      "basename": "Modeling Relationships with Mongoose",
+      "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Modeling Relationships with Mongoose.md"
+    },
+    {
+      "basename": "My Roadmap",
+      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
+    },
+    {
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "Main",
+      "path": "01 - Areas/00 - Personal/Main.md"
+    },
+    {
+      "basename": "Generics ts",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Generics ts.md"
+    },
+    {
+      "basename": "TypeScript",
+      "path": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md"
+    },
+    {
       "basename": "PostgreSQL Functions",
       "path": "01 - Areas/01 - Programming/Database/DB - content/PostgreSQL Functions.md"
     },
@@ -13,24 +49,12 @@
       "path": "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md"
     },
     {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
-    },
-    {
       "basename": "Template Rendering",
       "path": "01 - Areas/01 - Programming/Programming Content/Template Rendering.md"
     },
     {
-      "basename": "My Roadmap",
-      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
-    },
-    {
       "basename": "Types",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Types.md"
-    },
-    {
-      "basename": "TypeScript",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md"
     },
     {
       "basename": "Event Loop",
@@ -175,30 +199,6 @@
     {
       "basename": "Неделя 1",
       "path": "04 - Gym/Неделя 1.md"
-    },
-    {
-      "basename": "Неделя 4",
-      "path": "04 - Gym/Неделя 4.md"
-    },
-    {
-      "basename": "Telegram BOT",
-      "path": "05 - Telegram/Telegram BOT.md"
-    },
-    {
-      "basename": "Неделя 5",
-      "path": "04 - Gym/Неделя 5.md"
-    },
-    {
-      "basename": "Неделя 7",
-      "path": "04 - Gym/Неделя 7.md"
-    },
-    {
-      "basename": "Obsidian Callouts",
-      "path": "01 - Areas/00 - Personal/Obsidian Callouts.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "07 - Templates/Daily Note Template.md"
     }
   ],
   "omittedPaths": [],

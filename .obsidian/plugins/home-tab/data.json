@@ -24,30 +24,22 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "PostgreSQL Functions.md",
-      "timestamp": 1773092238330
+      "filepath": "01 - Areas/02 - Projects/Pastebin/01 - Pastebin Kanban.md",
+      "timestamp": 1773855274071
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Database/PostgreSQL.md",
-      "timestamp": 1773092141680
+      "filepath": "01 - Areas/02 - Projects/Pastebin/00 - Pastebin plan.md",
+      "timestamp": 1773855270287
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md",
-      "timestamp": 1773092138206
-    },
-    {
-      "filepath": "00 - Map of Content/00 - Programming MoC.md",
-      "timestamp": 1773092112730
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Programming Content/Template Rendering.md",
-      "timestamp": 1773091995605
+      "filepath": "07 - Templates/Daily Note Template.md",
+      "timestamp": 1773840539056
     }
   ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
-  "newTabOnStart": false,
+  "newTabOnStart": true,
   "closePreviousSessionTabs": false,
   "omnisearch": false,
   "showOmnisearchExcerpt": true
