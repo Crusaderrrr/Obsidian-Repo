@@ -103,6 +103,7 @@ note type: Map of Content
 - [[Grokking Algorithms]]
 - [[Code]]
 - [[Design patterns]]
+- [[Clean Code Book|Clean Code]]
 
 # Git 
 - [[00 - Git MoC|Git MoC]]

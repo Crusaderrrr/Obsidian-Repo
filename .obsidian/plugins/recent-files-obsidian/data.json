@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "01 - Pastebin Kanban",
-      "path": "01 - Areas/02 - Projects/Pastebin/01 - Pastebin Kanban.md"
+      "basename": "D8AForce",
+      "path": "01 - Areas/02 - Projects/D8AForce/D8AForce.md"
     },
     {
-      "basename": "00 - Pastebin plan",
-      "path": "01 - Areas/02 - Projects/Pastebin/00 - Pastebin plan.md"
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "Clean Code Book",
+      "path": "03 - Books/Clean Code Book.md"
+    },
+    {
+      "basename": "Naming Conventions",
+      "path": "03 - Books/00 Content/Naming Conventions.md"
+    },
+    {
+      "basename": "Criteria API",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Criteria API.md"
+    },
+    {
+      "basename": "My Roadmap",
+      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
     },
     {
       "basename": "Daily Note Template",
@@ -15,14 +31,6 @@
     {
       "basename": "Modeling Relationships with Mongoose",
       "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Modeling Relationships with Mongoose.md"
-    },
-    {
-      "basename": "My Roadmap",
-      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
-    },
-    {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
     },
     {
       "basename": "Main",
@@ -141,10 +149,6 @@
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Persistence API.md"
     },
     {
-      "basename": "Criteria API",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Criteria API.md"
-    },
-    {
       "basename": "Platforms",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Platforms.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Hanna",
       "path": "01 - Areas/00 - Personal/Content/Hanna.md"
-    },
-    {
-      "basename": "Month 1",
-      "path": "04 - Gym/Month 1.md"
-    },
-    {
-      "basename": "Неделя 1",
-      "path": "04 - Gym/Неделя 1.md"
     }
   ],
   "omittedPaths": [],
