@@ -5,6 +5,10 @@
       "path": "01 - Areas/01 - Programming/Database/DB - content/ACID.md"
     },
     {
+      "basename": "My Roadmap",
+      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
+    },
+    {
       "basename": "Transactions",
       "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Transactions.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "PostgreSQL",
       "path": "01 - Areas/01 - Programming/Database/PostgreSQL.md"
-    },
-    {
-      "basename": "My Roadmap",
-      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
     },
     {
       "basename": "PostgreSQL Functions",

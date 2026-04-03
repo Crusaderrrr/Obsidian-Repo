@@ -25,5 +25,8 @@ General database rules:
 | Read Committed   | ❌ prevented | ✅ possible          | ✅ possible   |
 | Repeatable Read  | ❌ prevented | ❌ prevented         | ✅ possible   |
 | Serializable     | ❌ prevented | ❌ prevented         | ❌ prevented  |
+	<mark style="background:#b1ffff">Dirty Read</mark> - read from transaction while in process (not committed)
+	<mark style="background:#b1ffff">Non-repeatable Read</mark> - read the same row twice within the same transaction and get different values because another transaction modified it in between.
+	<mark style="background:#b1ffff">Phantom Read</mark> - when you run the same query twice within the same transaction and get different rows because another transactions have inserted or deleted rows.
 4. **Durability**
 	"*Once a transaction is committed, it stays committed*" — even if the server crashes immediately after. This is achieved by writing to a transaction log (WAL in PostgreSQL) before confirming the commit.
