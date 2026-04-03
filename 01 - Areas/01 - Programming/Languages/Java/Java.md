@@ -46,6 +46,8 @@ Java was designed to be simple, robust, and portable, with the philosophy of "wr
 - [[Threading]] **IMPORTANT**
 -  [Advanced Java](https://youtu.be/Ae-r8hsbPUo?si=ipGbSq0V40Hch1CV) (video)
 
+- [[From source to running process]]
+
 - [[Questions Java|Questions]]
 
 ## Spring

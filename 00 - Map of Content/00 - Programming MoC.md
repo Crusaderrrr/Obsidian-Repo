@@ -31,6 +31,7 @@ note type: Map of Content
 
 # Database
 - [[PostgreSQL]]
+- [[ACID]]
 
 # Docker
 - [[Docker]]
@@ -93,6 +94,7 @@ note type: Map of Content
 - [[Dynamic programming]]
 - [[K-Nearest Neighbors (KNN)]]
 - [[Sum two nums]]
+- [[Jaro Winkler's distance]]
 # Automatization 
 - [[n8n]]
 

@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "D8AForce",
-      "path": "01 - Areas/02 - Projects/D8AForce/D8AForce.md"
+      "basename": "ACID",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/ACID.md"
+    },
+    {
+      "basename": "Transactions",
+      "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Transactions.md"
     },
     {
       "basename": "00 - Programming MoC",
       "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "01 - Areas/01 - Programming/Database/PostgreSQL.md"
+    },
+    {
+      "basename": "My Roadmap",
+      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
+    },
+    {
+      "basename": "PostgreSQL Functions",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/PostgreSQL Functions.md"
+    },
+    {
+      "basename": "Jaro Winkler's distance",
+      "path": "01 - Areas/01 - Programming/Algorithms/Jaro Winkler's distance.md"
+    },
+    {
+      "basename": "Java",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
+    },
+    {
+      "basename": "From source to running process",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/From source to running process.md"
+    },
+    {
+      "basename": "Spring Boot",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Boot.md"
+    },
+    {
+      "basename": "Spring Framework",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Framework.md"
+    },
+    {
+      "basename": "D8AForce",
+      "path": "01 - Areas/02 - Projects/D8AForce/D8AForce.md"
     },
     {
       "basename": "Clean Code Book",
@@ -19,10 +59,6 @@
     {
       "basename": "Criteria API",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Criteria API.md"
-    },
-    {
-      "basename": "My Roadmap",
-      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
     },
     {
       "basename": "Daily Note Template",
@@ -43,14 +79,6 @@
     {
       "basename": "TypeScript",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md"
-    },
-    {
-      "basename": "PostgreSQL Functions",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/PostgreSQL Functions.md"
-    },
-    {
-      "basename": "PostgreSQL",
-      "path": "01 - Areas/01 - Programming/Database/PostgreSQL.md"
     },
     {
       "basename": "Querying and Filtering Data",
@@ -141,20 +169,12 @@
       "path": "01 - Areas/01 - Programming/Git/Git Basic Commands.md"
     },
     {
-      "basename": "Java",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
-    },
-    {
       "basename": "Java Persistence API",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Persistence API.md"
     },
     {
       "basename": "Platforms",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Platforms.md"
-    },
-    {
-      "basename": "Spring Framework",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Framework.md"
     },
     {
       "basename": "Empty constructor",
@@ -179,22 +199,6 @@
     {
       "basename": "Linux MoC",
       "path": "01 - Areas/01 - Programming/Linux/Linux MoC.md"
-    },
-    {
-      "basename": "Linux Architecture",
-      "path": "01 - Areas/01 - Programming/Linux/Linux Architecture.md"
-    },
-    {
-      "basename": "01 Self-improvement MoC",
-      "path": "00 - Map of Content/01 Self-improvement MoC.md"
-    },
-    {
-      "basename": "02 - My Ideas MoC",
-      "path": "00 - Map of Content/02 - My Ideas MoC.md"
-    },
-    {
-      "basename": "Hanna",
-      "path": "01 - Areas/00 - Personal/Content/Hanna.md"
     }
   ],
   "omittedPaths": [],
