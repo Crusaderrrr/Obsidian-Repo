@@ -16,3 +16,6 @@ Its **key parts** are:
 - *Container* - concrete launched/deployed application based on the image. These are lightweight (have a partial OS, only necessary components)
 - *Docker Network* - a network that lets containers communicate, it defines how containers get IP, how trafic flows between them, etc.
 - *Docker Compose* - tool that lets run multicontainer applications and simplifies the adjustment part, it's a `.yml` file.  
+
+<mark style="background:#ff4d4f">IMPORTANT to understand</mark>:
+- [[VM vs Docker Container]]

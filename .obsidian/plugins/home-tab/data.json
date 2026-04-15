@@ -24,12 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "01 - Areas/01 - Programming/Database/DB - content/ACID.md",
-      "timestamp": 1775228071679
+      "filepath": "03 - Books/Design patterns.md",
+      "timestamp": 1776257833741
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md",
-      "timestamp": 1775228053245
+      "filepath": "01 - Areas/01 - Programming/Code Standards/Patterns/Factory Pattern.md",
+      "timestamp": 1776257750789
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Code Standards/Patterns/Factory method (explanation).canvas",
+      "timestamp": 1776257740272
+    },
+    {
+      "filepath": "01 - Areas/00 - Personal/01 - Weekly Notes/W15-2026.md",
+      "timestamp": 1776255490676
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Code Standards/Patterns/Singleton.md",
+      "timestamp": 1776255489704
     }
   ],
   "bookmarkedFileStore": [],

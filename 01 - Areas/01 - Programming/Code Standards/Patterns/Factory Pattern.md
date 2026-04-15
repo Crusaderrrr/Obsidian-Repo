@@ -7,7 +7,7 @@ tags:
   - clean_code
 note type: Informational Note
 ---
-Sometimes using `new` operator isn't so efficient and leads to bugs and high coupling, which is bad.
+Sometimes the use of a `new` operator isn't so efficient and leads to bugs and high coupling, which is bad.
 
 There is a *Simple Factory*, which is not a pattern, it is idiom of programming. And many confuse it  with **Factory pattern**.
 

@@ -57,3 +57,8 @@ Java was designed to be simple, robust, and portable, with the philosophy of "wr
 - [[Spring Data JPA]]
 - [[Spring MVC]]
 - [[Spring Boot Roadmap]]
+
+
+## Patterns 
+- [[Principal OOP pattern]]
+- [[Constant Variables]]

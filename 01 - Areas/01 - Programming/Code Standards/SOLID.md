@@ -19,15 +19,15 @@ Solid are some sort of rules for OOP, that allow coders write maintainable, logi
 		When we want to implement a payment with cash, card or phone, we should not create a single `Payment` class, instead we need to create a `PaymentProcessor` class and extend it with new classes like `CashPaymentProcessor`, `CreditCardPaymentProcessor`, and more, if we do it like that it gets easier to extend this with new features.
 - <mark style="background: #ABF7F7A6;">Liskov Substitution Principle</mark>
 	- **Derived classes should replace their basic classes**
-	- *Barbara Liskov* was a scientist in the area of the CS and specially OOP.
-	- Here we are talking about child and parent classes, and this principle tells us that we should implement such *child classes that could replace their parent clases*.
+	- *Barbara Liskov* was a scientist in the area of the CS and especially OOP.
+	- Here we are talking about child and parent classes, and this principle tells us that we should implement such *child classes that could replace their parent classes*.
 	- For example if we have a `Figure` class with `get_area()` method, in other child classes like `Square` or `Triangle` we will modify the `get_area()` method, not implement it again.
 - <mark style="background: #ABF7F7A6;">Interface Segregation Principle</mark> 
 	- **Clients should not depend on interfaces they do not use**
 	- We should create a simple interfaces without any unnecessary methods.
 	- The code should be written in a way that makes it reusable.
 - <mark style="background: #ABF7F7A6;">Dependency Inversion Principle</mark>
-	- **Higher level modules should not depend low level modules. Both of module types should depend on abstractions. Abstractions should not depend on details, however details should depend on abstractions**
+	- **Higher level modules should not depend on low level modules. Both of module types should depend on abstractions. Abstractions should not depend on details, however details should depend on abstractions**
 	- Almost every piece of code has decencies. 
 	- This principle means that this dependencies that connect different parts of program should be created via abstractions. It is necessary to use *Interfaces* and *Abstraction classes* and use previous 4 principles. 
 

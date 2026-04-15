@@ -1,20 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "ACID",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/ACID.md"
+      "basename": "Design patterns",
+      "path": "03 - Books/Design patterns.md"
+    },
+    {
+      "basename": "Factory Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Factory Pattern.md"
+    },
+    {
+      "basename": "Factory method (explanation)",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Factory method (explanation).canvas"
+    },
+    {
+      "basename": "W15-2026",
+      "path": "01 - Areas/00 - Personal/01 - Weekly Notes/W15-2026.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Singleton.md"
     },
     {
       "basename": "My Roadmap",
       "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
     },
     {
+      "basename": "SEC parser",
+      "path": "01 - Areas/02 - Projects/D8AForce/SEC parser.md"
+    },
+    {
+      "basename": "00 - MongoDB MoC",
+      "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - MongoDB MoC.md"
+    },
+    {
       "basename": "Transactions",
       "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Transactions.md"
     },
     {
+      "basename": "Creating an API for Cars and Rentals",
+      "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Creating an API for Cars and Rentals.md"
+    },
+    {
+      "basename": "Modeling Relationships with Mongoose",
+      "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Modeling Relationships with Mongoose.md"
+    },
+    {
+      "basename": "CFP parser",
+      "path": "01 - Areas/02 - Projects/D8AForce/CFP parser.md"
+    },
+    {
+      "basename": "SOLID",
+      "path": "01 - Areas/01 - Programming/Code Standards/SOLID.md"
+    },
+    {
+      "basename": "Constant Variables",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Constant Variables.md"
+    },
+    {
+      "basename": "Java",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
+    },
+    {
+      "basename": "Adviser-info parser",
+      "path": "01 - Areas/02 - Projects/D8AForce/Adviser-info parser.md"
+    },
+    {
+      "basename": "VM vs Docker Container",
+      "path": "01 - Areas/01 - Programming/Programming Content/VM vs Docker Container.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "01 - Areas/01 - Programming/Programming Content/Docker.md"
+    },
+    {
+      "basename": "Principal OOP pattern",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Principal OOP pattern.md"
+    },
+    {
+      "basename": "D8AForce",
+      "path": "01 - Areas/02 - Projects/D8AForce/D8AForce.md"
+    },
+    {
       "basename": "00 - Programming MoC",
       "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "ACID",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/ACID.md"
+    },
+    {
+      "basename": "Wanna buy",
+      "path": "01 - Areas/00 - Personal/Content/Wanna buy.md"
+    },
+    {
+      "basename": "02 - My Ideas MoC",
+      "path": "00 - Map of Content/02 - My Ideas MoC.md"
+    },
+    {
+      "basename": "Hanna",
+      "path": "01 - Areas/00 - Personal/Content/Hanna.md"
+    },
+    {
+      "basename": "Obsidian Callouts",
+      "path": "01 - Areas/00 - Personal/Obsidian Callouts.md"
+    },
+    {
+      "basename": "SSH Protocol",
+      "path": "01 - Areas/01 - Programming/Programming Content/SSH Protocol.md"
+    },
+    {
+      "basename": "Template Rendering",
+      "path": "01 - Areas/01 - Programming/Programming Content/Template Rendering.md"
+    },
+    {
+      "basename": "PayPal",
+      "path": "01 - Areas/01 - Programming/Internet/Web/PayPal.md"
+    },
+    {
+      "basename": "Websocket",
+      "path": "01 - Areas/01 - Programming/Internet/Web/Websocket.md"
+    },
+    {
+      "basename": "Sum two nums",
+      "path": "01 - Areas/01 - Programming/Algorithms/Sum two nums.md"
+    },
+    {
+      "basename": "RPC",
+      "path": "01 - Areas/01 - Programming/Programming Content/RPC.md"
     },
     {
       "basename": "PostgreSQL",
@@ -29,10 +141,6 @@
       "path": "01 - Areas/01 - Programming/Algorithms/Jaro Winkler's distance.md"
     },
     {
-      "basename": "Java",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
-    },
-    {
       "basename": "From source to running process",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/From source to running process.md"
     },
@@ -43,10 +151,6 @@
     {
       "basename": "Spring Framework",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Framework.md"
-    },
-    {
-      "basename": "D8AForce",
-      "path": "01 - Areas/02 - Projects/D8AForce/D8AForce.md"
     },
     {
       "basename": "Clean Code Book",
@@ -65,10 +169,6 @@
       "path": "07 - Templates/Daily Note Template.md"
     },
     {
-      "basename": "Modeling Relationships with Mongoose",
-      "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Modeling Relationships with Mongoose.md"
-    },
-    {
       "basename": "Main",
       "path": "01 - Areas/00 - Personal/Main.md"
     },
@@ -85,10 +185,6 @@
       "path": "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md"
     },
     {
-      "basename": "Template Rendering",
-      "path": "01 - Areas/01 - Programming/Programming Content/Template Rendering.md"
-    },
-    {
       "basename": "Types",
       "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Types.md"
     },
@@ -103,102 +199,6 @@
     {
       "basename": "W10-2026",
       "path": "01 - Areas/00 - Personal/01 - Weekly Notes/W10-2026.md"
-    },
-    {
-      "basename": "gRPC",
-      "path": "01 - Areas/01 - Programming/Programming Content/gRPC.md"
-    },
-    {
-      "basename": "Protobuf",
-      "path": "01 - Areas/01 - Programming/Programming Content/Protobuf.md"
-    },
-    {
-      "basename": "RPC",
-      "path": "01 - Areas/01 - Programming/Programming Content/RPC.md"
-    },
-    {
-      "basename": "GraphQL",
-      "path": "01 - Areas/01 - Programming/Languages/GraphQL.md"
-    },
-    {
-      "basename": "Websocket",
-      "path": "01 - Areas/01 - Programming/Internet/Web/Websocket.md"
-    },
-    {
-      "basename": "SOAP",
-      "path": "01 - Areas/01 - Programming/Programming Content/SOAP.md"
-    },
-    {
-      "basename": "RESTful Services",
-      "path": "01 - Areas/01 - Programming/JavaScript/02 - Node JS/Content/RESTful Services.md"
-    },
-    {
-      "basename": "Type Narrowing",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Type Narrowing.md"
-    },
-    {
-      "basename": "Conditional Types",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Conditional Types.md"
-    },
-    {
-      "basename": "OOP in TS",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/OOP in TS.md"
-    },
-    {
-      "basename": "00 - Git MoC",
-      "path": "01 - Areas/01 - Programming/Git/00 - Git MoC.md"
-    },
-    {
-      "basename": "HEAD",
-      "path": "01 - Areas/01 - Programming/Git/HEAD.md"
-    },
-    {
-      "basename": "GitHub Actions",
-      "path": "01 - Areas/01 - Programming/Git/GitHub Actions.md"
-    },
-    {
-      "basename": "Git Rebase",
-      "path": "01 - Areas/01 - Programming/Git/Git Rebase.md"
-    },
-    {
-      "basename": "Git bash",
-      "path": "01 - Areas/01 - Programming/Git/Git bash.md"
-    },
-    {
-      "basename": "Git Basic Commands",
-      "path": "01 - Areas/01 - Programming/Git/Git Basic Commands.md"
-    },
-    {
-      "basename": "Java Persistence API",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Persistence API.md"
-    },
-    {
-      "basename": "Platforms",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Platforms.md"
-    },
-    {
-      "basename": "Empty constructor",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Empty constructor.md"
-    },
-    {
-      "basename": "Thymeleaf",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Thymeleaf.md"
-    },
-    {
-      "basename": "Парадигмы Программирования",
-      "path": "01 - Areas/01 - Programming/Code Standards/Парадигмы Программирования.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "01 - Areas/01 - Programming/Programming Content/Docker.md"
-    },
-    {
-      "basename": "DOM",
-      "path": "01 - Areas/01 - Programming/Internet/Web/DOM.md"
-    },
-    {
-      "basename": "Linux MoC",
-      "path": "01 - Areas/01 - Programming/Linux/Linux MoC.md"
     }
   ],
   "omittedPaths": [],

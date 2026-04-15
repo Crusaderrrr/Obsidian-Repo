@@ -9,6 +9,5 @@ note type: Map of Content
 - [[Видос про траву]]
 - [[Ирония]]
 - [[Obsidian Callouts]]
-- [[Games]]
 - [[Hanna]]
-- [[Work Setup]]
+- [[Wanna buy]]
