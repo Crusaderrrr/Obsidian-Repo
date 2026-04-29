@@ -29,3 +29,4 @@ note type: Map of Content
 - [[DFUZ]]
 - [[Anti Brainrot]]
 - Good video about [Great Depression](https://youtu.be/hwffkU_jEE0?si=ms1hb6ej8EcG7S7i) 
+- [[How to be a good programmer]]

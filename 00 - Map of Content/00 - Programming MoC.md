@@ -47,6 +47,7 @@ note type: Map of Content
 - [[TCP-IP model]]
 - [[PayPal]]
 - [[Firewall]]
+- [[Internet Protocol]]
 
 # Cryptography 
 - [[Blockchain]]

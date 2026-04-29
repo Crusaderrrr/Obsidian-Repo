@@ -21,8 +21,11 @@ It is about *Object Oriented Design*.
 - Единая номенклатура помогает новичкам учить паттерны. 
 
 ## Patterns
-- [[Singleton]]
+- [[Singleton Pattern]]
 - [[Strategy Pattern]]
+- [[Builder Pattern]]
 - [[Decorator Pattern]]
 - [[Observer Pattern]]
 - [[Factory Pattern]]
+- [[Prototype Pattern]]
+- [[CoR Pattern]]

@@ -31,8 +31,3 @@
 	- **Hungarian Notation** (`strName`, `iCount`) is obsolete — modern IDEs and compilers track types
 	- **`m_` prefix** for class members is unnecessary — IDEs highlight fields visually
 	- Encoding types into names makes code harder to read, refactor, and understand
-
-
-## Conclusion
-
-We *read the code*, as the author the most important thing is to deliver the information *the clearer the better*, we want the other person to *understand what the code does at the first glance*.

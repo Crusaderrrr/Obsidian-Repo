@@ -1,0 +1,1 @@
+To get new data use this path [https://www.nfa.futures.org/NFA-registration/NFA-directory/nfa_reg_memb.csv](https://www.nfa.futures.org/NFA-registration/NFA-directory/nfa_reg_memb.csv "https://www.nfa.futures.org/NFA-registration/NFA-directory/nfa_reg_memb.csv").

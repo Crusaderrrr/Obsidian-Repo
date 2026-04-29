@@ -1,0 +1,4 @@
+- **Classes should be single-targeted** (there should be only one reason to modify that class)
+- A class should be small
+- A class should be even smaller
+- Organize classes according to conventions

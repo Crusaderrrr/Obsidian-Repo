@@ -14,3 +14,11 @@
 	crd is used to check if investor is in db, which is a unique identifier assigned by FINRA
 
 *IMP*: if the parser stops - delete the `_connector` tables and then start (otherwise startup will take eternity because db will re-check the connectors)
+
+**Step 2**:
+- takes a customer (investor) from the queue
+- makes an api call using crd
+- extracts and saves the company 
+- extracts and saves office address 
+- links address to the investor 
+- updates status of the investor

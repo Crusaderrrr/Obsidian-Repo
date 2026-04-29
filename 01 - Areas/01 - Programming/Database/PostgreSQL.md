@@ -11,6 +11,8 @@ note type: Map of Content
 **PostgreSQL** is a free, open-source relational database management system (RDBMS) that emphasizes extensibility, data integrity, and adherence to the SQL standard. It supports both relational (SQL) and non-relational (JSON) data, and is used for managing complex and large-scale data across many platforms.
 
 # Content
+- [[General Info Postgres|General]]
+- [[How SQL queries work]]
 - [[Data types]]
 - [[Querying and Filtering Data]]
 - [[PostgreSQL Functions]]

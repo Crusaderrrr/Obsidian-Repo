@@ -22,10 +22,10 @@ There are 4 **core principles**:
 
 Moreover there are two important concepts: 
 - **Composition** 
-	This is when some object consists of other objects, like a car for example it has 4 wheel objects 4 seat objects, etc. All of these objects are intitialized *inside the constructor*. Builds a *relationship “has-a”*. 
+	This is when some object consists of other objects, like a car for example it has 4 wheel objects 4 seat objects, etc. All of these objects are initialized *inside the constructor*. Builds a *relationship “has-a”*. 
 - **Aggregation** 
 	This is a smelling tree, it stays outside the car object but can be introduced there by someone. The freshener is initialized *outside the constructor* and doesn’t relate to this class. 
-- **If we delete** `Car` class all the wheels, engine, etc will be deleted, though the freshener won’t. 
+- **If we delete** `Car` class all the wheels, engine, etc. will be deleted, though the freshener won’t. 
 
 ## Relative Info
 - [[Abstract classes]]

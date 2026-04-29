@@ -1,2 +1,4 @@
 - [OLED Monitor](https://www.mediamarkt.es/es/product/_monitor-gaming-lg-ultrageartm-27gx704a-b-27-qhd-240-hz-003-ms-oled-ips-hdr10-altura-ajustable-morado-grisaceo-1607623.html) ~ *500*
 - Sony wh-1000 xm4 (for Hanna) ~ *230*
+- keyboard 
+- mouse pad 

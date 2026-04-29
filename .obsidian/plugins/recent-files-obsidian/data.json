@@ -1,8 +1,152 @@
 {
   "recentFiles": [
     {
+      "basename": "General",
+      "path": "03 - Books/00 Content/General.md"
+    },
+    {
+      "basename": "Clean Code Book",
+      "path": "03 - Books/Clean Code Book.md"
+    },
+    {
+      "basename": "OOP",
+      "path": "01 - Areas/01 - Programming/Programming Content/OOP.md"
+    },
+    {
+      "basename": "Naming Conventions",
+      "path": "03 - Books/00 Content/Naming Conventions.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "03 - Books/00 Content/Classes.md"
+    },
+    {
+      "basename": "How do we read the code",
+      "path": "03 - Books/00 Content/How do we read the code.md"
+    },
+    {
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "High Vulnerabilities report",
+      "path": "01 - Areas/02 - Projects/D8AForce/High Vulnerabilities report.md"
+    },
+    {
+      "basename": "Critical Vulnerabilities Report",
+      "path": "01 - Areas/02 - Projects/D8AForce/Critical Vulnerabilities Report.md"
+    },
+    {
+      "basename": "Internet Protocol",
+      "path": "01 - Areas/01 - Programming/Internet/Web/Internet Protocol.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "01 - Areas/01 - Programming/Programming Content/Docker.md"
+    },
+    {
+      "basename": "00 - Git MoC",
+      "path": "01 - Areas/01 - Programming/Git/00 - Git MoC.md"
+    },
+    {
+      "basename": "Git Basic Commands",
+      "path": "01 - Areas/01 - Programming/Git/Git Basic Commands.md"
+    },
+    {
+      "basename": "Git Rebase",
+      "path": "01 - Areas/01 - Programming/Git/Git Rebase.md"
+    },
+    {
+      "basename": "Git bash",
+      "path": "01 - Areas/01 - Programming/Git/Git bash.md"
+    },
+    {
+      "basename": "Git Basics",
+      "path": "01 - Areas/01 - Programming/Git/Git Basics.md"
+    },
+    {
+      "basename": "Linux Architecture",
+      "path": "01 - Areas/01 - Programming/Linux/Linux Architecture.md"
+    },
+    {
+      "basename": "NFA",
+      "path": "01 - Areas/02 - Projects/D8AForce/NFA.md"
+    },
+    {
+      "basename": "Linux MoC",
+      "path": "01 - Areas/01 - Programming/Linux/Linux MoC.md"
+    },
+    {
+      "basename": "W15-2026",
+      "path": "01 - Areas/00 - Personal/01 - Weekly Notes/W15-2026.md"
+    },
+    {
+      "basename": "2026-04-22",
+      "path": "01 - Areas/00 - Personal/00 - Daily Notes/2026-04-22.md"
+    },
+    {
+      "basename": "CoR Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/CoR Pattern.md"
+    },
+    {
       "basename": "Design patterns",
       "path": "03 - Books/Design patterns.md"
+    },
+    {
+      "basename": "Prototype Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Prototype Pattern.md"
+    },
+    {
+      "basename": "How to be a good programmer",
+      "path": "01 - Areas/00 - Personal/Content/How to be a good programmer.md"
+    },
+    {
+      "basename": "01 Self-improvement MoC",
+      "path": "00 - Map of Content/01 Self-improvement MoC.md"
+    },
+    {
+      "basename": "Adviser-info parser",
+      "path": "01 - Areas/02 - Projects/D8AForce/Adviser-info parser.md"
+    },
+    {
+      "basename": "Exceptions",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Exceptions.md"
+    },
+    {
+      "basename": "Decorator Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Decorator Pattern.md"
+    },
+    {
+      "basename": "Builder Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Builder Pattern.md"
+    },
+    {
+      "basename": "Singleton Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Singleton Pattern.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "01 - Areas/01 - Programming/Database/PostgreSQL.md"
+    },
+    {
+      "basename": "How SQL queries work",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/How SQL queries work.md"
+    },
+    {
+      "basename": "General Info Postgres",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/General Info Postgres.md"
+    },
+    {
+      "basename": "Wanna buy",
+      "path": "01 - Areas/00 - Personal/Content/Wanna buy.md"
+    },
+    {
+      "basename": "02 - My Ideas MoC",
+      "path": "00 - Map of Content/02 - My Ideas MoC.md"
+    },
+    {
+      "basename": "My Roadmap",
+      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
     },
     {
       "basename": "Factory Pattern",
@@ -11,18 +155,6 @@
     {
       "basename": "Factory method (explanation)",
       "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Factory method (explanation).canvas"
-    },
-    {
-      "basename": "W15-2026",
-      "path": "01 - Areas/00 - Personal/01 - Weekly Notes/W15-2026.md"
-    },
-    {
-      "basename": "Singleton",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Singleton.md"
-    },
-    {
-      "basename": "My Roadmap",
-      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
     },
     {
       "basename": "SEC parser",
@@ -61,144 +193,12 @@
       "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
     },
     {
-      "basename": "Adviser-info parser",
-      "path": "01 - Areas/02 - Projects/D8AForce/Adviser-info parser.md"
-    },
-    {
       "basename": "VM vs Docker Container",
       "path": "01 - Areas/01 - Programming/Programming Content/VM vs Docker Container.md"
     },
     {
-      "basename": "Docker",
-      "path": "01 - Areas/01 - Programming/Programming Content/Docker.md"
-    },
-    {
       "basename": "Principal OOP pattern",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Principal OOP pattern.md"
-    },
-    {
-      "basename": "D8AForce",
-      "path": "01 - Areas/02 - Projects/D8AForce/D8AForce.md"
-    },
-    {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
-    },
-    {
-      "basename": "ACID",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/ACID.md"
-    },
-    {
-      "basename": "Wanna buy",
-      "path": "01 - Areas/00 - Personal/Content/Wanna buy.md"
-    },
-    {
-      "basename": "02 - My Ideas MoC",
-      "path": "00 - Map of Content/02 - My Ideas MoC.md"
-    },
-    {
-      "basename": "Hanna",
-      "path": "01 - Areas/00 - Personal/Content/Hanna.md"
-    },
-    {
-      "basename": "Obsidian Callouts",
-      "path": "01 - Areas/00 - Personal/Obsidian Callouts.md"
-    },
-    {
-      "basename": "SSH Protocol",
-      "path": "01 - Areas/01 - Programming/Programming Content/SSH Protocol.md"
-    },
-    {
-      "basename": "Template Rendering",
-      "path": "01 - Areas/01 - Programming/Programming Content/Template Rendering.md"
-    },
-    {
-      "basename": "PayPal",
-      "path": "01 - Areas/01 - Programming/Internet/Web/PayPal.md"
-    },
-    {
-      "basename": "Websocket",
-      "path": "01 - Areas/01 - Programming/Internet/Web/Websocket.md"
-    },
-    {
-      "basename": "Sum two nums",
-      "path": "01 - Areas/01 - Programming/Algorithms/Sum two nums.md"
-    },
-    {
-      "basename": "RPC",
-      "path": "01 - Areas/01 - Programming/Programming Content/RPC.md"
-    },
-    {
-      "basename": "PostgreSQL",
-      "path": "01 - Areas/01 - Programming/Database/PostgreSQL.md"
-    },
-    {
-      "basename": "PostgreSQL Functions",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/PostgreSQL Functions.md"
-    },
-    {
-      "basename": "Jaro Winkler's distance",
-      "path": "01 - Areas/01 - Programming/Algorithms/Jaro Winkler's distance.md"
-    },
-    {
-      "basename": "From source to running process",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/From source to running process.md"
-    },
-    {
-      "basename": "Spring Boot",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Boot.md"
-    },
-    {
-      "basename": "Spring Framework",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Framework.md"
-    },
-    {
-      "basename": "Clean Code Book",
-      "path": "03 - Books/Clean Code Book.md"
-    },
-    {
-      "basename": "Naming Conventions",
-      "path": "03 - Books/00 Content/Naming Conventions.md"
-    },
-    {
-      "basename": "Criteria API",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Criteria API.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "07 - Templates/Daily Note Template.md"
-    },
-    {
-      "basename": "Main",
-      "path": "01 - Areas/00 - Personal/Main.md"
-    },
-    {
-      "basename": "Generics ts",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Generics ts.md"
-    },
-    {
-      "basename": "TypeScript",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/TypeScript.md"
-    },
-    {
-      "basename": "Querying and Filtering Data",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md"
-    },
-    {
-      "basename": "Types",
-      "path": "01 - Areas/01 - Programming/Languages/TypeScript/Content/Types.md"
-    },
-    {
-      "basename": "Event Loop",
-      "path": "01 - Areas/01 - Programming/Internet/Web/Event Loop.md"
-    },
-    {
-      "basename": "Mutation Observer",
-      "path": "01 - Areas/01 - Programming/Internet/Web/Mutation Observer.md"
-    },
-    {
-      "basename": "W10-2026",
-      "path": "01 - Areas/00 - Personal/01 - Weekly Notes/W10-2026.md"
     }
   ],
   "omittedPaths": [],
