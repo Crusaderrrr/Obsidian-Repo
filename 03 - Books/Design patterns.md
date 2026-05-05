@@ -27,5 +27,8 @@ It is about *Object Oriented Design*.
 - [[Decorator Pattern]]
 - [[Observer Pattern]]
 - [[Factory Pattern]]
+- [[Abstract Factory Pattern]]
 - [[Prototype Pattern]]
 - [[CoR Pattern]]
+- [[Command Pattern]]
+- [[Template Method Pattern]]

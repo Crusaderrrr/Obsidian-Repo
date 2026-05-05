@@ -1,4 +1,4 @@
-**OpenSSL** <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (almost)
+**OpenSSL** <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> 
 - Issue 1 `CVE-2026-28390` — OpenSSL NULL pointer dereference in CMS EnvelopedData (KeyTransport), DoS
     
 - Issue 8 `CVE-2026-31790` — OpenSSL RSASVE key encapsulation leaks uninitialized memory to remote peer
@@ -18,47 +18,59 @@
 - Issue 251 `CVE-2025-69421` — OpenSSL NULL pointer dereference in `PKCS12_item_decrypt_d2i_ex()` on malformed PKCS#12
 
 Issues 8, 9, 13, 84 - <mark style="background:rgba(205, 244, 105, 0.55)">fix by triggering the pipeline (package auto updates)</mark>
-Issues 1, 15, 21, 26, 251 - `apt-get install -y --only-upgrade openssl libssl-dev` <mark style="background:rgba(205, 244, 105, 0.55)">in front Dockefile</mark>
+Issues 1, 15, 21, 26, 251 - <mark style="background:rgba(205, 244, 105, 0.55)">node version upgrade would fix this </mark>
 
-**Node.js Runtime** <mark style="background:#d4b106">REVIEW</mark>
-- *Issue 3* `CVE-2026-21710` — Node.js HTTP server crashes on `__proto__` header when accessing `req.headersDistinct` - <mark style="background:rgba(205, 244, 105, 0.55)">switch to node v25.8.2</mark>
+---
+
+**Node.js Runtime** <mark style="background:#b1ffff">DENIS</mark> (me or him, should pull a new image of that version )
+- *Issue 3* `CVE-2026-21710` — Node.js HTTP server crashes on `__proto__` header when accessing `req.headersDistinct` - <mark style="background:rgba(205, 244, 105, 0.55)">switch to node v25.8.2-slim</mark>
     
-- *Issue 133* `CVE-2026-21637` — Node.js TLS server crash/FD leak when `pskCallback` or `ALPNCallback` throw synchronously - <mark style="background:rgba(205, 244, 105, 0.55)">switch to node v25.8.2</mark>
+- *Issue 133* `CVE-2026-21637` — Node.js TLS server crash/FD leak when `pskCallback` or `ALPNCallback` throw synchronously - <mark style="background:rgba(205, 244, 105, 0.55)">switch to node v25.8.2-slim</mark>
 
-**Apache HTTP Server**
-- Issue 6 `CVE-2025-58098` — Apache httpd ≤2.4.65 SSI `#exec cmd` receives shell-escaped query string (score 8.3)
+---
+
+**Apache HTTP Server** <mark style="background:#b1ffff">DENIS</mark> (or me should push newer alpine 3.22) or <mark style="background:#b1ffff">NNTF</mark>
+-  Issue 6 `CVE-2025-58098` — Apache httpd ≤2.4.65 SSI `#exec cmd` receives shell-escaped query string (score 8.3)
     
 - Issue 73 `CVE-2025-55753` — Apache httpd ACME renewal integer overflow leads to infinite retry loop
 
-**OS Libraries**
-- Issue 4 `CVE-2026-22184` — zlib buffer overflow in standalone `untgz` utility via long archive name
-    
-- Issue 5 `CVE-2026-40200` — musl libc stack corruption in `qsort` on very large arrays (score 8.1)
-    
-- Issue 18 `CVE-2024-57795` — Linux kernel vulnerability in `linux-libc-dev` (Ubuntu 24.04)
-    
-- Issue 27 `CVE-2026-23111` — Linux kernel vulnerability in `linux-image-aws` (Ubuntu 24.04)
-    
-- Issue 278 `CVE-2025-68263` — Linux kernel vulnerability in `linux-image-aws`, score 8.4
-    
-- Issue 241 `CVE-2025-22022` — Linux kernel vulnerability in `linux-libc-dev` (Ubuntu 24.04)
-    
-- Issue 293 `CVE-2025-62626` — AMD CPU RDSEED insufficient entropy, local attacker can influence random values (score 10)
+---
+
+**OS Libraries** <mark style="background:#d4b106">IN PROGRESS</mark>
+- [ ] Issue 4 `CVE-2026-22184` — zlib buffer overflow in standalone `untgz` utility via long archive name
+	**What to do:**
+	- Run this to confirm `untgz` isn't even present in your image:
+	    `docker run --rm <your-ecr-url>/httpd:alpine3.22 which untgz`
+	    
+	- If it returns nothing — the vulnerable binary doesn't exist in your container and you can document it as a **accepted/false positive risk** until Alpine releases a patch
+
+- [ ] Issue 5 `CVE-2026-40200` — musl libc stack corruption in `qsort` on very large arrays (score 8.1)
+	**What to do:**
+	- Check your current version:
+	    `docker run --rm <your-ecr-url>/amazoncorretto:8-alpine3.21 apk info musl`
+	    
+	- If it's below `1.2.5-r11`, your `apk update && apk upgrade --no-cache` in the Dockerfile will fix it — you just need to **rebuild and redeploy** the `dev-back` image through your pipeline. The patch is already in Alpine's package repos
+
+---
 
 **Spring Framework / Boot (dev-back)**
-- Issue 29 `CVE-2024-22243` — Spring `UriComponentsBuilder` open redirect / SSRF via external URL (score 8.1)
+
+-  Issue 29 `CVE-2024-22243` — Spring `UriComponentsBuilder` open redirect / SSRF via external URL (score 8.1) <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> `id 'org.springframework.boot' version '2.7.18'`)
+	
+- Issue 46 `CVE-2024-22262` — Spring `UriComponentsBuilder` SSRF/redirect bypass follow-up (score 8.1) <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> `id 'org.springframework.boot' version '2.7.18'`)
+	
+- Issue 83 `CVE-2024-22259` — Spring `UriComponentsBuilder` SSRF/redirect (score 8.1) 
+	<mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> `id 'org.springframework.boot' version '2.7.18'`)
     
-- Issue 46 `CVE-2024-22262` — Spring `UriComponentsBuilder` SSRF/redirect bypass follow-up (score 8.1)
+- Issue 47 `CVE-2024-38816` — Spring WebMvc path traversal via static resource serving — **exploit available** (score 7.5) <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> `id 'org.springframework.boot' version '2.7.18'`)
     
-- Issue 83 `CVE-2024-22259` — Spring `UriComponentsBuilder` SSRF/redirect (score 8.1)
+- Issue 51 `CVE-2024-38819` — Spring WebMvc path traversal via functional web framework static resources <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> `id 'org.springframework.boot' version '2.7.18'`)
     
-- Issue 47 `CVE-2024-38816` — Spring WebMvc path traversal via static resource serving — **exploit available** (score 7.5)
+- Issue 40 `CVE-2025-41249` — Spring annotation resolution failure in parameterized type hierarchies, may bypass authorization <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> `id 'org.springframework.boot' version '2.7.18'`)
     
-- Issue 51 `CVE-2024-38819` — Spring WebMvc path traversal via functional web framework static resources
-    
-- Issue 40 `CVE-2025-41249` — Spring annotation resolution failure in parameterized type hierarchies, may bypass authorization
-    
-- Issue 48 `CVE-2025-22235` — Spring Boot `EndpointRequest.to()` creates `null/**` matcher for disabled actuator endpoints
+- Issue 48 `CVE-2025-22235` — Spring Boot `EndpointRequest.to()` creates `null/**` matcher for disabled actuator endpoints <mark style="background:#ff4d4f">NOT FIXED</mark> (swap from boot 2.7 to 3.x)
+
+---
 
 **Netty (dev-back)** <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark>
 - Issue 24 `CVE-2026-33871` — Netty HTTP/2 DoS via flood of zero-byte `CONTINUATION` frames (score 7.5) <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (version 4.1.132.Final)
@@ -72,17 +84,23 @@ Issues 1, 15, 21, 26, 251 - `apt-get install -y --only-upgrade openssl libssl-de
 - Issue 208 `CVE-2025-24970` — Netty SslHandler native crash on specially crafted packet 
 	<mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> in Issue 24
 
-**Logback (dev-back)**
+---
+
+**Logback (dev-back)** <mark style="background:#ff4d4f">NOT FIXED</mark> (version with fix is incompatible with current spring boot version)
 - Issue 25 `CVE-2023-6378` — Logback receiver deserialization DoS via poisoned data (v1.4.11)
     
 - Issue 52 `CVE-2023-6481` — Logback receiver deserialization DoS follow-up (v1.4.13/1.3.13/1.2.12)
 
-**Jetty (dev-back)**
+---
+
+**Jetty (dev-back)** <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> v9.4.57.v20241219)
 - Issue 19 `CVE-2024-13009` — Jetty buffer corruption and data sharing between requests on gzip inflate error
     
 - Issue 78 `CVE-2024-9823` — Jetty DosFilter OOM via repeated crafted requests
     
 - Issue 45 `CVE-2026-2332` — Jetty HTTP/1.1 request smuggling via chunk extensions
+
+---
 
 **Node.js npm Packages (dev-front)**
 - Issue 2 `CVE-2026-33671` — picomatch ReDoS via crafted extglob `+()` / `*()` patterns 
@@ -118,22 +136,34 @@ Issues 1, 15, 21, 26, 251 - `apt-get install -y --only-upgrade openssl libssl-de
 - Issue 258 `CVE-2026-29063` — immutable.js prototype pollution via `mergeDeep`, `merge`, `Map.toJS` <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (in crit vlbs)
     
 - Issue 61 `CVE-2026-33151` — socket.io-parser issue <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> v4.2.6)
+	
+- Issue 150 / CVE-2025-69873 - ajv (Another JSON Schema Validator) REDOS vulnerability
 
-**Linux Kernel / EC2**
-- Issue 524 `CVE-2026-23074` — Linux kernel vulnerability (Ubuntu 24.04 / EC2)
-    
-- Issue 761 `CVE-2026-34982` — Linux kernel vulnerability (Ubuntu 24.04 / EC2)
-    
-- Issue 381 `CVE-2025-38022` — Linux kernel vulnerability (Ubuntu 24.04 / EC2)
-    
-- Issue 136 `CVE-2026-24842` — Linux kernel vulnerability (Ubuntu 24.04 / EC2)
-    
-- Issue 145 `CVE-2026-27903` — Linux kernel vulnerability (Ubuntu 24.04 / EC2)
-    
-- Issue 150 `CVE-2025-69873` — Linux kernel vulnerability (Ubuntu 24.04 / EC2)
-    
-- Issue 168 `CVE-2026-33894` — Linux kernel vulnerability (Ubuntu 24.04 / EC2)
+---
 
+**Linux Kernel / EC2** <mark style="background:#b1ffff">DENIS</mark>
+- Issue 524 / CVE-2026-23074
+    
+- Issue 761 / CVE-2026-34982
+    
+- Issue 381 / CVE-2025-38022
+    
+- Issue 136 / CVE-2026-24842
+    
+- Issue 18 / CVE-2024-57795
+    
+- Issue 27 / CVE-2026-23111
+    
+- Issue 278 / CVE-2025-68263
+    
+- Issue 241 / CVE-2025-22022
+    
+- Issue 293 / CVE-2025-62626 (The AMD CPU RDSEED entropy issue, Score: 10)
 
 
 # NNTF - No Need To Fix
+
+
+# Spring related (dev-back)
+
+The D8AForce `dev-back` service is running on an EOL stack — Spring Boot 2.7.x, Spring Framework 5.3.x, Jetty 9.4.x, and logback 1.2.x — which is the root cause of the majority of the Java CVEs reported by AWS Inspector. You have two options: apply individual Gradle dependency constraints as a short-term stopgap (e.g., bump `spring-web` to `5.3.34`, Jetty to `9.4.60`, logback to `1.4.14`), but these constraints will accumulate, conflict with each other due to mismatched transitive dependencies like SLF4J, and new CVEs will keep arriving since all these libraries are EOL; or migrate to **Spring Boot 3.5.x + Java 17** as the permanent fix, which resolves all Spring, Jetty, and logback CVEs in one move at the cost of a 3–5 day migration effort involving a `javax` → `jakarta` namespace rename, a Spring Security config rewrite, and updating the Dockerfile from `amazoncorretto:8-alpine3.21` to `amazoncorretto:17-alpine3.21`. The constraints approach is reasonable as a temporary measure if the migration needs to be planned for a future sprint, but the migration is the only option that actually gets the project off the CVE treadmill long-term.

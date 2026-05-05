@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "01 - Areas/02 - Projects/D8AForce/High Vulnerabilities report.md",
-      "timestamp": 1777551336474
+      "filepath": "JOIN Types.md",
+      "timestamp": 1777988308151
     },
     {
-      "filepath": "03 - Books/00 Content/General.md",
-      "timestamp": 1777551336106
+      "filepath": "01 - Areas/01 - Programming/Database/PostgreSQL.md",
+      "timestamp": 1777988293236
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Internet/Web/Internet Protocol.md",
-      "timestamp": 1777537092942
+      "filepath": "00 - Map of Content/00 - Programming MoC.md",
+      "timestamp": 1777988291309
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Database/DB - content/ACID.md",
+      "timestamp": 1777988288337
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Automatization/n8n.md",
+      "timestamp": 1777986478489
     }
   ],
   "bookmarkedFileStore": [],

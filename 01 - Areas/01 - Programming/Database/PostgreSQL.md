@@ -16,3 +16,4 @@ note type: Map of Content
 - [[Data types]]
 - [[Querying and Filtering Data]]
 - [[PostgreSQL Functions]]
+- [[JOINs]]

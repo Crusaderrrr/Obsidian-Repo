@@ -39,6 +39,7 @@ Java was designed to be simple, robust, and portable, with the philosophy of "wr
 - [[Pass-by-value]]
 - [[printf]]
 - [[Platforms]]
+- [[Reflection API]]
 - [[Streams]]
 - [[Type Casting]]
 - [[User Input]]
@@ -57,6 +58,7 @@ Java was designed to be simple, robust, and portable, with the philosophy of "wr
 - [[Spring Data JPA]]
 - [[Spring MVC]]
 - [[Spring Boot Roadmap]]
+- [[ApplicationContext]]
 
 
 ## Patterns 

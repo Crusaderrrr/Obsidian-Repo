@@ -64,8 +64,8 @@
 ## Spring (Core, MVC, Data)
 
 ### Core Spring / контейнер
-- [ ] Понимаю идею IoC и Dependency Injection
-- [ ] Знаю, как поднимается ApplicationContext
+- [x] Понимаю идею IoC и Dependency Injection
+- [x] Знаю, как поднимается ApplicationContext
 - [ ] Умею использовать `@Configuration` и `@Bean`
 - [ ] Понимаю разницу между component‑сканированием и явной декларацией бинов
 - [ ] Знаю основные scope’ы бинов (singleton, prototype и т.п.)
@@ -78,17 +78,17 @@
 - [ ] Понимаю, как устроены фильтры и интерцепторы в Spring
 
 ### Spring Data / JPA
-- [ ] Понимаю, как маппятся сущности на таблицы (`@Entity`, `@Table`, `@Column`)
-- [ ] Умею описывать связи (`@OneToMany`, `@ManyToOne`, `@ManyToMany`, `@OneToOne`)
-- [ ] Понимаю разницу между LAZY и EAGER загрузкой
+- [x] Понимаю, как маппятся сущности на таблицы (`@Entity`, `@Table`, `@Column`)
+- [x] Умею описывать связи (`@OneToMany`, `@ManyToOne`, `@ManyToMany`, `@OneToOne`)
+- [x] Понимаю разницу между LAZY и EAGER загрузкой
 - [ ] Знаю, что такое N+1 проблема и как её избегать
 - [ ] Умею писать репозитории (CRUD, кастомные запросы)
 - [ ] Понимаю, как работают транзакции в Spring (`@Transactional`)
 
 ### Валидация и DTO
 - [ ] Использую Bean Validation (`@NotNull`, `@Size`, и др.)
-- [ ] Умею разделять entity и DTO
-- [ ] Умею маппить entity ↔ DTO (вручную или через MapStruct/аналог)
+- [x] Умею разделять entity и DTO
+- [x] Умею маппить entity ↔ DTO (вручную или через MapStruct/аналог)
 
 ### Тестирование в Spring
 - [ ] Умею писать unit‑тесты для сервисов (с моками зависимостей)
@@ -100,8 +100,8 @@
 ## Docker
 
 ### Базовые концепции
-- [ ] Понимаю разницу между образом (image) и контейнером (container)
-- [ ] Знаю, как смотреть запущенные контейнеры, логи, статусы
+- [x] Понимаю разницу между образом (image) и контейнером (container)
+- [x] Знаю, как смотреть запущенные контейнеры, логи, статусы
 - [ ] Умею запускать контейнер с маппингом портов и томов
 
 ### Dockerfile
@@ -161,11 +161,11 @@
 - [ ] `Optional<T>` — proper usage and avoiding `.get()` without checking
 
 ## Exception Handling
-- [ ] Checked vs unchecked exceptions — design decisions
+- [x] Checked vs unchecked exceptions — design decisions
 - [ ] Custom exception hierarchies
 - [ ] `try-with-resources` and `AutoCloseable`
 - [ ] Multi-catch blocks and exception chaining (`initCause`, `getCause`)
-- [ ] Best practices — never swallow exceptions, log properly, fail fast
+- [x] Best practices — never swallow exceptions, log properly, fail fast
 
 ## Concurrency & Multithreading
 - [ ] `Thread` lifecycle and `Runnable` vs `Callable`

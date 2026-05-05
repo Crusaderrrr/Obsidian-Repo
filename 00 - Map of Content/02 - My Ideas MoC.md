@@ -11,3 +11,6 @@ note type: Map of Content
 - [[Obsidian Callouts]]
 - [[Hanna]]
 - [[Wanna buy]]
+
+# Tattoo
+- [[Irezumi]]

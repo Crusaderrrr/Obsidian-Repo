@@ -1,8 +1,128 @@
 {
   "recentFiles": [
     {
+      "basename": "JOINs",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/JOINs.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "01 - Areas/01 - Programming/Database/PostgreSQL.md"
+    },
+    {
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "ACID",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/ACID.md"
+    },
+    {
+      "basename": "n8n",
+      "path": "01 - Areas/01 - Programming/Automatization/n8n.md"
+    },
+    {
+      "basename": "Rants",
+      "path": "01 - Areas/01 - Programming/Programming Content/Rants.md"
+    },
+    {
+      "basename": "Querying and Filtering Data",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md"
+    },
+    {
+      "basename": "PostgreSQL Functions",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/PostgreSQL Functions.md"
+    },
+    {
+      "basename": "How SQL queries work",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/How SQL queries work.md"
+    },
+    {
+      "basename": "Reflection API",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Reflection API.md"
+    },
+    {
+      "basename": "Database",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Database.md"
+    },
+    {
+      "basename": "N+1 Problem",
+      "path": "01 - Areas/01 - Programming/Programming Content/N+1 Problem.md"
+    },
+    {
+      "basename": "My Roadmap",
+      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
+    },
+    {
+      "basename": "Java",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
+    },
+    {
+      "basename": "ApplicationContext",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/ApplicationContext.md"
+    },
+    {
+      "basename": "Spring Boot",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Boot.md"
+    },
+    {
+      "basename": "Spring Framework",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Framework.md"
+    },
+    {
+      "basename": "From source to running process",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/From source to running process.md"
+    },
+    {
+      "basename": "Spring Boot Roadmap",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Boot Roadmap.md"
+    },
+    {
+      "basename": "Constant Variables",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Constant Variables.md"
+    },
+    {
+      "basename": "Principal OOP pattern",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Principal OOP pattern.md"
+    },
+    {
       "basename": "High Vulnerabilities report",
       "path": "01 - Areas/02 - Projects/D8AForce/High Vulnerabilities report.md"
+    },
+    {
+      "basename": "Design patterns",
+      "path": "03 - Books/Design patterns.md"
+    },
+    {
+      "basename": "Template Method Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Template Method Pattern.md"
+    },
+    {
+      "basename": "Abstract Factory Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Abstract Factory Pattern.md"
+    },
+    {
+      "basename": "Factory Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Factory Pattern.md"
+    },
+    {
+      "basename": "Command Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Command Pattern.md"
+    },
+    {
+      "basename": "CoR Pattern",
+      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/CoR Pattern.md"
+    },
+    {
+      "basename": "W15-2026",
+      "path": "01 - Areas/00 - Personal/01 - Weekly Notes/W15-2026.md"
+    },
+    {
+      "basename": "02 - My Ideas MoC",
+      "path": "00 - Map of Content/02 - My Ideas MoC.md"
+    },
+    {
+      "basename": "Critical Vulnerabilities Report",
+      "path": "01 - Areas/02 - Projects/D8AForce/Critical Vulnerabilities Report.md"
     },
     {
       "basename": "General",
@@ -31,14 +151,6 @@
     {
       "basename": "How do we read the code",
       "path": "03 - Books/00 Content/How do we read the code.md"
-    },
-    {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
-    },
-    {
-      "basename": "Critical Vulnerabilities Report",
-      "path": "01 - Areas/02 - Projects/D8AForce/Critical Vulnerabilities Report.md"
     },
     {
       "basename": "Docker",
@@ -77,20 +189,8 @@
       "path": "01 - Areas/01 - Programming/Linux/Linux MoC.md"
     },
     {
-      "basename": "W15-2026",
-      "path": "01 - Areas/00 - Personal/01 - Weekly Notes/W15-2026.md"
-    },
-    {
       "basename": "2026-04-22",
       "path": "01 - Areas/00 - Personal/00 - Daily Notes/2026-04-22.md"
-    },
-    {
-      "basename": "CoR Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/CoR Pattern.md"
-    },
-    {
-      "basename": "Design patterns",
-      "path": "03 - Books/Design patterns.md"
     },
     {
       "basename": "Prototype Pattern",
@@ -99,106 +199,6 @@
     {
       "basename": "How to be a good programmer",
       "path": "01 - Areas/00 - Personal/Content/How to be a good programmer.md"
-    },
-    {
-      "basename": "01 Self-improvement MoC",
-      "path": "00 - Map of Content/01 Self-improvement MoC.md"
-    },
-    {
-      "basename": "Adviser-info parser",
-      "path": "01 - Areas/02 - Projects/D8AForce/Adviser-info parser.md"
-    },
-    {
-      "basename": "Exceptions",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Exceptions.md"
-    },
-    {
-      "basename": "Decorator Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Decorator Pattern.md"
-    },
-    {
-      "basename": "Builder Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Builder Pattern.md"
-    },
-    {
-      "basename": "Singleton Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Singleton Pattern.md"
-    },
-    {
-      "basename": "PostgreSQL",
-      "path": "01 - Areas/01 - Programming/Database/PostgreSQL.md"
-    },
-    {
-      "basename": "How SQL queries work",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/How SQL queries work.md"
-    },
-    {
-      "basename": "General Info Postgres",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/General Info Postgres.md"
-    },
-    {
-      "basename": "Wanna buy",
-      "path": "01 - Areas/00 - Personal/Content/Wanna buy.md"
-    },
-    {
-      "basename": "02 - My Ideas MoC",
-      "path": "00 - Map of Content/02 - My Ideas MoC.md"
-    },
-    {
-      "basename": "My Roadmap",
-      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
-    },
-    {
-      "basename": "Factory Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Factory Pattern.md"
-    },
-    {
-      "basename": "Factory method (explanation)",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Factory method (explanation).canvas"
-    },
-    {
-      "basename": "SEC parser",
-      "path": "01 - Areas/02 - Projects/D8AForce/SEC parser.md"
-    },
-    {
-      "basename": "00 - MongoDB MoC",
-      "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - MongoDB MoC.md"
-    },
-    {
-      "basename": "Transactions",
-      "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Transactions.md"
-    },
-    {
-      "basename": "Creating an API for Cars and Rentals",
-      "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Creating an API for Cars and Rentals.md"
-    },
-    {
-      "basename": "Modeling Relationships with Mongoose",
-      "path": "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content/Modeling Relationships with Mongoose.md"
-    },
-    {
-      "basename": "CFP parser",
-      "path": "01 - Areas/02 - Projects/D8AForce/CFP parser.md"
-    },
-    {
-      "basename": "SOLID",
-      "path": "01 - Areas/01 - Programming/Code Standards/SOLID.md"
-    },
-    {
-      "basename": "Constant Variables",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Constant Variables.md"
-    },
-    {
-      "basename": "Java",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
-    },
-    {
-      "basename": "VM vs Docker Container",
-      "path": "01 - Areas/01 - Programming/Programming Content/VM vs Docker Container.md"
-    },
-    {
-      "basename": "Principal OOP pattern",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Principal OOP pattern.md"
     }
   ],
   "omittedPaths": [],
