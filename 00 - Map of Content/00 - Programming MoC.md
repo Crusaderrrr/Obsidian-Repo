@@ -27,6 +27,7 @@ note type: Map of Content
 - [[Template Rendering]]
 - [[SSH Protocol]]
 - [[N+1 Problem]]
+- [[Composition over inheritance principle]]
 
 # Linux 
 - [[Linux MoC]]

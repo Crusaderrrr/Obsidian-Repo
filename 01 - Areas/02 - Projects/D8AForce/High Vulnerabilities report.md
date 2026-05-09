@@ -55,9 +55,9 @@ Issues 1, 15, 21, 26, 251 - <mark style="background:rgba(205, 244, 105, 0.55)">n
 
 **Spring Framework / Boot (dev-back)**
 
--  Issue 29 `CVE-2024-22243` — Spring `UriComponentsBuilder` open redirect / SSRF via external URL (score 8.1) <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> `id 'org.springframework.boot' version '2.7.18'`)
+-  Issue 29 `CVE-2024-22243` — Spring `UriComponentsBuilder` open redirect / SSRF via external URL (score 8.1) <mark style="background:#ff4d4f">NOT FIXED</mark> (-> `id 'org.springframework.boot' version '2.7.18'`)
 	
-- Issue 46 `CVE-2024-22262` — Spring `UriComponentsBuilder` SSRF/redirect bypass follow-up (score 8.1) <mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> `id 'org.springframework.boot' version '2.7.18'`)
+- Issue 46 `CVE-2024-22262` — Spring `UriComponentsBuilder` SSRF/redirect bypass follow-up (score 8.1) <mark style="background:#ff4d4f">NOT FIXED</mark> 
 	
 - Issue 83 `CVE-2024-22259` — Spring `UriComponentsBuilder` SSRF/redirect (score 8.1) 
 	<mark style="background:rgba(205, 244, 105, 0.55)">FIXED</mark> (-> `id 'org.springframework.boot' version '2.7.18'`)

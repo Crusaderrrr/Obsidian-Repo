@@ -17,3 +17,5 @@ note type: Map of Content
 - [[Querying and Filtering Data]]
 - [[PostgreSQL Functions]]
 - [[JOINs]]
+- [[Sub queries]]
+- [[EXISTS vs IN]]

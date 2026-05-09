@@ -1,0 +1,4 @@
+- Built with kotlin 
+- there is a readme 
+- in `application.properties` there is a property `cfa.endpoint`, in the end we can change the `&sortby=` in order to find more investors 
+- it is better not to stop the parser 

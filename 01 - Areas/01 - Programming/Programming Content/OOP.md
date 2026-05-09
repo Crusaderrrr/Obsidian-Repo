@@ -29,3 +29,4 @@ Moreover there are two important concepts:
 
 ## Relative Info
 - [[Abstract classes]]
+- [[Abstract Class vs Interface]]

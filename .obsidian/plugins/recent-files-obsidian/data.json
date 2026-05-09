@@ -1,16 +1,160 @@
 {
   "recentFiles": [
     {
-      "basename": "JOINs",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/JOINs.md"
+      "basename": "Mastering Claude Code",
+      "path": "Mastering Claude Code.md"
+    },
+    {
+      "basename": "Websocket",
+      "path": "01 - Areas/01 - Programming/Internet/Web/Websocket.md"
+    },
+    {
+      "basename": "Clean Code Book",
+      "path": "03 - Books/Clean Code Book.md"
+    },
+    {
+      "basename": "Architecture Forming Rules",
+      "path": "01 - Areas/01 - Programming/Code Standards/Architecture Forming Rules.md"
+    },
+    {
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "My Roadmap",
+      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
+    },
+    {
+      "basename": "CFA parser",
+      "path": "01 - Areas/02 - Projects/D8AForce/parsers/CFA parser.md"
+    },
+    {
+      "basename": "Adviser-info parser",
+      "path": "01 - Areas/02 - Projects/D8AForce/parsers/Adviser-info parser.md"
+    },
+    {
+      "basename": "CFP parser",
+      "path": "01 - Areas/02 - Projects/D8AForce/parsers/CFP parser.md"
+    },
+    {
+      "basename": "SEC parser",
+      "path": "01 - Areas/02 - Projects/D8AForce/parsers/SEC parser.md"
+    },
+    {
+      "basename": "NFA",
+      "path": "01 - Areas/02 - Projects/D8AForce/parsers/NFA.md"
+    },
+    {
+      "basename": "High Vulnerabilities report",
+      "path": "01 - Areas/02 - Projects/D8AForce/High Vulnerabilities report.md"
+    },
+    {
+      "basename": "Парадигмы Программирования",
+      "path": "01 - Areas/01 - Programming/Code Standards/Парадигмы Программирования.md"
+    },
+    {
+      "basename": "Composition over inheritance principle",
+      "path": "01 - Areas/01 - Programming/Programming Content/Composition over inheritance principle.md"
+    },
+    {
+      "basename": "Неделя 5",
+      "path": "04 - Gym/Неделя 5.md"
+    },
+    {
+      "basename": "Неделя 6",
+      "path": "04 - Gym/Неделя 6.md"
+    },
+    {
+      "basename": "Неделя 7",
+      "path": "04 - Gym/Неделя 7.md"
+    },
+    {
+      "basename": "m1w4 - Tuesday",
+      "path": "04 - Gym/Content/m1w4 - Tuesday.md"
+    },
+    {
+      "basename": "m1w3 - Monday",
+      "path": "04 - Gym/Content/m1w3 - Monday.md"
+    },
+    {
+      "basename": "m1w2 - Monday(1)",
+      "path": "04 - Gym/Content/m1w2 - Monday(1).md"
+    },
+    {
+      "basename": "Abstract Class vs Interface",
+      "path": "01 - Areas/01 - Programming/Code Standards/Abstract Class vs Interface.md"
+    },
+    {
+      "basename": "OOP",
+      "path": "01 - Areas/01 - Programming/Programming Content/OOP.md"
+    },
+    {
+      "basename": "Hash Table",
+      "path": "01 - Areas/01 - Programming/Programming Content/Hash Table.md"
+    },
+    {
+      "basename": "Abstract classes",
+      "path": "01 - Areas/01 - Programming/Programming Content/Abstract classes.md"
+    },
+    {
+      "basename": "The most important coding rules",
+      "path": "01 - Areas/01 - Programming/Code Standards/The most important coding rules.md"
+    },
+    {
+      "basename": "Abbreviatures",
+      "path": "01 - Areas/01 - Programming/Code Standards/Abbreviatures.md"
+    },
+    {
+      "basename": "Template Rendering",
+      "path": "01 - Areas/01 - Programming/Programming Content/Template Rendering.md"
+    },
+    {
+      "basename": "Optimistic and Pessimistic locking",
+      "path": "01 - Areas/01 - Programming/Programming Content/Optimistic and Pessimistic locking.md"
+    },
+    {
+      "basename": "Java",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
+    },
+    {
+      "basename": "Java Classes",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Classes.md"
+    },
+    {
+      "basename": "Aggregation and Composition",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Aggregation and Composition.md"
+    },
+    {
+      "basename": "EXISTS vs IN",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/EXISTS vs IN.md"
+    },
+    {
+      "basename": "Final Project",
+      "path": "01 - Areas/02 - Projects/Course Projects/Final Project/Final Project.md"
     },
     {
       "basename": "PostgreSQL",
       "path": "01 - Areas/01 - Programming/Database/PostgreSQL.md"
     },
     {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
+      "basename": "PostgreSQL Functions",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/PostgreSQL Functions.md"
+    },
+    {
+      "basename": "Querying and Filtering Data",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md"
+    },
+    {
+      "basename": "How SQL queries work",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/How SQL queries work.md"
+    },
+    {
+      "basename": "Sub queries",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/Sub queries.md"
+    },
+    {
+      "basename": "JOINs",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/JOINs.md"
     },
     {
       "basename": "ACID",
@@ -25,18 +169,6 @@
       "path": "01 - Areas/01 - Programming/Programming Content/Rants.md"
     },
     {
-      "basename": "Querying and Filtering Data",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md"
-    },
-    {
-      "basename": "PostgreSQL Functions",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/PostgreSQL Functions.md"
-    },
-    {
-      "basename": "How SQL queries work",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/How SQL queries work.md"
-    },
-    {
       "basename": "Reflection API",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Reflection API.md"
     },
@@ -47,14 +179,6 @@
     {
       "basename": "N+1 Problem",
       "path": "01 - Areas/01 - Programming/Programming Content/N+1 Problem.md"
-    },
-    {
-      "basename": "My Roadmap",
-      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
-    },
-    {
-      "basename": "Java",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
     },
     {
       "basename": "ApplicationContext",
@@ -75,130 +199,6 @@
     {
       "basename": "Spring Boot Roadmap",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Boot Roadmap.md"
-    },
-    {
-      "basename": "Constant Variables",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Constant Variables.md"
-    },
-    {
-      "basename": "Principal OOP pattern",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Principal OOP pattern.md"
-    },
-    {
-      "basename": "High Vulnerabilities report",
-      "path": "01 - Areas/02 - Projects/D8AForce/High Vulnerabilities report.md"
-    },
-    {
-      "basename": "Design patterns",
-      "path": "03 - Books/Design patterns.md"
-    },
-    {
-      "basename": "Template Method Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Template Method Pattern.md"
-    },
-    {
-      "basename": "Abstract Factory Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Abstract Factory Pattern.md"
-    },
-    {
-      "basename": "Factory Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Factory Pattern.md"
-    },
-    {
-      "basename": "Command Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Command Pattern.md"
-    },
-    {
-      "basename": "CoR Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/CoR Pattern.md"
-    },
-    {
-      "basename": "W15-2026",
-      "path": "01 - Areas/00 - Personal/01 - Weekly Notes/W15-2026.md"
-    },
-    {
-      "basename": "02 - My Ideas MoC",
-      "path": "00 - Map of Content/02 - My Ideas MoC.md"
-    },
-    {
-      "basename": "Critical Vulnerabilities Report",
-      "path": "01 - Areas/02 - Projects/D8AForce/Critical Vulnerabilities Report.md"
-    },
-    {
-      "basename": "General",
-      "path": "03 - Books/00 Content/General.md"
-    },
-    {
-      "basename": "Internet Protocol",
-      "path": "01 - Areas/01 - Programming/Internet/Web/Internet Protocol.md"
-    },
-    {
-      "basename": "Clean Code Book",
-      "path": "03 - Books/Clean Code Book.md"
-    },
-    {
-      "basename": "OOP",
-      "path": "01 - Areas/01 - Programming/Programming Content/OOP.md"
-    },
-    {
-      "basename": "Naming Conventions",
-      "path": "03 - Books/00 Content/Naming Conventions.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "03 - Books/00 Content/Classes.md"
-    },
-    {
-      "basename": "How do we read the code",
-      "path": "03 - Books/00 Content/How do we read the code.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "01 - Areas/01 - Programming/Programming Content/Docker.md"
-    },
-    {
-      "basename": "00 - Git MoC",
-      "path": "01 - Areas/01 - Programming/Git/00 - Git MoC.md"
-    },
-    {
-      "basename": "Git Basic Commands",
-      "path": "01 - Areas/01 - Programming/Git/Git Basic Commands.md"
-    },
-    {
-      "basename": "Git Rebase",
-      "path": "01 - Areas/01 - Programming/Git/Git Rebase.md"
-    },
-    {
-      "basename": "Git bash",
-      "path": "01 - Areas/01 - Programming/Git/Git bash.md"
-    },
-    {
-      "basename": "Git Basics",
-      "path": "01 - Areas/01 - Programming/Git/Git Basics.md"
-    },
-    {
-      "basename": "Linux Architecture",
-      "path": "01 - Areas/01 - Programming/Linux/Linux Architecture.md"
-    },
-    {
-      "basename": "NFA",
-      "path": "01 - Areas/02 - Projects/D8AForce/NFA.md"
-    },
-    {
-      "basename": "Linux MoC",
-      "path": "01 - Areas/01 - Programming/Linux/Linux MoC.md"
-    },
-    {
-      "basename": "2026-04-22",
-      "path": "01 - Areas/00 - Personal/00 - Daily Notes/2026-04-22.md"
-    },
-    {
-      "basename": "Prototype Pattern",
-      "path": "01 - Areas/01 - Programming/Code Standards/Patterns/Prototype Pattern.md"
-    },
-    {
-      "basename": "How to be a good programmer",
-      "path": "01 - Areas/00 - Personal/Content/How to be a good programmer.md"
     }
   ],
   "omittedPaths": [],

@@ -30,14 +30,14 @@
 
 ### SQL‑база
 - [x] Уверенно пишу `SELECT`, `INSERT`, `UPDATE`, `DELETE`
-- [ ] Понимаю разницу между `INNER`, `LEFT`, `RIGHT`, `FULL` JOIN
-- [ ] Умею использовать агрегатные функции (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
+- [x] Понимаю разницу между `INNER`, `LEFT`, `RIGHT`, `FULL` JOIN
+- [x] Умею использовать агрегатные функции (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
 - [x] Знаю, как работают `GROUP BY` и `HAVING`
-- [ ] Понимаю, когда использовать подзапросы
+- [x] Понимаю, когда использовать подзапросы
 
 ### Продвинутый SQL
 - [ ] Умею использовать оконные функции (`ROW_NUMBER`, `RANK`, `OVER (PARTITION BY ...)`)
-- [ ] Понимаю разницу между `EXISTS` и `IN`
+- [x] Понимаю разницу между `EXISTS` и `IN`
 - [ ] Могу переписать сложный запрос на несколько более простых
 
 ### Индексы и производительность
@@ -116,19 +116,19 @@
 - [ ] Могу локально поднять весь стек проекта через docker‑compose
 
 ### Практические навыки
-- [ ] Локально разворачиваю PostgreSQL через Docker для разработки
+- [x] Локально разворачиваю PostgreSQL через Docker для разработки
 - [ ] Умею дебажить проблемы с контейнерами (логи, порты, зависимости)
 - [ ] Понимаю основы docker‑сетей (bridge, порты, алиасы)
 
 ---
 
 ## Object-Oriented Programming
-- [ ] SOLID principles (Single Responsibility, Open/Closed, Liskov, Interface Segregation, Dependency Inversion)
+- [x] SOLID principles (Single Responsibility, Open/Closed, Liskov, Interface Segregation, Dependency Inversion)
 - [ ] Design patterns — Creational (Builder, Factory, Singleton, Prototype)
 - [ ] Design patterns — Structural (Adapter, Decorator, Proxy, Composite)
 - [ ] Design patterns — Behavioral (Strategy, Observer, Command, Template Method, Iterator)
-- [ ] Composition over inheritance principle
-- [ ] Abstract classes vs interfaces — when to use each
+- [x] Composition over inheritance principle
+- [x] Abstract classes vs interfaces — when to use each
 - [ ] Covariance and contravariance in type hierarchies
 
 ---
