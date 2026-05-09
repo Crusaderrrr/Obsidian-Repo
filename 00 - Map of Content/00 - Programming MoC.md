@@ -29,6 +29,9 @@ note type: Map of Content
 - [[N+1 Problem]]
 - [[Composition over inheritance principle]]
 
+# AI
+- [[Mastering Claude Code]]
+
 # Linux 
 - [[Linux MoC]]
 

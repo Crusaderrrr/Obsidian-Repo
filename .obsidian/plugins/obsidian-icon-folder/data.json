@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#a30080",
     "recentlyUsedIcons": [
+      "LiBook",
       "LiLayoutTemplate",
       "LiPaperclip",
       "TiBrandTelegram",
-      "LiDumbbell",
-      "LiMap"
+      "LiDumbbell"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,12 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "03 - Books": "LiBook",
-  "02 - Studies": "LiUniversity",
   "01 - Areas": "LiCircle",
   "00 - Map of Content": "LiMap",
-  "04 - Gym": "LiDumbbell",
-  "05 - Telegram": "TiBrandTelegram",
-  "06 - Attachments": "LiPaperclip",
-  "07 - Templates": "LiLayoutTemplate"
+  "02 - Books": "LiBook",
+  "03 - Telegram": "TiBrandTelegram",
+  "04 - Attachments": "LiPaperclip",
+  "05 - Templates": "LiLayoutTemplate"
 }

@@ -23,9 +23,9 @@
           "value": ""
         }
       ],
-      "templateFilePath": "07 - Templates/Telegram Sync.md",
-      "notePathTemplate": "05 - Telegram/Telegram BOT.md",
-      "filePathTemplate": "05 - Telegram/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
+      "templateFilePath": "05 - Templates/Telegram Sync.md",
+      "notePathTemplate": "03 - Telegram/Telegram BOT.md",
+      "filePathTemplate": "03 - Telegram/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
       "reversedOrder": false,
       "heading": ""
     }
