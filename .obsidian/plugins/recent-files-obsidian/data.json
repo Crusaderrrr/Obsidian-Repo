@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Multithreading",
+      "path": "01 - Areas/01 - Programming/Code Standards/Multithreading.md"
+    },
+    {
+      "basename": "Clean Code Book",
+      "path": "02 - Books/Clean Code Book.md"
+    },
+    {
+      "basename": "Concurrent Programming",
+      "path": "01 - Areas/01 - Programming/Programming Content/Concurrent Programming.md"
+    },
+    {
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "Clean Code",
+      "path": "01 - Areas/01 - Programming/Code Standards/Clean Code.md"
+    },
+    {
+      "basename": "GraphQL",
+      "path": "01 - Areas/01 - Programming/Languages/GraphQL.md"
+    },
+    {
       "basename": "Irezumi",
       "path": "01 - Areas/00 - Personal/Content/Irezumi.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "01 Self-improvement MoC",
       "path": "00 - Map of Content/01 Self-improvement MoC.md"
-    },
-    {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
     },
     {
       "basename": "CFA parser",
@@ -179,10 +199,6 @@
     {
       "basename": "From source to running process",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/From source to running process.md"
-    },
-    {
-      "basename": "Spring Boot Roadmap",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Boot Roadmap.md"
     }
   ],
   "omittedPaths": [],
