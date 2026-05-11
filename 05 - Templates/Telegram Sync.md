@@ -3,4 +3,4 @@
 
 Дата: {{messageDate:YYYYMMDD}} | Время: {{messageTime:mm:ss}}
 
-{{url1:preview250}}
+{{url1}}
