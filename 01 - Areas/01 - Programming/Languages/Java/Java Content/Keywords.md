@@ -70,13 +70,13 @@ Student(String first, String last, double gpa) {
 
 # Final
 Used to restrict user access to a certain variable or a method, class.
-### Variable
+#### Variable
 If defined with a variable, this variable becomes constant and **cannot be changed** after defining.
 ```java
 final int MAX_VALUE = 100;
 ```
 
-### Method
+#### Method
 If the method is defined with it, it **cannot be overridden**. 
 ```java
 class Parent {
@@ -86,10 +86,18 @@ class Parent {
 }
 ```
 
-### Class
+#### Class
 A class defined with this keyword **cannot be extended**.
 ```java
 final class Utility {
     // class body
+}
+```
+
+#### Method parameter
+Prevents a parameter from being reassigned inside a method body
+```java
+public void doSomething(private User user) {
+	user = new User(); // COMPILE ERROR
 }
 ```

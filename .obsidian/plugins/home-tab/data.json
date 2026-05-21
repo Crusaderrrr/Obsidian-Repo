@@ -24,16 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "05 - Templates/Telegram Sync.md",
-      "timestamp": 1778486897584
+      "filepath": "Miscellaneous.md",
+      "timestamp": 1779374095702
     },
     {
-      "filepath": "03 - Telegram/Telegram BOT.md",
-      "timestamp": 1778486879816
+      "filepath": "02 - Books/Clean Code Book.md",
+      "timestamp": 1779373998638
     },
     {
-      "filepath": "00 - Map of Content/00 - Programming MoC.md",
-      "timestamp": 1778486862187
+      "filepath": "01 - Areas/01 - Programming/Code Standards/Functions.md",
+      "timestamp": 1779373662041
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Code Standards/Working Environment.md",
+      "timestamp": 1779373415213
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Code Standards/Clean Code.md",
+      "timestamp": 1779373386878
     }
   ],
   "bookmarkedFileStore": [],

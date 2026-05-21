@@ -1,32 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Telegram Sync",
-      "path": "05 - Templates/Telegram Sync.md"
-    },
-    {
-      "basename": "Telegram BOT",
-      "path": "03 - Telegram/Telegram BOT.md"
-    },
-    {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
-    },
-    {
-      "basename": "Multithreading",
-      "path": "01 - Areas/01 - Programming/Code Standards/Multithreading.md"
+      "basename": "Miscellaneous",
+      "path": "01 - Areas/01 - Programming/Code Standards/Miscellaneous.md"
     },
     {
       "basename": "Clean Code Book",
       "path": "02 - Books/Clean Code Book.md"
     },
     {
-      "basename": "Concurrent Programming",
-      "path": "01 - Areas/01 - Programming/Programming Content/Concurrent Programming.md"
+      "basename": "Functions",
+      "path": "01 - Areas/01 - Programming/Code Standards/Functions.md"
+    },
+    {
+      "basename": "Working Environment",
+      "path": "01 - Areas/01 - Programming/Code Standards/Working Environment.md"
     },
     {
       "basename": "Clean Code",
       "path": "01 - Areas/01 - Programming/Code Standards/Clean Code.md"
+    },
+    {
+      "basename": "Comments",
+      "path": "01 - Areas/01 - Programming/Code Standards/Comments.md"
+    },
+    {
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
+    },
+    {
+      "basename": "Mastering Claude Code",
+      "path": "01 - Areas/01 - Programming/Programming Content/Mastering Claude Code.md"
+    },
+    {
+      "basename": "Java",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
+    },
+    {
+      "basename": "Principal OOP pattern",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Principal OOP pattern.md"
+    },
+    {
+      "basename": "Constant Variables",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Constant Variables.md"
+    },
+    {
+      "basename": "Keywords",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Keywords.md"
+    },
+    {
+      "basename": "JOINs",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/JOINs.md"
+    },
+    {
+      "basename": "Telegram BOT",
+      "path": "03 - Telegram/Telegram BOT.md"
+    },
+    {
+      "basename": "Telegram Sync",
+      "path": "05 - Templates/Telegram Sync.md"
+    },
+    {
+      "basename": "Multithreading",
+      "path": "01 - Areas/01 - Programming/Code Standards/Multithreading.md"
+    },
+    {
+      "basename": "Concurrent Programming",
+      "path": "01 - Areas/01 - Programming/Programming Content/Concurrent Programming.md"
     },
     {
       "basename": "GraphQL",
@@ -47,10 +87,6 @@
     {
       "basename": "CFA parser",
       "path": "01 - Areas/02 - Projects/D8AForce/parsers/CFA parser.md"
-    },
-    {
-      "basename": "Mastering Claude Code",
-      "path": "01 - Areas/01 - Programming/Programming Content/Mastering Claude Code.md"
     },
     {
       "basename": "Websocket",
@@ -125,10 +161,6 @@
       "path": "01 - Areas/01 - Programming/Programming Content/Optimistic and Pessimistic locking.md"
     },
     {
-      "basename": "Java",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
-    },
-    {
       "basename": "Java Classes",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Classes.md"
     },
@@ -165,40 +197,8 @@
       "path": "01 - Areas/01 - Programming/Database/DB - content/Sub queries.md"
     },
     {
-      "basename": "JOINs",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/JOINs.md"
-    },
-    {
       "basename": "ACID",
       "path": "01 - Areas/01 - Programming/Database/DB - content/ACID.md"
-    },
-    {
-      "basename": "n8n",
-      "path": "01 - Areas/01 - Programming/Automatization/n8n.md"
-    },
-    {
-      "basename": "Rants",
-      "path": "01 - Areas/01 - Programming/Programming Content/Rants.md"
-    },
-    {
-      "basename": "Reflection API",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Reflection API.md"
-    },
-    {
-      "basename": "Database",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Database.md"
-    },
-    {
-      "basename": "N+1 Problem",
-      "path": "01 - Areas/01 - Programming/Programming Content/N+1 Problem.md"
-    },
-    {
-      "basename": "ApplicationContext",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/ApplicationContext.md"
-    },
-    {
-      "basename": "Spring Boot",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Boot.md"
     }
   ],
   "omittedPaths": [],

@@ -6,3 +6,7 @@ This is a books of **Robert J. Martin** about how should we write code.
 - [[Classes]]
 - [[Architecture Forming Rules]]
 - [[Multithreading]]
+- [[Comments]]
+- [[Working Environment]]
+- [[Functions]]
+- [[Miscellaneous]]
