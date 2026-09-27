@@ -195,10 +195,6 @@
     {
       "basename": "grep",
       "path": "01 - Areas/01 - Programming/Programming Content/grep.md"
-    },
-    {
-      "basename": "HMAC",
-      "path": "01 - Areas/01 - Programming/Cryptography/HMAC.md"
     }
   ],
   "omittedPaths": [],
