@@ -88,8 +88,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-archive",
-          "title": "All properties"
+          "icon": "lucide-ghost",
+          "title": "all-properties"
         }
       },
       {
@@ -183,7 +183,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "03a4ec431d1cf708",
+  "active": "7363701a7979dd62",
   "lastOpenFiles": [
     "00 - Map of Content/01 Self-improvement MoC.md",
     "00 - Map of Content/02 - My Ideas MoC.md",
