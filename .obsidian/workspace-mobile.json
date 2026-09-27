@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03a4ec431d1cf708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Map of Content/02 - My Ideas MoC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "02 - My Ideas MoC"
-            }
-          },
-          {
             "id": "b6bbd77f14956e97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Map of Content/01 Self-improvement MoC.md",
+                "file": "00 - Map of Content/00 - Programming MoC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "01 Self-improvement MoC"
+              "title": "00 - Programming MoC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,16 +106,6 @@
         }
       },
       {
-        "id": "d81ab2f16eca65c4",
-        "type": "leaf",
-        "state": {
-          "type": "mk-path-view",
-          "state": {},
-          "icon": "layout-grid",
-          "title": "Navigator"
-        }
-      },
-      {
         "id": "e3a669d7a4264d8b",
         "type": "leaf",
         "state": {
@@ -139,6 +113,16 @@
           "state": {},
           "icon": "clock",
           "title": "Recent Files"
+        }
+      },
+      {
+        "id": "c92349aadb29f0f3",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
         }
       }
     ],
@@ -237,46 +221,47 @@
   },
   "active": "b6bbd77f14956e97",
   "lastOpenFiles": [
-    "Tags",
+    "02 - Books/library/Bookshelf.md",
+    "02 - Books/Books.md",
     "00 - Map of Content/02 - My Ideas MoC.md",
     "00 - Map of Content/01 Self-improvement MoC.md",
-    "01 - Areas/01 - Programming/Programming Content/Docker.md",
-    "00 - Map of Content/00 - Programming MoC.md",
-    "05 - Templates/Gym Upper Body.md",
-    "05 - Templates/Gym Week Template.md",
-    "05 - Templates/Telegram Sync.md",
-    "05 - Templates/Gym Lower Body.md",
-    "05 - Templates/MoC Template.md",
-    "05 - Templates/Daily Note Template.md",
-    "05 - Templates",
-    "01 - Areas/01 - Programming/Internet/Web/HTML/00 - HTML MoC.md",
-    "01 - Areas/01 - Programming/Internet/Web/HTML/Table of HTML elements.md",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Context Svelte.md",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Store.md",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content/OOP in TS.md",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Types.md",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runtime.md",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runes.md",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Conditional Types.md",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Lifecycle hooks.md",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Generics ts.md",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Type Narrowing.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content/Inheritance.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content/Atomicity and Consistency.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content/Web.xml.md",
+    "Tags/#algorithms",
+    "Tags/#daily",
+    "Tags/#programming",
+    "Tags/#book",
+    "05 - Templates/Book Template.md",
+    "01 - Areas/02 - Projects/D8AForce/test batch/classification-baseline.md",
+    "01 - Areas/02 - Projects/D8AForce/test batch/investors_baseline.csv",
+    "01 - Areas/02 - Projects/D8AForce/test batch",
+    "01 - Areas/02 - Projects/D8AForce/IT.md",
+    "01 - Areas/00 - Personal/Philosophy/Friedrich Wilhelm Nietzsche.md",
+    "01 - Areas/00 - Personal/Philosophy",
+    "01 - Areas/00 - Personal/BMW.md",
+    "01 - Areas/00 - Personal/00 - Daily Notes/2026-06-17.md",
+    "01 - Areas/01 - Programming/Internet/Web/SSl-TLS Protocol.md",
+    "01 - Areas/01 - Programming/Internet/Web/Protocols.md",
+    "01 - Areas/01 - Programming/Internet/Web/HTTP.md",
+    "01 - Areas/01 - Programming/Internet/Web/etl-parser-project-plan.md",
+    "01 - Areas/01 - Programming/Git/Git Reset.md",
+    "01 - Areas/01 - Programming/Git/Detecting errors using Git.md",
+    "01 - Areas/01 - Programming/Git/Git Email.md",
+    "01 - Areas/01 - Programming/Git/Git rerere.md",
+    "01 - Areas/01 - Programming/Languages/Java/Java Content/Servlet.md",
+    "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Garbage Collector.md",
+    "01 - Areas/01 - Programming/Programming Content/grep.md",
+    "01 - Areas/01 - Programming/Programming Content/Magic numbers.md",
+    "01 - Areas/01 - Programming/AI/LSP.md",
+    "01 - Areas/01 - Programming/AI/Mastering Claude Code.md",
+    "01 - Areas/01 - Programming/AI/General Workflow.md",
+    "01 - Areas/01 - Programming/AI/Agents.md",
+    "01 - Areas/01 - Programming/AI",
+    "02 - Books/library",
+    "04 - Attachments/Pasted image 20260814131333.png",
+    "Tags",
     "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Security Authentication flow.canvas",
     "01 - Areas/02 - Projects/Course Projects/Task 4/Task 4 Canvas(1).canvas",
-    "01 - Areas/02 - Projects/Course Projects/Final Project/API endpoints 1.csv",
-    "01 - Areas/02 - Projects/Course Projects/Final Project/API endpoints.csv",
     "01 - Areas/02 - Projects/Course Projects/Final Project/Final Project Canvas.canvas",
-    "01 - Areas/00 - Personal/English/Topics/Daily Routine C1.pdf",
-    "01 - Areas/01 - Programming/Internet/Web/HTML",
     "01 - Areas/01 - Programming/Code Standards/Patterns/Factory method (explanation).canvas",
-    "01 - Areas/01 - Programming/Languages/TypeScript/Content",
-    "01 - Areas/01 - Programming/Languages/Python/01 Python Built-in Methods.pdf",
-    "01 - Areas/01 - Programming/Languages/Python/00 Cheat sheet.pdf",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content",
-    "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content",
     "04 - Attachments/Pasted image 20250818173730.png",
     "04 - Attachments/IMG_0979.jpeg",
     "04 - Attachments/IMG_1391.jpeg",
@@ -285,7 +270,6 @@
     "04 - Attachments/IMG_1082.jpeg",
     "04 - Attachments/Pasted image 20250505203057.png",
     "04 - Attachments/Pasted image 20250507131624.png",
-    "04 - Attachments/Pasted image 20250821155018.png",
-    "04 - Attachments/Pasted image 20260223155953.png"
+    "04 - Attachments/Pasted image 20250821155018.png"
   ]
 }
