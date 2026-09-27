@@ -1,7 +1,4 @@
 [
-  "templater-obsidian",
-  "supercharged-links-obsidian",
-  "obsidian-spaced-repetition",
   "advanced-canvas",
   "calendar",
   "callout-manager",
@@ -17,6 +14,7 @@
   "obsidian-outliner",
   "url-into-selection",
   "periodic-notes",
-  "recent-files-obsidian",
+  "supercharged-links-obsidian",
+  "templater-obsidian",
   "obsidian-style-settings"
 ]

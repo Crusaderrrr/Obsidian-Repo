@@ -128,5 +128,7 @@
   "anuppuccin-custom-background@@anp-background-image-dark": "url(\"https://lh3.googleusercontent.com/d/170ZVgxxi0mKBggxTt67cPkj8mqi4Nzg8\")",
   "anuppuccin-custom-background@@anp-custom-bg-blur-dark": 0,
   "anuppuccin-custom-background@@anp-custom-bg-card-fg-opacity-dark": 0.85,
-  "anuppuccin-custom-background@@anp-custom-bg-brightness-dark": 0.5
+  "anuppuccin-custom-background@@anp-custom-bg-brightness-dark": 0.5,
+  "cupertino@@colorful-frame": true,
+  "cupertino@@active-line-off": true
 }
