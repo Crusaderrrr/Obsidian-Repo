@@ -88,8 +88,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-archive",
-          "title": "All properties"
+          "icon": "lucide-ghost",
+          "title": "all-properties"
         }
       },
       {
@@ -106,7 +106,7 @@
         }
       },
       {
-        "id": "60385bda3716203f",
+        "id": "ad518844e5e7845c",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -193,8 +193,8 @@
       "homepage:Open homepage": false,
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "ddaee05e9b99aeac",
