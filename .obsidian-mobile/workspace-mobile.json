@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "00 - Programming MoC"
             }
-          },
-          {
-            "id": "a8a040b092fa8ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test note.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Test note"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +106,7 @@
         }
       },
       {
-        "id": "ad518844e5e7845c",
+        "id": "7a56166a312c6a1b",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -213,10 +197,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8a040b092fa8ff3",
+  "active": "ddaee05e9b99aeac",
   "lastOpenFiles": [
-    "00 - Map of Content/00 - Programming MoC.md",
     "Test note.md",
+    "00 - Map of Content/00 - Programming MoC.md",
     "02 - Books/Books.md",
     "00 - Map of Content/02 - My Ideas MoC.md",
     "05 - Templates/Daily Note Template.md",
