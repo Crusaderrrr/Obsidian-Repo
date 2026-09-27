@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "4ca2f8fe2c37b750",
     "type": "split",
     "children": [
       {
-        "id": "9c3b7563725c1080",
+        "id": "716a2ee8778b61d9",
         "type": "tabs",
         "children": [
           {
-            "id": "73a9e6e791713f07",
+            "id": "03a4ec431d1cf708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Areas/01 - Programming/Database/DB - content/Data types.md",
+                "file": "00 - Map of Content/02 - My Ideas MoC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Data types"
+              "title": "02 - My Ideas MoC"
             }
           }
         ]
@@ -28,29 +28,31 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5b844bd1ef71866f",
+    "id": "a6f16cd82ab27662",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2759bccf800e1c86",
+        "id": "6e95c0015b9a0ed4",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "0c30d7e0466304a1",
+        "id": "c57a319ec93a9b3a",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "Design patterns ",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -62,7 +64,7 @@
         }
       },
       {
-        "id": "35d9af1568f99498",
+        "id": "a4e738c50d1e19d4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -77,11 +79,28 @@
         }
       },
       {
-        "id": "af598dd6ce46f335",
+        "id": "d7a6dde57f456fe4",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "516236e926dee010",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {},
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
@@ -90,16 +109,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "53c1c17e365fd712",
+    "id": "c079ca7d87b0a933",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8c02d581bc942225",
+        "id": "f2aebe693b2ae2a1",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,12 +131,11 @@
         }
       },
       {
-        "id": "60938889c47caceb",
+        "id": "d1f536f819c1a2a5",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -127,12 +144,11 @@
         }
       },
       {
-        "id": "74a718de7eeaefc9",
+        "id": "d10778420955952f",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "01 - Areas/00 - Personal/01 - Weekly Notes/W20-2025.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -142,17 +158,7 @@
         }
       },
       {
-        "id": "2c48eee65929b125",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
-        }
-      },
-      {
-        "id": "4680111e95aa8b57",
+        "id": "7363701a7979dd62",
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
@@ -162,69 +168,72 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "callout-manager:Insert Callout": false,
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4680111e95aa8b57",
+  "active": "03a4ec431d1cf708",
   "lastOpenFiles": [
-    "01 - Areas/01 - Programming/Database/PostgreSQL.md",
-    "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md",
-    "Acid.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content/Inversion of Control.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Framework.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Dependency Injection.md",
-    "02 - Books/Design patterns.md",
+    "00 - Map of Content/01 Self-improvement MoC.md",
+    "00 - Map of Content/02 - My Ideas MoC.md",
+    "01 - Areas/01 - Programming/Programming Content/Docker.md",
     "00 - Map of Content/00 - Programming MoC.md",
-    "01 - Areas/00 - Personal/00 - Daily Notes/2025-09-18.md",
-    "01 - Areas/02 - Projects/Bookstore/Bookstore Plan.md",
-    "01 - Areas/02 - Projects/Bookstore/General Plan.md",
-    "01 - Areas/00 - Personal/00 - Daily Notes/2025-11-10.md",
-    "01 - Areas/00 - Personal/Hanna's presents.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Boot Roadmap.md",
-    "01 - Areas/00 - Personal/00 - Daily Notes/2026-01-09.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java.md",
+    "05 - Templates/Gym Upper Body.md",
+    "05 - Templates/Gym Week Template.md",
+    "05 - Templates/Telegram Sync.md",
+    "05 - Templates/Gym Lower Body.md",
+    "05 - Templates/MoC Template.md",
+    "05 - Templates/Daily Note Template.md",
+    "05 - Templates",
+    "01 - Areas/01 - Programming/Internet/Web/HTML/00 - HTML MoC.md",
+    "01 - Areas/01 - Programming/Internet/Web/HTML/Table of HTML elements.md",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Context Svelte.md",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Store.md",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content/OOP in TS.md",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Types.md",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runtime.md",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Runes.md",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Conditional Types.md",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Lifecycle hooks.md",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Generics ts.md",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content/Type Narrowing.md",
+    "01 - Areas/01 - Programming/Languages/Java/Java Content/Inheritance.md",
     "01 - Areas/01 - Programming/Languages/Java/Java Content/Atomicity and Consistency.md",
-    "01 - Areas/01 - Programming/Programming Content/Concurrent Programming.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content/Threading.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content/Arrays.md",
-    "01 - Areas/01 - Programming/Programming Content/Coroutine.md",
-    "01 - Areas/01 - Programming/Languages/Kotlin.md",
-    "01 - Areas/01 - Programming/Programming Content/Magic number.md",
-    "01 - Areas/01 - Programming/Programming Content/Виртуализация.md",
-    "03 - Telegram/photos/photo_1001105340_23 - 20250814135048796.jpg",
-    "03 - Telegram/photos/photo_1001105340_24 - 20250814135048166.jpg",
-    "04 - Attachments/Pasted image 20250813181314.png",
-    "04 - Attachments/Pasted image 20250814160800.png",
-    "04 - Attachments/Pasted image 20250813125553.png",
-    "01 - Areas/01 - Programming/Database/DB - content",
-    "01 - Areas/01 - Programming/Database",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content",
-    "01 - Areas/01 - Programming/Languages/Java",
-    "04 - Attachments/Pasted image 20250731172929.png",
-    "04 - Attachments/Pasted image 20250731171810.png",
-    "04 - Attachments/IMG_2036.jpeg",
-    "04 - Attachments/IMG_2034.jpeg",
+    "01 - Areas/01 - Programming/Languages/Java/Java Content/Web.xml.md",
+    "01 - Areas/01 - Programming/Languages/Java/Java Content/@GetMapping.md",
+    "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Security Authentication flow.canvas",
+    "01 - Areas/02 - Projects/Course Projects/Task 4/Task 4 Canvas(1).canvas",
+    "01 - Areas/02 - Projects/Course Projects/Final Project/API endpoints 1.csv",
+    "01 - Areas/02 - Projects/Course Projects/Final Project/API endpoints.csv",
     "01 - Areas/02 - Projects/Course Projects/Final Project/Final Project Canvas.canvas",
-    "04 - Attachments/IMG_1872.jpeg",
-    "01 - Areas/02 - Work/Final Project/Final Project Canvas.canvas",
+    "01 - Areas/00 - Personal/English/Topics/Daily Routine C1.pdf",
+    "01 - Areas/01 - Programming/Internet/Web/HTML",
+    "01 - Areas/01 - Programming/Code Standards/Patterns/Factory method (explanation).canvas",
+    "01 - Areas/01 - Programming/Languages/TypeScript/Content",
+    "01 - Areas/01 - Programming/Languages/Python/01 Python Built-in Methods.pdf",
+    "01 - Areas/01 - Programming/Languages/Python/00 Cheat sheet.pdf",
+    "01 - Areas/01 - Programming/Languages/Java/Java Content",
     "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content",
-    "01 - Areas/01 - Programming/JavaScript/MongoDB",
-    "03 - Telegram/documents/Redux_before_start[85] - 20250408160013445.pdf",
-    "04 - Attachments/Daily Routine C1 Level.pdf",
-    "04 - Attachments/PDF-C1-Vocabulary-cae.pdf"
+    "04 - Attachments/Pasted image 20250818173730.png",
+    "04 - Attachments/IMG_0979.jpeg",
+    "04 - Attachments/IMG_1391.jpeg",
+    "04 - Attachments/Pasted image 20250818173532.png",
+    "04 - Attachments/Pasted image 20250821114443.png",
+    "04 - Attachments/IMG_1082.jpeg",
+    "04 - Attachments/Pasted image 20250505203057.png",
+    "04 - Attachments/Pasted image 20250507131624.png",
+    "04 - Attachments/Pasted image 20250821155018.png",
+    "04 - Attachments/Pasted image 20260223155953.png"
   ]
 }
