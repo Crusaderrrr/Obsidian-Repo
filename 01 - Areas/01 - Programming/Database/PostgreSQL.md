@@ -19,3 +19,4 @@ note type: Map of Content
 - [[JOINs]]
 - [[Sub queries]]
 - [[EXISTS vs IN]]
+- 

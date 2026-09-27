@@ -18,14 +18,8 @@ Most common *protocols* are:
 
 Other protocols:
 - **DNS** (Domain Name System)
-- **HTTP** (Hypertext Transfer Protocol)
+- [[HTTP]] (Hypertext Transfer Protocol)
 - **SSL/TLS** (Secure Sockets Layer/Transport Layer Security)
-
-## HTTP and HTTPS Protocols
-
-**HTTP** (Hypertext Transfer Protocol) provides a connection between user and server. User, when requesting data, sends this request to a server and then servers sends response with requested data.
-
-**HTTPS** (HTTP Secure) is a same protocol but that one provides a protected connection. It encrypts data before transmit it between client and server SSL/TLS (Secure Socket Layer/Transport Layer Security). It is more popular than HTTP.
 
 ## OSI/ISO vs TCP/IP
 ![[Pasted image 20250811112535.png]]

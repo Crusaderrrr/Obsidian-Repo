@@ -15,7 +15,7 @@ note type: Informational Note
 3. *Network*
 	Manages logical addressing and routing. A device called router is needed here, which interconnects local devices with the hole internet. <mark style="background: #ABF7F7A6;">Packages</mark> are being transmitted here. Also, the *ARP* (Address Resolution Protocol) is used here.
 4. *Transport*
-	Ensures complete data transfer, segmentation, error recovery and flow control via <mark style="background: #ABF7F7A6;">TCP/UDP</mark> (Transmition Control Protocol/User Datagram Protocol)
+	Ensures complete data transfer, segmentation, error recovery and flow control via <mark style="background: #ABF7F7A6;">TCP/UDP</mark> (transition Control Protocol/User Datagram Protocol)
 5. *Session*
 	Establishes, maintains and terminates communication sessions.
 6. *Presentation*

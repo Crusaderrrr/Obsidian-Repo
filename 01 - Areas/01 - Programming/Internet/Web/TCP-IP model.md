@@ -6,7 +6,7 @@ tags:
   - web
 note type: Informational Note
 ---
-**TCP/IP model is another model of data transmition**. This is the real model that is used all over the internet. It has 4 layers:
+**TCP/IP model (layer) is another type of data transition**. This is the real model that is used all over the internet. It has 4 layers:
 
 1. *Application*
 	Handles high-level protocols for user applications and services, providing a platform-independent interface. Protocols are: HTTP, HTTPS, FTP, SMTP, DNS, etc.

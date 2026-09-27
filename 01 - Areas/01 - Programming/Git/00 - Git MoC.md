@@ -14,3 +14,6 @@ note type: Map of Content
 - [[Git Rebase]]
 - [[HEAD]]
 - [[GitHub Actions]]
+- [[Git Email]]
+- [[Git Reset]]
+- [[Git rerere]]

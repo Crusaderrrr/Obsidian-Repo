@@ -14,3 +14,12 @@ note type: Map of Content
 
 # Tattoo
 - [[Irezumi]]
+
+# Philosophy 
+- [[Friedrich Wilhelm Nietzsche]]
+
+# Тачки
+- [[BMW]]
+
+# Книги
+- [[Books]]

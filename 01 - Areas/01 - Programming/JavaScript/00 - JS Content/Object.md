@@ -21,7 +21,7 @@ const myDict = {
 ```
 
 
-**Object distribution**:
+**Object destruction**:
 ```JavaScript
 person = {
 	name: 'Nikita',

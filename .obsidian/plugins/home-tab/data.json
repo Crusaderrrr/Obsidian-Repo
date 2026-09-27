@@ -24,30 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Miscellaneous.md",
-      "timestamp": 1779374095702
-    },
-    {
-      "filepath": "02 - Books/Clean Code Book.md",
-      "timestamp": 1779373998638
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Code Standards/Functions.md",
-      "timestamp": 1779373662041
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Code Standards/Working Environment.md",
-      "timestamp": 1779373415213
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Code Standards/Clean Code.md",
-      "timestamp": 1779373386878
+      "filepath": "02 - Books/library/Bookshelf.md",
+      "timestamp": 1790531789927
     }
   ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
-  "newTabOnStart": true,
+  "newTabOnStart": false,
   "closePreviousSessionTabs": false,
   "omnisearch": false,
   "showOmnisearchExcerpt": true

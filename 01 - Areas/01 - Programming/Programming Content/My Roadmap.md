@@ -181,8 +181,8 @@
 
 ## JVM Internals
 - [ ] JVM memory model — heap, stack, method area, metaspace
-- [ ] Garbage collection — how GC works, generational GC (Young/Old/PermGen)
-- [ ] GC algorithms overview — Serial, Parallel, G1, ZGC
+- [x] Garbage collection — how GC works, generational GC (Young/Old/PermGen)
+- [x] GC algorithms overview — Serial, Parallel, G1, ZGC
 - [ ] Class loading mechanism — Bootstrap, Extension, Application classloaders
 - [ ] `OutOfMemoryError` vs `StackOverflowError` — causes and debugging
 - [ ] JIT compilation basics
@@ -191,5 +191,5 @@
 - [ ] `var` keyword (local type inference, Java 10+)
 - [ ] Text blocks (Java 15+)
 - [ ] Records (Java 16+)
-- [ ] Sealed classes and interfaces (Java](<# Java Core Advanced Checklist
+- [ ] Sealed classes and interfaces
 

@@ -1,4 +1,12 @@
 ---
+Название: Grokking Algorithms
+Автор: Aditya Bhargava
+Страниц: 256
+Обложка: https://covers.openlibrary.org/b/isbn/9781617292231-L.jpg
+Категории:
+  - разработка
+Progress: 100
+Reading: false
 creation date: 2025-02-22 14:23
 modification date: Saturday, 22nd February 2025
 tags:

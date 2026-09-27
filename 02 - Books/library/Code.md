@@ -1,3 +1,13 @@
+---
+Название: Code
+Автор: Charles Petzold
+Страниц: 396
+Обложка: https://covers.openlibrary.org/b/isbn/9780735611313-L.jpg
+Категории:
+  - разработка
+Progress: 100
+Reading: false
+---
 #book 
 Author: Charles Petzold 
 Year: 2001 

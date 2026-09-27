@@ -17,7 +17,7 @@ note type: Map of Content
 - [[Парадигмы Программирования]]
 - [[Виртуализация]]
 - [[Память]]
-- [[Magic number]]
+- [[Magic numbers]]
 - [[Deployment]]
 - [[How transactions work]]
 - [[Real Workflow]]
@@ -28,9 +28,13 @@ note type: Map of Content
 - [[SSH Protocol]]
 - [[N+1 Problem]]
 - [[Composition over inheritance principle]]
+- [[grep]]
 
 # AI
 - [[Mastering Claude Code]]
+- [[General Workflow]]
+- [[Agents]]
+- [[LSP]]
 
 # Linux 
 - [[Linux MoC]]
@@ -52,10 +56,11 @@ note type: Map of Content
 - [[TCP-IP model]]
 - [[PayPal]]
 - [[Firewall]]
-- [[Internet Protocol]]
+- [[Protocols]]
 
 # Cryptography 
 - [[Blockchain]]
+- [[HMAC]]
 
 # Internet 
 - [[Internet of Things]]
@@ -84,6 +89,7 @@ note type: Map of Content
 - [[Spring Framework]]
 - [[Express.js]]
 - [[Svelte MoC|Svelte]]
+
 # Algorithms
 - [[О-большое]]
 - [[Binary search]]
@@ -102,6 +108,7 @@ note type: Map of Content
 - [[K-Nearest Neighbors (KNN)]]
 - [[Sum two nums]]
 - [[Jaro Winkler's distance]]
+
 # Automatization 
 - [[n8n]]
 

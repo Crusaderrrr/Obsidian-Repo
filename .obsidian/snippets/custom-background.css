@@ -101,6 +101,19 @@ settings:
   default: 0.4
 */
 
+body.theme-light {
+	--anp-background-image: var(--anp-background-image-light, url("https://i.redd.it/m23bwh4n0x151.png"));
+	--anp-custom-bg-brightness: var(--anp-custom-bg-brightness-light, 0.7);
+	--anp-custom-bg-blur: var(--anp-custom-bg-blur-light, 5px);
+	--anp-custom-bg-card-fg-opacity: var(--anp-custom-bg-card-fg-opacity-light, 0.4);
+}
+body.theme-dark {
+	--anp-background-image: var(--anp-background-image-dark, url("https://i.redd.it/m23bwh4n0x151.png"));
+	--anp-custom-bg-brightness: var(--anp-custom-bg-brightness-dark, 0.7);
+	--anp-custom-bg-blur: var(--anp-custom-bg-blur-dark, 5px);
+	--anp-custom-bg-card-fg-opacity: var(--anp-custom-bg-card-fg-opacity-dark, 0.4);
+}
+
 .anp-background-image-toggle:not(.anp-colorful-frame) {
 	.app-container,
 	&.anp-bg-fix .app-container {
