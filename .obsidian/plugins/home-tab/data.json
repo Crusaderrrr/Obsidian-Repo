@@ -22,7 +22,16 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Untitled.md",
+      "timestamp": 1790548032018
+    },
+    {
+      "filepath": "02 - Books/Books.md",
+      "timestamp": 1790547919072
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
