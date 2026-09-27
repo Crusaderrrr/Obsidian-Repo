@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Bookshelf",
       "path": "02 - Books/library/Bookshelf.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "HMAC",
       "path": "01 - Areas/01 - Programming/Cryptography/HMAC.md"
-    },
-    {
-      "basename": "Hash Table",
-      "path": "01 - Areas/01 - Programming/Programming Content/Hash Table.md"
     }
   ],
   "omittedPaths": [],
