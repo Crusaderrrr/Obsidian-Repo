@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
     },
     {
       "basename": "Bookshelf",
       "path": "02 - Books/library/Bookshelf.md"
-    },
-    {
-      "basename": "Clean Code Book",
-      "path": "02 - Books/library/Clean Code Book.md"
     },
     {
       "basename": "Books",
@@ -19,6 +15,18 @@
     {
       "basename": "02 - My Ideas MoC",
       "path": "00 - Map of Content/02 - My Ideas MoC.md"
+    },
+    {
+      "basename": "01 Self-improvement MoC",
+      "path": "00 - Map of Content/01 Self-improvement MoC.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Clean Code Book",
+      "path": "02 - Books/library/Clean Code Book.md"
     },
     {
       "basename": "Записки из подполья",
@@ -101,10 +109,6 @@
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Garbage Collector.md"
     },
     {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
-    },
-    {
       "basename": "How does the internet work",
       "path": "01 - Areas/01 - Programming/Internet/How does the internet work.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "BMW",
       "path": "01 - Areas/00 - Personal/BMW.md"
-    },
-    {
-      "basename": "01 Self-improvement MoC",
-      "path": "00 - Map of Content/01 Self-improvement MoC.md"
     },
     {
       "basename": "Friedrich Wilhelm Nietzsche",
