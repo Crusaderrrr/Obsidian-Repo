@@ -1,1 +1,15 @@
-{}
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "custom-background",
+    "books"
+  ],
+  "theme": "system",
+  "accentColor": "#a61c88",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "textFontFamily": "",
+  "baseFontSize": 15,
+  "baseFontSizeAction": false
+}

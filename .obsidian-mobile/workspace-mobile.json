@@ -1,20 +1,25 @@
 {
   "main": {
-    "id": "91697faf54a64dfe",
+    "id": "4ca2f8fe2c37b750",
     "type": "split",
     "children": [
       {
-        "id": "71cdfb2784b37136",
+        "id": "716a2ee8778b61d9",
         "type": "tabs",
         "children": [
           {
-            "id": "413aac9fce52ead1",
+            "id": "b6bbd77f14956e97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - Map of Content/00 - Programming MoC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "00 - Programming MoC"
             }
           }
         ]
@@ -23,11 +28,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "47f40fd4805c8906",
+    "id": "a6f16cd82ab27662",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "124b4059af47a024",
+        "id": "6e95c0015b9a0ed4",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -42,7 +47,7 @@
         }
       },
       {
-        "id": "398ccdf3fbdf3cb3",
+        "id": "c57a319ec93a9b3a",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -59,7 +64,7 @@
         }
       },
       {
-        "id": "0cdf56b63baf67b5",
+        "id": "a4e738c50d1e19d4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -74,7 +79,7 @@
         }
       },
       {
-        "id": "690c832da7064c21",
+        "id": "d7a6dde57f456fe4",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -83,12 +88,12 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-archive",
-          "title": "All properties"
+          "icon": "lucide-ghost",
+          "title": "all-properties"
         }
       },
       {
-        "id": "3e3a8925cf85df47",
+        "id": "516236e926dee010",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,20 +104,41 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "e3a669d7a4264d8b",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
+      },
+      {
+        "id": "c92349aadb29f0f3",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "3fd467c8d8442c5c",
+    "id": "c079ca7d87b0a933",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "92d2ddbed464095f",
+        "id": "f2aebe693b2ae2a1",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "00 - Map of Content/01 Self-improvement MoC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +152,7 @@
         }
       },
       {
-        "id": "b696a8b591202cbb",
+        "id": "d1f536f819c1a2a5",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -139,7 +165,7 @@
         }
       },
       {
-        "id": "e26ec8d89693a383",
+        "id": "d10778420955952f",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -150,6 +176,26 @@
           },
           "icon": "lucide-list",
           "title": "Outline"
+        }
+      },
+      {
+        "id": "7363701a7979dd62",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      },
+      {
+        "id": "0a6284ed475fcf87",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       }
     ],
@@ -163,9 +209,67 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "callout-manager:Insert Callout": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "413aac9fce52ead1",
-  "lastOpenFiles": []
+  "active": "b6bbd77f14956e97",
+  "lastOpenFiles": [
+    "02 - Books/library/Bookshelf.md",
+    "02 - Books/Books.md",
+    "00 - Map of Content/02 - My Ideas MoC.md",
+    "00 - Map of Content/01 Self-improvement MoC.md",
+    "Tags/#algorithms",
+    "Tags/#daily",
+    "Tags/#programming",
+    "Tags/#book",
+    "05 - Templates/Book Template.md",
+    "01 - Areas/02 - Projects/D8AForce/test batch/classification-baseline.md",
+    "01 - Areas/02 - Projects/D8AForce/test batch/investors_baseline.csv",
+    "01 - Areas/02 - Projects/D8AForce/test batch",
+    "01 - Areas/02 - Projects/D8AForce/IT.md",
+    "01 - Areas/00 - Personal/Philosophy/Friedrich Wilhelm Nietzsche.md",
+    "01 - Areas/00 - Personal/Philosophy",
+    "01 - Areas/00 - Personal/BMW.md",
+    "01 - Areas/00 - Personal/00 - Daily Notes/2026-06-17.md",
+    "01 - Areas/01 - Programming/Internet/Web/SSl-TLS Protocol.md",
+    "01 - Areas/01 - Programming/Internet/Web/Protocols.md",
+    "01 - Areas/01 - Programming/Internet/Web/HTTP.md",
+    "01 - Areas/01 - Programming/Internet/Web/etl-parser-project-plan.md",
+    "01 - Areas/01 - Programming/Git/Git Reset.md",
+    "01 - Areas/01 - Programming/Git/Detecting errors using Git.md",
+    "01 - Areas/01 - Programming/Git/Git Email.md",
+    "01 - Areas/01 - Programming/Git/Git rerere.md",
+    "01 - Areas/01 - Programming/Languages/Java/Java Content/Servlet.md",
+    "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Garbage Collector.md",
+    "01 - Areas/01 - Programming/Programming Content/grep.md",
+    "01 - Areas/01 - Programming/Programming Content/Magic numbers.md",
+    "01 - Areas/01 - Programming/AI/LSP.md",
+    "01 - Areas/01 - Programming/AI/Mastering Claude Code.md",
+    "01 - Areas/01 - Programming/AI/General Workflow.md",
+    "01 - Areas/01 - Programming/AI/Agents.md",
+    "01 - Areas/01 - Programming/AI",
+    "02 - Books/library",
+    "04 - Attachments/Pasted image 20260814131333.png",
+    "Tags",
+    "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Security Authentication flow.canvas",
+    "01 - Areas/02 - Projects/Course Projects/Task 4/Task 4 Canvas(1).canvas",
+    "01 - Areas/02 - Projects/Course Projects/Final Project/Final Project Canvas.canvas",
+    "01 - Areas/01 - Programming/Code Standards/Patterns/Factory method (explanation).canvas",
+    "04 - Attachments/Pasted image 20250818173730.png",
+    "04 - Attachments/IMG_0979.jpeg",
+    "04 - Attachments/IMG_1391.jpeg",
+    "04 - Attachments/Pasted image 20250818173532.png",
+    "04 - Attachments/Pasted image 20250821114443.png",
+    "04 - Attachments/IMG_1082.jpeg",
+    "04 - Attachments/Pasted image 20250505203057.png",
+    "04 - Attachments/Pasted image 20250507131624.png",
+    "04 - Attachments/Pasted image 20250821155018.png"
+  ]
 }
