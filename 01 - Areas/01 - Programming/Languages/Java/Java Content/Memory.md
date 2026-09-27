@@ -16,14 +16,3 @@ Memory in Java is divided in 2 parts:
 	- Strings in *String pool*
 	- The minimal and maximum size can be changed within the command line `-Xms ` and `-Xmx`
 
-### Garbage Collector 
-
-This is a special mechanism in JVM which deletes the objects and strings from the heap that do not have a reference. 
-
-- We can barely control it (only ask to review)
-- There is an hierarchy of the variables, which helps with optimization: 
-	- Eden - are gonna be deleted 
-	- S0 - survivors 
-	- S1 - survivors 
-	- Tenured 
-	- Permanent Generation (perm gen)

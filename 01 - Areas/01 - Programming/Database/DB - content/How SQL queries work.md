@@ -4,7 +4,7 @@
 2. **Parsing**
 	- The string is tokenized (split into parts by keywords)
 	- Parser checks the syntactical correctness and builds a parse tree (grammatical structure)
-	- Semantic analyzer does w things:
+	- Semantic analyzer does 2 things:
 		- looks up tables, functions, columns, everything that was referenced
 		- Checks the user's permissions 
 	- The grammatical tree is converted into SQL tree with references to real existing objects, not just words from query

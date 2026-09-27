@@ -1,7 +1,7 @@
 **Secure Shell** is a cryptographic network protocol that lets you *securely communicate with remote machines* over an unsecured network. It encrypts all traffic, meaning no one can intercept what's being sent between your machine and the server.
 
 ## Common uses
-- Remote Server access (aws ec2 instances)
+- Remote Server access (AWS ec2 instances)
 - Remote command execution
 - File transfer (secure one)
 - Automated scripts - ci/cd, backup systems, etc.

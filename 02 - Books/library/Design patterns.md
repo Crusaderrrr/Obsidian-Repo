@@ -1,4 +1,12 @@
 ---
+Название: "Head First Design Patterns"
+Автор: "Eric Freeman, Elisabeth Robson"
+Страниц: 694
+Обложка: https://covers.openlibrary.org/b/isbn/9780596007126-L.jpg
+Категории:
+  - разработка
+Progress: 0
+Reading: false
 creation date: 2025-02-22 14:23
 modification date: Saturday, 22nd February 2025
 tags:
@@ -19,16 +27,3 @@ It is about *Object Oriented Design*.
 - Общение на уровне паттернов помогает дольше оставаться «на уровне архитектуры». Тем самым, избегая подробностей реализации. 
 - Единая номенклатура паттернов повышает эффективность разработки, так как знающие разрабы лучше конектятся. 
 - Единая номенклатура помогает новичкам учить паттерны. 
-
-## Patterns
-- [[Singleton Pattern]]
-- [[Strategy Pattern]]
-- [[Builder Pattern]]
-- [[Decorator Pattern]]
-- [[Observer Pattern]]
-- [[Factory Pattern]]
-- [[Abstract Factory Pattern]]
-- [[Prototype Pattern]]
-- [[CoR Pattern]]
-- [[Command Pattern]]
-- [[Template Method Pattern]]

@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "01 Self-improvement MoC",
-      "path": "00 - Map of Content/01 Self-improvement MoC.md"
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
-      "basename": "Miscellaneous",
-      "path": "01 - Areas/01 - Programming/Code Standards/Miscellaneous.md"
+      "basename": "Bookshelf",
+      "path": "02 - Books/library/Bookshelf.md"
     },
     {
       "basename": "Clean Code Book",
-      "path": "02 - Books/Clean Code Book.md"
+      "path": "02 - Books/library/Clean Code Book.md"
     },
     {
-      "basename": "Functions",
-      "path": "01 - Areas/01 - Programming/Code Standards/Functions.md"
-    },
-    {
-      "basename": "Working Environment",
-      "path": "01 - Areas/01 - Programming/Code Standards/Working Environment.md"
-    },
-    {
-      "basename": "Clean Code",
-      "path": "01 - Areas/01 - Programming/Code Standards/Clean Code.md"
-    },
-    {
-      "basename": "Comments",
-      "path": "01 - Areas/01 - Programming/Code Standards/Comments.md"
-    },
-    {
-      "basename": "00 - Programming MoC",
-      "path": "00 - Map of Content/00 - Programming MoC.md"
-    },
-    {
-      "basename": "Mastering Claude Code",
-      "path": "01 - Areas/01 - Programming/Programming Content/Mastering Claude Code.md"
-    },
-    {
-      "basename": "Java",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
-    },
-    {
-      "basename": "Principal OOP pattern",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Principal OOP pattern.md"
-    },
-    {
-      "basename": "Constant Variables",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Constant Variables.md"
-    },
-    {
-      "basename": "Keywords",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Keywords.md"
-    },
-    {
-      "basename": "JOINs",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/JOINs.md"
-    },
-    {
-      "basename": "Telegram BOT",
-      "path": "03 - Telegram/Telegram BOT.md"
-    },
-    {
-      "basename": "Telegram Sync",
-      "path": "05 - Templates/Telegram Sync.md"
-    },
-    {
-      "basename": "Multithreading",
-      "path": "01 - Areas/01 - Programming/Code Standards/Multithreading.md"
-    },
-    {
-      "basename": "Concurrent Programming",
-      "path": "01 - Areas/01 - Programming/Programming Content/Concurrent Programming.md"
-    },
-    {
-      "basename": "GraphQL",
-      "path": "01 - Areas/01 - Programming/Languages/GraphQL.md"
-    },
-    {
-      "basename": "Irezumi",
-      "path": "01 - Areas/00 - Personal/Content/Irezumi.md"
+      "basename": "Books",
+      "path": "02 - Books/Books.md"
     },
     {
       "basename": "02 - My Ideas MoC",
       "path": "00 - Map of Content/02 - My Ideas MoC.md"
     },
     {
-      "basename": "CFA parser",
-      "path": "01 - Areas/02 - Projects/D8AForce/parsers/CFA parser.md"
+      "basename": "Записки из подполья",
+      "path": "02 - Books/library/Записки из подполья.md"
     },
     {
-      "basename": "Websocket",
-      "path": "01 - Areas/01 - Programming/Internet/Web/Websocket.md"
+      "basename": "Telegram BOT",
+      "path": "03 - Telegram/Telegram BOT.md"
     },
     {
-      "basename": "Architecture Forming Rules",
-      "path": "01 - Areas/01 - Programming/Code Standards/Architecture Forming Rules.md"
+      "basename": "Code",
+      "path": "02 - Books/library/Code.md"
     },
     {
-      "basename": "My Roadmap",
-      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
+      "basename": "Grokking Algorithms",
+      "path": "02 - Books/library/Grokking Algorithms.md"
     },
     {
-      "basename": "Adviser-info parser",
-      "path": "01 - Areas/02 - Projects/D8AForce/parsers/Adviser-info parser.md"
+      "basename": "Design patterns",
+      "path": "02 - Books/library/Design patterns.md"
     },
     {
-      "basename": "CFP parser",
-      "path": "01 - Areas/02 - Projects/D8AForce/parsers/CFP parser.md"
+      "basename": "Docker",
+      "path": "01 - Areas/01 - Programming/Programming Content/Docker.md"
     },
     {
-      "basename": "SEC parser",
-      "path": "01 - Areas/02 - Projects/D8AForce/parsers/SEC parser.md"
+      "basename": "Java",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java.md"
     },
     {
-      "basename": "NFA",
-      "path": "01 - Areas/02 - Projects/D8AForce/parsers/NFA.md"
+      "basename": "2026-01-09",
+      "path": "01 - Areas/00 - Personal/00 - Daily Notes/2026-01-09.md"
     },
     {
-      "basename": "High Vulnerabilities report",
-      "path": "01 - Areas/02 - Projects/D8AForce/High Vulnerabilities report.md"
+      "basename": "Questions Java",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Questions Java.md"
     },
     {
-      "basename": "Парадигмы Программирования",
-      "path": "01 - Areas/01 - Programming/Code Standards/Парадигмы Программирования.md"
+      "basename": "From source to running process",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/From source to running process.md"
     },
     {
-      "basename": "Composition over inheritance principle",
-      "path": "01 - Areas/01 - Programming/Programming Content/Composition over inheritance principle.md"
+      "basename": "Principal OOP pattern",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Principal OOP pattern.md"
     },
     {
-      "basename": "Abstract Class vs Interface",
-      "path": "01 - Areas/01 - Programming/Code Standards/Abstract Class vs Interface.md"
+      "basename": "Java Persistence API",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Persistence API.md"
     },
     {
-      "basename": "OOP",
-      "path": "01 - Areas/01 - Programming/Programming Content/OOP.md"
-    },
-    {
-      "basename": "Hash Table",
-      "path": "01 - Areas/01 - Programming/Programming Content/Hash Table.md"
-    },
-    {
-      "basename": "Abstract classes",
-      "path": "01 - Areas/01 - Programming/Programming Content/Abstract classes.md"
-    },
-    {
-      "basename": "The most important coding rules",
-      "path": "01 - Areas/01 - Programming/Code Standards/The most important coding rules.md"
-    },
-    {
-      "basename": "Abbreviatures",
-      "path": "01 - Areas/01 - Programming/Code Standards/Abbreviatures.md"
-    },
-    {
-      "basename": "Template Rendering",
-      "path": "01 - Areas/01 - Programming/Programming Content/Template Rendering.md"
-    },
-    {
-      "basename": "Optimistic and Pessimistic locking",
-      "path": "01 - Areas/01 - Programming/Programming Content/Optimistic and Pessimistic locking.md"
+      "basename": "Collections",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Collections.md"
     },
     {
       "basename": "Java Classes",
       "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Classes.md"
     },
     {
-      "basename": "Aggregation and Composition",
-      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Aggregation and Composition.md"
+      "basename": "Anonymous class",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Anonymous class.md"
     },
     {
-      "basename": "EXISTS vs IN",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/EXISTS vs IN.md"
+      "basename": "dfrcs-frontend-dependency-audit",
+      "path": "dfrcs-frontend-dependency-audit.md"
     },
     {
-      "basename": "Final Project",
-      "path": "01 - Areas/02 - Projects/Course Projects/Final Project/Final Project.md"
+      "basename": "JOINs",
+      "path": "01 - Areas/01 - Programming/Database/DB - content/JOINs.md"
     },
     {
-      "basename": "PostgreSQL",
-      "path": "01 - Areas/01 - Programming/Database/PostgreSQL.md"
+      "basename": "My Roadmap",
+      "path": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md"
     },
     {
-      "basename": "PostgreSQL Functions",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/PostgreSQL Functions.md"
+      "basename": "Arrays",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Arrays.md"
     },
     {
-      "basename": "Querying and Filtering Data",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/Querying and Filtering Data.md"
+      "basename": "Java Garbage Collector",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Java Garbage Collector.md"
     },
     {
-      "basename": "How SQL queries work",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/How SQL queries work.md"
+      "basename": "00 - Programming MoC",
+      "path": "00 - Map of Content/00 - Programming MoC.md"
     },
     {
-      "basename": "Sub queries",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/Sub queries.md"
+      "basename": "How does the internet work",
+      "path": "01 - Areas/01 - Programming/Internet/How does the internet work.md"
     },
     {
-      "basename": "ACID",
-      "path": "01 - Areas/01 - Programming/Database/DB - content/ACID.md"
+      "basename": "Memory",
+      "path": "01 - Areas/01 - Programming/Languages/Java/Java Content/Memory.md"
+    },
+    {
+      "basename": "TCP-IP model",
+      "path": "01 - Areas/01 - Programming/Internet/Web/TCP-IP model.md"
+    },
+    {
+      "basename": "BMW",
+      "path": "01 - Areas/00 - Personal/BMW.md"
+    },
+    {
+      "basename": "01 Self-improvement MoC",
+      "path": "00 - Map of Content/01 Self-improvement MoC.md"
+    },
+    {
+      "basename": "Friedrich Wilhelm Nietzsche",
+      "path": "01 - Areas/00 - Personal/Philosophy/Friedrich Wilhelm Nietzsche.md"
+    },
+    {
+      "basename": "Продуктивность",
+      "path": "01 - Areas/00 - Personal/Продуктивность.md"
+    },
+    {
+      "basename": "IT",
+      "path": "01 - Areas/02 - Projects/D8AForce/IT.md"
+    },
+    {
+      "basename": "Hash and Caching",
+      "path": "01 - Areas/01 - Programming/Programming Content/Hash and Caching.md"
+    },
+    {
+      "basename": "Telegram Sync",
+      "path": "05 - Templates/Telegram Sync.md"
+    },
+    {
+      "basename": "classification-baseline",
+      "path": "01 - Areas/02 - Projects/D8AForce/test batch/classification-baseline.md"
+    },
+    {
+      "basename": "CFP parser",
+      "path": "01 - Areas/02 - Projects/D8AForce/parsers/CFP parser.md"
+    },
+    {
+      "basename": "Adviser-info parser",
+      "path": "01 - Areas/02 - Projects/D8AForce/parsers/Adviser-info parser.md"
+    },
+    {
+      "basename": "00 - Git MoC",
+      "path": "01 - Areas/01 - Programming/Git/00 - Git MoC.md"
+    },
+    {
+      "basename": "Detecting errors using Git",
+      "path": "01 - Areas/01 - Programming/Git/Detecting errors using Git.md"
+    },
+    {
+      "basename": "Git rerere",
+      "path": "01 - Areas/01 - Programming/Git/Git rerere.md"
+    },
+    {
+      "basename": "Git Reset",
+      "path": "01 - Areas/01 - Programming/Git/Git Reset.md"
+    },
+    {
+      "basename": "Git Email",
+      "path": "01 - Areas/01 - Programming/Git/Git Email.md"
+    },
+    {
+      "basename": "GitHub Actions",
+      "path": "01 - Areas/01 - Programming/Git/GitHub Actions.md"
+    },
+    {
+      "basename": "HEAD",
+      "path": "01 - Areas/01 - Programming/Git/HEAD.md"
+    },
+    {
+      "basename": "Git Basics",
+      "path": "01 - Areas/01 - Programming/Git/Git Basics.md"
+    },
+    {
+      "basename": "Git Basic Commands",
+      "path": "01 - Areas/01 - Programming/Git/Git Basic Commands.md"
+    },
+    {
+      "basename": "grep",
+      "path": "01 - Areas/01 - Programming/Programming Content/grep.md"
+    },
+    {
+      "basename": "HMAC",
+      "path": "01 - Areas/01 - Programming/Cryptography/HMAC.md"
     }
   ],
   "omittedPaths": [],
