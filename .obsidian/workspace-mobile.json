@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "01 Self-improvement MoC"
             }
+          },
+          {
+            "id": "d55f5e60aa78d5c0",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,16 +132,6 @@
         }
       },
       {
-        "id": "d81ab2f16eca65c4",
-        "type": "leaf",
-        "state": {
-          "type": "mk-path-view",
-          "state": {},
-          "icon": "layout-grid",
-          "title": "Navigator"
-        }
-      },
-      {
         "id": "e3a669d7a4264d8b",
         "type": "leaf",
         "state": {
@@ -139,6 +139,16 @@
           "state": {},
           "icon": "clock",
           "title": "Recent Files"
+        }
+      },
+      {
+        "id": "c92349aadb29f0f3",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
         }
       }
     ],
@@ -235,11 +245,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6bbd77f14956e97",
+  "active": "d55f5e60aa78d5c0",
   "lastOpenFiles": [
+    "00 - Map of Content/01 Self-improvement MoC.md",
     "Tags",
     "00 - Map of Content/02 - My Ideas MoC.md",
-    "00 - Map of Content/01 Self-improvement MoC.md",
     "01 - Areas/01 - Programming/Programming Content/Docker.md",
     "00 - Map of Content/00 - Programming MoC.md",
     "05 - Templates/Gym Upper Body.md",
@@ -276,7 +286,6 @@
     "01 - Areas/01 - Programming/Languages/Python/01 Python Built-in Methods.pdf",
     "01 - Areas/01 - Programming/Languages/Python/00 Cheat sheet.pdf",
     "01 - Areas/01 - Programming/Languages/Java/Java Content",
-    "01 - Areas/01 - Programming/JavaScript/MongoDB/00 - Content",
     "04 - Attachments/Pasted image 20250818173730.png",
     "04 - Attachments/IMG_0979.jpeg",
     "04 - Attachments/IMG_1391.jpeg",
