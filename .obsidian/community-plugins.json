@@ -1,6 +1,21 @@
 [
   "templater-obsidian",
   "supercharged-links-obsidian",
-  "obsidian-style-settings",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "advanced-canvas",
+  "calendar",
+  "callout-manager",
+  "code-styler",
+  "dataview",
+  "highlightr-plugin",
+  "home-tab",
+  "homepage",
+  "obsidian-icon-folder",
+  "obsidian-kanban",
+  "make-md",
+  "omnisearch",
+  "obsidian-outliner",
+  "url-into-selection",
+  "periodic-notes",
+  "recent-files-obsidian"
 ]

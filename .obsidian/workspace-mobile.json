@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "02 - My Ideas MoC"
             }
+          },
+          {
+            "id": "b6bbd77f14956e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Map of Content/01 Self-improvement MoC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Self-improvement MoC"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,6 +120,26 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "d81ab2f16eca65c4",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
+      },
+      {
+        "id": "e3a669d7a4264d8b",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
       }
     ],
     "currentTab": 0
@@ -118,6 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "00 - Map of Content/01 Self-improvement MoC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,6 +203,16 @@
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
+      },
+      {
+        "id": "0a6284ed475fcf87",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
     "currentTab": 0
@@ -180,13 +227,19 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "callout-manager:Insert Callout": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "7363701a7979dd62",
+  "active": "b6bbd77f14956e97",
   "lastOpenFiles": [
-    "00 - Map of Content/01 Self-improvement MoC.md",
+    "Tags",
     "00 - Map of Content/02 - My Ideas MoC.md",
+    "00 - Map of Content/01 Self-improvement MoC.md",
     "01 - Areas/01 - Programming/Programming Content/Docker.md",
     "00 - Map of Content/00 - Programming MoC.md",
     "05 - Templates/Gym Upper Body.md",
@@ -211,7 +264,6 @@
     "01 - Areas/01 - Programming/Languages/Java/Java Content/Inheritance.md",
     "01 - Areas/01 - Programming/Languages/Java/Java Content/Atomicity and Consistency.md",
     "01 - Areas/01 - Programming/Languages/Java/Java Content/Web.xml.md",
-    "01 - Areas/01 - Programming/Languages/Java/Java Content/@GetMapping.md",
     "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Security Authentication flow.canvas",
     "01 - Areas/02 - Projects/Course Projects/Task 4/Task 4 Canvas(1).canvas",
     "01 - Areas/02 - Projects/Course Projects/Final Project/API endpoints 1.csv",
