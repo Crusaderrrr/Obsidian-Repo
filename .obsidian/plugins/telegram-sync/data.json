@@ -9,7 +9,7 @@
   "mainDeviceId": "",
   "pluginVersion": "4.0.0",
   "telegramSessionType": "bot",
-  "telegramSessionId": 20250428163211316,
+  "telegramSessionId": 20260928152714124,
   "betaVersion": "",
   "connectionStatusIndicatorType": "CONSTANT",
   "cacheCleanupAtStartup": false,
@@ -34,7 +34,7 @@
   "parallelMessageProcessing": false,
   "processOldMessages": false,
   "processOldMessagesSettings": {
-    "lastProcessingDate": 1790531791,
+    "lastProcessingDate": 1790605628,
     "daysLimit": 14,
     "dialogsLimit": 100,
     "messagesLimit": 1000,

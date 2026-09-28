@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Telegram BOT",
+      "path": "03 - Telegram/Telegram BOT.md"
+    },
+    {
+      "basename": "Записки из подполья",
+      "path": "02 - Books/library/Записки из подполья.md"
+    },
+    {
       "basename": "Books",
       "path": "02 - Books/Books.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "Clean Code Book",
       "path": "02 - Books/library/Clean Code Book.md"
-    },
-    {
-      "basename": "Записки из подполья",
-      "path": "02 - Books/library/Записки из подполья.md"
-    },
-    {
-      "basename": "Telegram BOT",
-      "path": "03 - Telegram/Telegram BOT.md"
     },
     {
       "basename": "Code",

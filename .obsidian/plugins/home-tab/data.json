@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "03 - Telegram/Telegram BOT.md",
+      "timestamp": 1790605535839
+    },
+    {
+      "filepath": "02 - Books/library/Записки из подполья.md",
+      "timestamp": 1790605530685
+    },
+    {
       "filepath": "02 - Books/Books.md",
-      "timestamp": 1790548394192
+      "timestamp": 1790605525776
     }
   ],
   "bookmarkedFileStore": [],
