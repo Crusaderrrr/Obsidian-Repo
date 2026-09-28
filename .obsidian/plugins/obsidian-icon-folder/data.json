@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#a30080",
     "recentlyUsedIcons": [
-      "LiBook",
-      "LiLayoutTemplate",
-      "LiPaperclip",
-      "TiBrandTelegram",
-      "LiDumbbell"
+      "FarCopy",
+      "FasPaperclip",
+      "SiTelegram",
+      "FasBookOpen",
+      "FasBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "01 - Areas": "LiCircle",
-  "00 - Map of Content": "LiMap",
-  "02 - Books": "LiBook",
-  "03 - Telegram": "TiBrandTelegram",
-  "04 - Attachments": "LiPaperclip",
-  "05 - Templates": "LiLayoutTemplate"
+  "01 - Areas": "FasCircleNotch",
+  "02 - Books": "FasBookOpen",
+  "03 - Telegram": "SiTelegram",
+  "04 - Attachments": "FasPaperclip",
+  "05 - Templates": "FarCopy",
+  "00 - Map of Content": "FasMap"
 }

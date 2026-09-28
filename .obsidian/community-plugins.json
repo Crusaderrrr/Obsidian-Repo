@@ -10,7 +10,6 @@
   "highlightr-plugin",
   "home-tab",
   "homepage",
-  "obsidian-icon-folder",
   "obsidian-kanban",
   "make-md",
   "omnisearch",
@@ -20,5 +19,8 @@
   "recent-files-obsidian",
   "obsidian-style-settings",
   "obsidian-git",
-  "telegram-sync"
+  "telegram-sync",
+  "code-language-completer",
+  "editing-toolbar",
+  "obsidian-icon-folder"
 ]
