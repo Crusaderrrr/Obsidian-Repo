@@ -22,7 +22,28 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "02 - Books/library/Записки из подполья.md",
+      "timestamp": 1790606630112
+    },
+    {
+      "filepath": "02 - Books/Books.md",
+      "timestamp": 1790606627299
+    },
+    {
+      "filepath": "00 - Map of Content/02 - My Ideas MoC.md",
+      "timestamp": 1790606625569
+    },
+    {
+      "filepath": "00 - Map of Content/00 - Programming MoC.md",
+      "timestamp": 1790606621947
+    },
+    {
+      "filepath": "03 - Telegram/Telegram BOT.md",
+      "timestamp": 1790606615040
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
