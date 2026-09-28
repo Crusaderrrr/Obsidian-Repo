@@ -1,7 +1,6 @@
 [
   "templater-obsidian",
   "supercharged-links-obsidian",
-  "obsidian-spaced-repetition",
   "advanced-canvas",
   "calendar",
   "callout-manager",
@@ -16,11 +15,11 @@
   "obsidian-outliner",
   "url-into-selection",
   "periodic-notes",
-  "recent-files-obsidian",
   "obsidian-style-settings",
   "obsidian-git",
   "telegram-sync",
   "code-language-completer",
   "editing-toolbar",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "ninja-cursor"
 ]
