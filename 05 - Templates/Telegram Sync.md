@@ -1,4 +1,3 @@
 {{content:text}}
 
-
-Дата: {{messageDate:YYYYMMDD}} | Время: {{messageTime:mm:ss}}
+Дата: {{messageDate:DD-MM-YYYY}} | Время: {{messageTime:mm:ss}}
