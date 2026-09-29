@@ -3,14 +3,12 @@
   "supercharged-links-obsidian",
   "advanced-canvas",
   "calendar",
-  "callout-manager",
   "code-styler",
   "dataview",
   "highlightr-plugin",
   "home-tab",
   "homepage",
   "obsidian-kanban",
-  "make-md",
   "omnisearch",
   "obsidian-outliner",
   "url-into-selection",
@@ -21,5 +19,7 @@
   "code-language-completer",
   "editing-toolbar",
   "obsidian-icon-folder",
-  "ninja-cursor"
+  "ninja-cursor",
+  "callout-manager",
+  "make-md"
 ]
