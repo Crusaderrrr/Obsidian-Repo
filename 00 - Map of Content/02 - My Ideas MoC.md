@@ -23,3 +23,4 @@ note type: Map of Content
 
 # Книги
 - [[Books]]
+- [[Planned to read]]
