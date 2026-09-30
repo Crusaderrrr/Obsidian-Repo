@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Books/library/Записки из подполья.md",
+                "file": "02 - Books/library/1984.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Записки из подполья"
+              "title": "1984"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "ddaee05e9b99aeac",
   "lastOpenFiles": [
+    "02 - Books/library/Записки из подполья.md",
+    "02 - Books/library/1984.md",
     "02 - Books/00 Content/Записки из подполья Часть 1.md",
     "02 - Books/00 Content/Записки из подполья Часть 2.md",
     "02 - Books/00 Content/Planned to read.md",
