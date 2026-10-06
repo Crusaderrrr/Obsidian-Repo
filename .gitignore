@@ -2,3 +2,4 @@
 .trash/
 workspace
 workspace.json
+.makemd/
