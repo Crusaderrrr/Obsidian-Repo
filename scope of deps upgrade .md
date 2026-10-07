@@ -1,4 +1,0 @@
-- swap node version in dockerfile to node 24
-- upgrade dependencies (react, lodash, etc.)
-- upgrade devdependencies
-- remove unused dependencies
