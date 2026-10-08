@@ -24,24 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "05 - Templates/Book Template.md",
+      "timestamp": 1791448156801
+    },
+    {
+      "filepath": "02 - Books/library/Скотный двор.md",
+      "timestamp": 1791448087468
+    },
+    {
       "filepath": "02 - Books/Books.md",
-      "timestamp": 1791376588247
-    },
-    {
-      "filepath": "02 - Books/library/1984.md",
-      "timestamp": 1791376534109
-    },
-    {
-      "filepath": "02 - Books/00 Content/1984 Часть 1.md",
-      "timestamp": 1791376522660
-    },
-    {
-      "filepath": "02 - Books/00 Content/1984 Часть 3.md",
-      "timestamp": 1791376490617
-    },
-    {
-      "filepath": "02 - Books/00 Content/1984 Часть 2.md",
-      "timestamp": 1791376475778
+      "timestamp": 1791448079155
     }
   ],
   "bookmarkedFileStore": [],
