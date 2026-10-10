@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Books/Books.md",
+                "file": "02 - Books/library/Скотный двор.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "Скотный двор"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "ddaee05e9b99aeac",
   "lastOpenFiles": [
+    "02 - Books/Books.md",
     "01 - Areas/02 - Projects/GH Archive parser/GHA plan.md",
     "01 - Areas/02 - Projects/GH Archive parser",
     "02 - Books/00 Content/Устройство Мира 1984.md",
@@ -213,7 +214,6 @@
     "02 - Books/00 Content/Записки из подполья Часть 1.md",
     "02 - Books/00 Content/Записки из подполья Часть 2.md",
     "02 - Books/00 Content/Planned to read.md",
-    "02 - Books/Books.md",
     "00 - Map of Content/02 - My Ideas MoC.md",
     "00 - Map of Content/00 - Programming MoC.md",
     "03 - Telegram/Telegram BOT.md",
