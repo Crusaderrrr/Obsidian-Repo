@@ -25,7 +25,6 @@ note type: Map of Content
 - [[SOAP]]
 - [[RPC]]
 - [[Template Rendering]]
-- [[SSH Protocol]]
 - [[N+1 Problem]]
 - [[Composition over inheritance principle]]
 - [[grep]]
@@ -61,6 +60,7 @@ note type: Map of Content
 # Cryptography 
 - [[Blockchain]]
 - [[HMAC]]
+- [[UUID]]
 
 # Internet 
 - [[Internet of Things]]

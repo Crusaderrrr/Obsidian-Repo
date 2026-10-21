@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "02 - Books/library/Идиот.md",
-      "timestamp": 1792346416845
+      "filepath": "00 - Map of Content/00 - Programming MoC.md",
+      "timestamp": 1792575113669
     },
     {
-      "filepath": "02 - Books/Books.md",
-      "timestamp": 1792346409179
+      "filepath": "01 - Areas/01 - Programming/Cryptography/UUID.md",
+      "timestamp": 1792574620780
     },
     {
-      "filepath": "02 - Books/library/Американский Психопат.md",
-      "timestamp": 1792346162597
+      "filepath": "01 - Areas/01 - Programming/Internet/Web/Protocols.md",
+      "timestamp": 1792574606263
     },
     {
-      "filepath": "01 - Areas/02 - Projects/GH Archive parser/GHA plan.md",
-      "timestamp": 1792346157244
+      "filepath": "01 - Areas/01 - Programming/Internet/Web/HTTPS.md",
+      "timestamp": 1792573123619
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Internet/Web/SSl-TLS Protocol.md",
+      "timestamp": 1792573014728
     }
   ],
   "bookmarkedFileStore": [],
