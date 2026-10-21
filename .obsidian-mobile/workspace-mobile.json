@@ -106,7 +106,22 @@
         }
       },
       {
-        "id": "a136b0453afdc703",
+        "id": "1cdbf5af0879d47f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "afeedf6e88a353c6",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
