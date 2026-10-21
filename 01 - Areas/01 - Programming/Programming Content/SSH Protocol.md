@@ -12,3 +12,4 @@ There are two keys:
 - **Public key** - is uploaded to e.g. Bitbucket
 
 When you try to connect, Bitbucket sends a challenge encrypted with your public key. Only your private key can decrypt it and prove your identity — no password ever travels over the network.
+

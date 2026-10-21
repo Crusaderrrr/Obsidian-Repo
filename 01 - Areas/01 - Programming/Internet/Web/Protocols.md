@@ -1,4 +1,5 @@
 - [[SSH Protocol]]
 - [[Internet Protocol]]
 - [[HTTP]]
+- [[HTTPS]]
 - [[SSl-TLS Protocol]]
