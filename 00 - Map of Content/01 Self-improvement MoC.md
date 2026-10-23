@@ -5,6 +5,7 @@ tags:
   - "#self_improvement"
   - MoC
 note type: Map of Content
+sticker: emoji//1f4aa
 ---
 
 Здесь хранятся мои идеи, идеи из видео, книг или других источников о том, как можно улучшить своё самообразование.
