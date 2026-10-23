@@ -59,3 +59,5 @@ public class LoginAction extends ActionSupport {
 	- `<interceptors>` / `<default-interceptor-ref>` define stacks and choose the default one.
 	- `<global-results>` / `<global-exception-mappings>` are shared results and error handling.
 	- **`<include>`** splits configuration into several files.
+
+**ALSO**, Convention Plugin lets as replace some of the xml config with annotations like `@Action`, `@Result`, etc. 
