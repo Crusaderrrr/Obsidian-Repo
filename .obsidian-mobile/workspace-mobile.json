@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Areas/00 - Personal/Content/Hanna.md",
+                "file": "01 - Areas/00 - Personal/00 - Daily Notes/2026-10-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hanna"
+              "title": "2026-10-23"
             }
           }
         ]
@@ -214,6 +214,10 @@
   },
   "active": "ddaee05e9b99aeac",
   "lastOpenFiles": [
+    "01 - Areas/01 - Programming/Programming Content/Apache Struts.md",
+    "01 - Areas/01 - Programming/Database/DB - content/SQLite.md",
+    "01 - Areas/00 - Personal/Content/Hanna.md",
+    "01 - Areas/00 - Personal/00 - Daily Notes/2026-10-23.md",
     "00 - Map of Content/02 - My Ideas MoC.md",
     "01 - Areas/00 - Personal/Content/Wanna buy.md",
     "01 - Areas/01 - Programming/Cryptography/UUID.md",
@@ -237,10 +241,6 @@
     "02 - Books/00 Content/Planned to read.md",
     "00 - Map of Content/00 - Programming MoC.md",
     "03 - Telegram/Telegram BOT.md",
-    "test note 2.md",
-    "Test note.md",
-    "05 - Templates/Daily Note Template.md",
-    "01 - Areas/01 - Programming/Programming Content/How transactions work.md",
     "Tags/#algorithms",
     "Tags/#daily",
     "Tags/#programming",
