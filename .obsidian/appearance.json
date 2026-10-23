@@ -11,5 +11,7 @@
   "showRibbon": true,
   "textFontFamily": "",
   "baseFontSize": 15,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "JetBrains Mono"
 }

@@ -40,6 +40,7 @@ note type: Map of Content
 
 # Database
 - [[PostgreSQL]]
+- [[SQLite]]
 - [[ACID]]
 
 # Docker
@@ -89,6 +90,7 @@ note type: Map of Content
 - [[Spring Framework]]
 - [[Express.js]]
 - [[Svelte MoC|Svelte]]
+- [[Apache Struts]]
 
 # Algorithms
 - [[О-большое]]

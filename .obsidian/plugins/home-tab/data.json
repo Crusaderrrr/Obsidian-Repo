@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Apache Struts.md",
+      "timestamp": 1792756407580
+    },
+    {
       "filepath": "00 - Map of Content/00 - Programming MoC.md",
-      "timestamp": 1792575113669
+      "timestamp": 1792756389148
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Cryptography/UUID.md",
-      "timestamp": 1792574620780
+      "filepath": "01 - Areas/01 - Programming/Linux/Linux MoC.md",
+      "timestamp": 1792756386053
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Internet/Web/Protocols.md",
-      "timestamp": 1792574606263
+      "filepath": "01 - Areas/01 - Programming/Database/DB - content/SQLite.md",
+      "timestamp": 1792756032841
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Internet/Web/HTTPS.md",
-      "timestamp": 1792573123619
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Internet/Web/SSl-TLS Protocol.md",
-      "timestamp": 1792573014728
+      "filepath": "01 - Areas/01 - Programming/Programming Content/gRPC.md",
+      "timestamp": 1792756014224
     }
   ],
   "bookmarkedFileStore": [],
