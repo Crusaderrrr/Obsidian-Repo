@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Apache Struts.md",
-      "timestamp": 1792756407580
+      "filepath": "00 - Map of Content/00 - Programming MoC.md",
+      "timestamp": 1792766467051
     },
     {
-      "filepath": "00 - Map of Content/00 - Programming MoC.md",
-      "timestamp": 1792756389148
+      "filepath": "00 - Map of Content/02 - My Ideas MoC.md",
+      "timestamp": 1792766466083
+    },
+    {
+      "filepath": "00 - Map of Content/01 Self-improvement MoC.md",
+      "timestamp": 1792766458522
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Programming Content/Apache Struts.md",
+      "timestamp": 1792756407580
     },
     {
       "filepath": "01 - Areas/01 - Programming/Linux/Linux MoC.md",
       "timestamp": 1792756386053
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Database/DB - content/SQLite.md",
-      "timestamp": 1792756032841
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Programming Content/gRPC.md",
-      "timestamp": 1792756014224
     }
   ],
   "bookmarkedFileStore": [],

@@ -5,6 +5,7 @@ tags:
   - "#programming"
   - "#MoC"
 note type: Map of Content
+sticker: emoji//1f4bb
 ---
 - [[My Roadmap]]
 # General 

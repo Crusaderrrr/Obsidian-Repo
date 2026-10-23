@@ -4,6 +4,7 @@ modification date: Friday, 28th February 2025
 tags:
   - "#ideas"
 note type: Map of Content
+sticker: emoji//1f4ad
 ---
 Здесь будет **рандомная херня** которая мне показалась интересной/забавной и т.п..
 - [[Видос про траву]]
