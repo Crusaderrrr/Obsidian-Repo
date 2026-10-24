@@ -9,7 +9,15 @@
 ## How it works
 There are two keys:
 - **Private key** - stays on local machine, never shared
-- **Public key** - is uploaded to e.g. Bitbucket
+- **Public key** - is uploaded to e.g. Bitbucket or to the remote machine
 
 When you try to connect, Bitbucket sends a challenge encrypted with your public key. Only your private key can decrypt it and prove your identity — no password ever travels over the network.
 
+## Basic example (home server)
+- I **generate** both *private and public* keys on my pc
+- **put the public one on remote**, two ways:  
+	- create it 
+	- `ssh-copy-id -i ~/.ssh/[PKN].pub user@[RI]`
+		- *PKN* - public key name
+		- *RI* - remote IP
+- **connect** `ssh user@[RI]`
