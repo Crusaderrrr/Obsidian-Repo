@@ -21,3 +21,18 @@ When you try to connect, Bitbucket sends a challenge encrypted with your public 
 		- *PKN* - public key name
 		- *RI* - remote IP
 - **connect** `ssh user@[RI]`
+
+## Configuration
+All the config is stored in the `.ssh` folder, specific to each user (on Windows)
+
+A file with `.pub` is a public key and without it is private.
+
+There is a file `known_hosts`, which has host names and IPs
+
+Also a `config` file can be created to specify short names for hosts like that:
+```txt
+Host hs
+    HostName 192.168.1.142
+    User nikita
+```
+and connect with `ssh hs`.
