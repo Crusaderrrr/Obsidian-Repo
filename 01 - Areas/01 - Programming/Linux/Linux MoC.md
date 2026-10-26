@@ -10,3 +10,4 @@ This note is dedicated for the Linux Operating System.
 
 # Content
 - [[Linux Architecture|Architecture]]
+- [[Linux Commands]]
