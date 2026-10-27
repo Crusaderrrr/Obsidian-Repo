@@ -20,3 +20,9 @@
 https://vm.tiktok.com/ZN8Dk8yH9
 
 Дата: 24-10-2026 | Время: 02:29
+
+***
+
+https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh
+
+Дата: 27-10-2026 | Время: 32:06

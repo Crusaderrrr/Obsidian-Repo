@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Linux Commands.md",
-      "timestamp": 1793020400842
+      "filepath": "01 - Areas/01 - Programming/Linux/Linux Commands.md",
+      "timestamp": 1793126311503
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Linux/Linux MoC.md",
-      "timestamp": 1793020388669
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Linux/Linux Architecture.md",
-      "timestamp": 1793020381507
-    },
-    {
-      "filepath": "00 - Map of Content/00 - Programming MoC.md",
-      "timestamp": 1793020377837
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Programming Content/Apache Struts.md",
-      "timestamp": 1793020375885
+      "filepath": "conflict-files-obsidian-git.md",
+      "timestamp": 1793126309030
     }
   ],
   "bookmarkedFileStore": [],
