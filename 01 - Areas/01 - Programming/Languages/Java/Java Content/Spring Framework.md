@@ -30,3 +30,4 @@ It provides annotations, that help with building maintainable systems.
 - [[Thymeleaf]]
 - [[Database]]
 - [[Empty constructor]]
+- [[Spring Filters & Interceptors]]
