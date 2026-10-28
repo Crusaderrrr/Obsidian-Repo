@@ -5,7 +5,6 @@ tags:
   - daily
 note type: Daily Note
 ---
-## Задачи на день
+## Идеи
 - [ ] 
 
-## Идеи и заметки
