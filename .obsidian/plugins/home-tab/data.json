@@ -24,12 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "conflict-files-obsidian-git.md",
-      "timestamp": 1793126323080
+      "filepath": "01 - Areas/01 - Programming/Languages/Java/Java Content/Spring Framework.md",
+      "timestamp": 1793198332342
     },
     {
-      "filepath": "01 - Areas/01 - Programming/Linux/Linux Commands.md",
-      "timestamp": 1793126321015
+      "filepath": "01 - Areas/01 - Programming/Programming Content/Spring Filters & Interceptors.md",
+      "timestamp": 1793197571651
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Languages/Java/Java Content/Empty constructor.md",
+      "timestamp": 1793197535311
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Languages/Java/Java Content/Database.md",
+      "timestamp": 1793197526600
+    },
+    {
+      "filepath": "01 - Areas/01 - Programming/Languages/Java/Java Content/How Spring works.md",
+      "timestamp": 1793197515623
     }
   ],
   "bookmarkedFileStore": [],
