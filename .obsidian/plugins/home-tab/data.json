@@ -22,28 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "How to properly upgrade versions.md",
-      "timestamp": 1793282023508
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Languages/Java/Java.md",
-      "timestamp": 1793278739712
-    },
-    {
-      "filepath": "00 - Map of Content/00 - Programming MoC.md",
-      "timestamp": 1793278735221
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Programming Content/Docker Compose.md",
-      "timestamp": 1793278734518
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Programming Content/My Roadmap.md",
-      "timestamp": 1793269625567
-    }
-  ],
+  "recentFilesStore": [],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
