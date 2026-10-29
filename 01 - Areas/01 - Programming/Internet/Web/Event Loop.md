@@ -17,17 +17,17 @@ Event loop is based on the [[Стек и Рекурсия|stack]], in few words 
 Is used to declare event listeners and similar things. For example if we add two buttons (event listeners) both will be registered in web api and then, when action is executed this task will be put to *task queue* which is used for handling asynchronous actions. 
 
 **Actually**, there are two task queues: 
-- *Macrotask* queue (очередь событий)
-	- Promises
+- *Microtask* queue (очередь микрозадач) priority
+	- Promises (`.then`, `await`)
 	- queueMicrotask
 	- [[Mutation Observer]]
-- *Microtask* queue (очередь задач) priority
+- *Macrotask* queue (очередь задач)
 	- Timers (setTimeout, setInterval)
 	- events (click, load, etc.)
 	- Browser’s nuances (render, I/O, etc.)
 
 Promises are always put in microtask queue. 
-After finishing all the stack’s tasks, all the microtasks are resolved and then only one microtask, because inside this microtask could possibly be more macrotasks. 
+After finishing all the stack’s tasks, all the microtasks are resolved and then only one macrotask, because that macrotask can schedule new microtasks, which run before the next macrotask. 
 
 **The queue is like that**:
 1. Call stack

@@ -19,3 +19,7 @@ Its **key parts** are:
 
 <mark style="background:#ff4d4f">IMPORTANT to understand</mark>:
 - [[VM vs Docker Container]]
+
+## Content 
+- [[Docker Image build and registry push]]
+- [[Docker Compose]]
