@@ -8,3 +8,4 @@ note type: Daily Note
 ## Идеи
 - [ ] 
 
+ 
