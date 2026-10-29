@@ -149,7 +149,7 @@
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
@@ -194,7 +194,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,6 +215,9 @@
   },
   "active": "ddaee05e9b99aeac",
   "lastOpenFiles": [
+    "01 - Areas/01 - Programming/Programming Content/Docker Image build and registry push.md",
+    "01 - Areas/01 - Programming/Programming Content/Docker Compose.md",
+    "01 - Areas/01 - Programming/Programming Content/How to properly upgrade versions.md",
     "05 - Templates/Daily Note Template.md",
     "01 - Areas/00 - Personal/00 - Daily Notes/2026-10-28.md",
     "01 - Areas/00 - Personal/00 - Daily Notes/2026-10-27.md",
@@ -241,9 +244,6 @@
     "01 - Areas/02 - Projects/GH Archive parser/GHA plan.md",
     "01 - Areas/02 - Projects/GH Archive parser",
     "02 - Books/00 Content/Устройство Мира 1984.md",
-    "02 - Books/00 Content/1984 Часть 1.md",
-    "02 - Books/00 Content/1984 Часть 3.md",
-    "02 - Books/00 Content/1984 Часть 2.md",
     "Tags/#algorithms",
     "Tags/#daily",
     "Tags/#programming",
