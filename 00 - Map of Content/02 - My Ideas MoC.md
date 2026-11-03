@@ -25,3 +25,8 @@ sticker: emoji//1f4ad
 # Книги
 - [[Books]]
 - [[Planned to read]]
+
+# Projects
+- [[Trust The Process]]
+- PC Club
+- Start the channel on youtube 
