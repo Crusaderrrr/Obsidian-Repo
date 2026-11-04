@@ -7,26 +7,46 @@ tags:
   - spring
 note type: Informational Note
 ---
-![[Pasted image 20250818172637.png]]
+Annotation that makes some method transactional (wraps it into transaction). 
+Transactions in Spring use [[AOP]].
 
-Okay, imagine that we are making a simple SQL query to our database, and inside this query we need to perform *multiple queries*. 
-To achieve it, we use `@Transactional` annotation.
+**When is it triggered?**
+- When we call an annotated method using a proxy (from other class)
 
-Spring understands that on the part of the DB, it is necessary to create a transaction, in order to make all these queries succeed.
+There are two proxy types:
+- JDK Dynamic Proxy (Interface based)
+- CGLib Proxy (Class based)
+- More info: [[Proxy Types]]
 
-**But**
-We did not specify any logic for this transaction, and it is compulsory.
+**Transactional adds interceptors into the call chain of the target method**.
+- they wrap the target method and run something before and/or after the method finished
+- by default there is only one interceptor `TransactionInterceptor`, which opens/joins a transaction and then commits it or rolls back
+- [[What TransactionInterceptor does]]
+E.g.
+```java
+public interface MethodInterceptor {
+    Object invoke(MethodInvocation invocation) throws Throwable;
+}
+```
+**How the chain moves forward** (in case of multiple interceptors):
+Spring’s `ReflectiveMethodInvocation` holds the list of interceptors and an index. Simplified:
+```java
+public Object proceed() throws Throwable {
+    if (currentIndex == interceptors.size() - 1) {
+        return method.invoke(target, args);           // end of chain: your real method
+    }
+    MethodInterceptor next = interceptors.get(++currentIndex);
+    return next.invoke(this);                         // that interceptor will call proceed() again
+}
+```
 
-Spring understands it, and creates a proxy (generates a code):
-![[Pasted image 20250818173532.png]]
-
-**But why does this happen**?
-- Because in this new class Spring adds some secret logic
-
-**Secret logic**:
-![[Pasted image 20250818173842.png]]
-
-- Start Transaction
-- Perform original actions
-- End Transaction
-- Save this new bean to ApplicationContext as proxy, *but* with name of the original action
+### Simple example of how Transactional works
+![[Pasted image 20261104140256.png]]
+- controller calls a service method
+- if a service method has Transactional annotation the proxy is created 
+- that proxy is called instead of a real service
+- interceptor chain is called 
+- after interceptors the target method is called 
+- when method finishes:
+	- normal return -> transaction is commited
+	- thrown error -> rollback 
