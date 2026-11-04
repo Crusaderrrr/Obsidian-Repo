@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Areas/00 - Personal/00 - Daily Notes/30.10.2026.md",
+                "file": "01 - Areas/00 - Personal/00 - Daily Notes/04.11.2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "30.10.2026"
+              "title": "04.11.2026"
             }
           }
         ]
@@ -106,7 +106,7 @@
         }
       },
       {
-        "id": "d6052d952db66ef6",
+        "id": "0a44133d4949d201",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -121,7 +121,7 @@
         }
       },
       {
-        "id": "0a44133d4949d201",
+        "id": "9521d0451a515b9a",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -215,11 +215,12 @@
   },
   "active": "ddaee05e9b99aeac",
   "lastOpenFiles": [
+    "01 - Areas/00 - Personal/00 - Daily Notes/30.10.2026.md",
+    "01 - Areas/00 - Personal/00 - Daily Notes/04.11.2026.md",
     "01 - Areas/02 - Projects/TTP/TTP Kanban.md",
     "01 - Areas/02 - Projects/TTP",
     "01 - Areas/00 - Personal/Content/Trust The Process.md",
     "05 - Templates/Daily Note Template.md",
-    "01 - Areas/00 - Personal/00 - Daily Notes/30.10.2026.md",
     "01 - Areas/00 - Personal/00 - Daily Notes/29.10.2026.md",
     "01 - Areas/00 - Personal/00 - Daily Notes/2026-10-29.md",
     "01 - Areas/00 - Personal/00 - Daily Notes/2026-10-28.md",
@@ -243,7 +244,6 @@
     "01 - Areas/00 - Personal/Content/Wanna buy.md",
     "01 - Areas/01 - Programming/Cryptography/UUID.md",
     "01 - Areas/01 - Programming/Internet/Web/HTTPS.md",
-    "02 - Books/library/Американский Психопат.md",
     "01 - Areas/02 - Projects/GH Archive parser",
     "Tags/#algorithms",
     "Tags/#daily",
