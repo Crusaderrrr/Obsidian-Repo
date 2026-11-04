@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "00 - Map of Content/02 - My Ideas MoC.md",
-      "timestamp": 1793717784824
+      "filepath": "01 - Areas/01 - Programming/Programming Content/AOP.md",
+      "timestamp": 1793801441243
     },
     {
-      "filepath": "01 - Areas/02 - Projects/TTP/TTP Kanban.md",
-      "timestamp": 1793708804011
+      "filepath": "01 - Areas/01 - Programming/Languages/Java/Java Content/@Transactional.md",
+      "timestamp": 1793800810844
     },
     {
-      "filepath": "01 - Areas/02 - Projects/Course Projects/Final Project/Final Project Kanban.md",
-      "timestamp": 1793708798195
+      "filepath": "01 - Areas/01 - Programming/Programming Content/Proxy Types.md",
+      "timestamp": 1793800806905
     },
     {
-      "filepath": "01 - Areas/02 - Projects/Course Projects/Final Project/Final Project.md",
-      "timestamp": 1793708797466
+      "filepath": "01 - Areas/01 - Programming/Programming Content/What TransactionInterceptor does.md",
+      "timestamp": 1793800655508
     },
     {
-      "filepath": "01 - Areas/02 - Projects/Course Projects/Final Project/Final Project Canvas.canvas",
-      "timestamp": 1793708772257
+      "filepath": "01 - Areas/01 - Programming/Code Standards/Patterns/Decorator Pattern.md",
+      "timestamp": 1793799512062
     }
   ],
   "bookmarkedFileStore": [],
