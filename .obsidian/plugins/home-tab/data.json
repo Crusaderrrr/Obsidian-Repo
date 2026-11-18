@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "conflict-files-obsidian-git.md",
+      "timestamp": 1795008395904
+    },
+    {
       "filepath": "01 - Areas/01 - Programming/Languages/Java/Java Content/Exceptions.md",
-      "timestamp": 1795005106010
+      "timestamp": 1795008390053
     }
   ],
   "bookmarkedFileStore": [],
