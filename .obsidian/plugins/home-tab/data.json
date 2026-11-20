@@ -24,20 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "XML vs HTML vs XHTML.md",
+      "timestamp": 1795186391038
+    },
+    {
+      "filepath": "00 - Map of Content/00 - Programming MoC.md",
+      "timestamp": 1795186360988
+    },
+    {
       "filepath": "01 - Areas/00 - Personal/00 - Daily Notes/18.11.2026.md",
-      "timestamp": 1795008427332
-    },
-    {
-      "filepath": "01 - Areas/00 - Personal/00 - Daily Notes/17.11.2026.md",
-      "timestamp": 1795008423320
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Programming Content/AOP.md",
-      "timestamp": 1795008422393
-    },
-    {
-      "filepath": "01 - Areas/01 - Programming/Languages/Java/Java Content/Exceptions.md",
-      "timestamp": 1795008419251
+      "timestamp": 1795186265836
     }
   ],
   "bookmarkedFileStore": [],
