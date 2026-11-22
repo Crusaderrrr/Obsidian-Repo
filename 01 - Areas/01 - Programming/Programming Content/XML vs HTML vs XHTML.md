@@ -1,0 +1,15 @@
+- **XML** (eXtensible Markup Language)
+	- can have any tag you want e.g.`<invoice>`, which in html would be incorrect
+	- It is strict, if a tag is not closed, quote is not closed, etc. the parsing fails 
+	- case sensitive
+	- *it is about structure*, mostly used in config files (`pom.xml`)
+- **HTML** (HyperText Markup Language)
+	- pre-defined tags (`<div>`, `<p>`)
+	- the tags can be left without closing like `<img>`
+	- case insensitive
+	- *it is about display*
+- **XHTML** (eXtensible HTML)
+	- HTML rewritten to follow XML rules
+	- The aim was that pages could be handled by any XML tool and mixed with other XML formats like SVG and MathML
+	- something in between xml and html
+	- case sensitive

@@ -29,6 +29,7 @@ sticker: emoji//1f4bb
 - [[N+1 Problem]]
 - [[Composition over inheritance principle]]
 - [[grep]]
+- [[XML vs HTML vs XHTML]]
 
 # AI
 - [[Mastering Claude Code]]
