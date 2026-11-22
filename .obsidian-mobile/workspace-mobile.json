@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Areas/00 - Personal/00 - Daily Notes/17.11.2026.md",
+                "file": "05 - Templates/Weekly Note Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "17.11.2026"
+              "title": "Weekly Note Template"
             }
           }
         ]
@@ -215,8 +215,15 @@
   },
   "active": "ddaee05e9b99aeac",
   "lastOpenFiles": [
-    "01 - Areas/00 - Personal/00 - Daily Notes/04.11.2026.md",
+    "01 - Areas/00 - Personal/01 - Weekly Notes/W48-2026.md",
+    "05 - Templates/Weekly Note Template.md",
+    "05 - Templates/Daily Note Template.md",
+    "01 - Areas/00 - Personal/00 - Daily Notes/18.11.2026.md",
     "01 - Areas/00 - Personal/00 - Daily Notes/17.11.2026.md",
+    "01 - Areas/01 - Programming/Programming Content/XML vs HTML vs XHTML.md",
+    "02 - Books/00 Content/Идиот Часть 1.md",
+    "02 - Books/00 Content/Идиот Часть 2.md",
+    "01 - Areas/00 - Personal/00 - Daily Notes/04.11.2026.md",
     "01 - Areas/01 - Programming/Programming Content/AOP.md",
     "01 - Areas/01 - Programming/Programming Content/Proxy Types.md",
     "04 - Attachments/Pasted image 20261104125218.png",
@@ -227,7 +234,6 @@
     "01 - Areas/02 - Projects/TTP/TTP Kanban.md",
     "01 - Areas/02 - Projects/TTP",
     "01 - Areas/00 - Personal/Content/Trust The Process.md",
-    "05 - Templates/Daily Note Template.md",
     "01 - Areas/00 - Personal/00 - Daily Notes/29.10.2026.md",
     "01 - Areas/00 - Personal/00 - Daily Notes/2026-10-29.md",
     "01 - Areas/00 - Personal/00 - Daily Notes/2026-10-28.md",
@@ -241,12 +247,6 @@
     "conflict-files-obsidian-git.md",
     "01 - Areas/01 - Programming/Linux/Linux Commands.md",
     "01 - Areas/00 - Personal/00 - Daily Notes/23.10.2026.md",
-    "01 - Areas/00 - Personal/00 - Daily Notes/2026-10-26.md",
-    "01 - Areas/00 - Personal/00 - Daily Notes/2026-10-23.md",
-    "home-server-setup.md",
-    "01 - Areas/01 - Programming/Programming Content/Apache Struts.md",
-    "01 - Areas/01 - Programming/Database/DB - content/SQLite.md",
-    "01 - Areas/00 - Personal/Content/Hanna.md",
     "01 - Areas/02 - Projects/GH Archive parser",
     "Tags/#algorithms",
     "Tags/#daily",
