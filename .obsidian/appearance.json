@@ -3,10 +3,11 @@
   "enabledCssSnippets": [
     "extended-colorschemes",
     "custom-background",
-    "books"
+    "books",
+    "link-color"
   ],
   "theme": "system",
-  "accentColor": "#a61c88",
+  "accentColor": "#9d519e",
   "showViewHeader": true,
   "showRibbon": true,
   "textFontFamily": "",
