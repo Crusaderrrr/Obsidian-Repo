@@ -1,0 +1,7 @@
+/* Links match the root icon color (Icon Folder: #a30080) */
+body {
+  --link-color: #a30080;
+  --link-color-hover: #a30080;
+  --link-external-color: #a30080;
+  --link-external-color-hover: #a30080;
+}

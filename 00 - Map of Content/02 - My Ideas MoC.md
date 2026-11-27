@@ -13,6 +13,9 @@ sticker: emoji//1f4ad
 - [[Hanna]]
 - [[Wanna buy]]
 
+## Games
+- [[Hollow Knight Platinum plan]]
+
 # Tattoo
 - [[Irezumi]]
 

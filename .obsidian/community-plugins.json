@@ -11,14 +11,13 @@
   "obsidian-kanban",
   "omnisearch",
   "obsidian-outliner",
-  "url-into-selection",
   "periodic-notes",
-  "obsidian-style-settings",
   "obsidian-git",
   "telegram-sync",
   "code-language-completer",
   "obsidian-icon-folder",
   "ninja-cursor",
   "callout-manager",
-  "make-md"
+  "make-md",
+  "obsidian-style-settings"
 ]
